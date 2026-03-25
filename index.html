@@ -181,6 +181,37 @@ body{font-family:Arial,sans-serif;background:#0a0a1a;color:#fff;direction:rtl}
   <p>© 2024 عبدالرحیم ساریو — لیبر کونسلر، سہراب گوٹھ ٹاؤن، کراچی</p>
   <p style="margin-top:5px">Sindh Local Government Act 2013 | Abdul Rahim Sario</p>
 </div>
+    <form action="https://formspree.io/f/abcxyz" method="POST" enctype="multipart/form-data">
+
+<h2>شکایت درج کریں</h2>
+
+<input type="text" name="name" placeholder="آپ کا نام" required><br><br>
+
+<input type="tel" name="phone" placeholder="موبائل نمبر" required><br><br>
+
+<textarea name="complaint" placeholder="اپنی شکایت لکھیں" required></textarea><br><br>
+
+<button type="button" onclick="getLocation()">📍 لوکیشن حاصل کریں</button>
+<input type="text" id="location" name="location" placeholder="لوکیشن" readonly><br><br>
+
+<label>تصویر:</label>
+<input type="file" name="image" accept="image/*"><br><br>
+
+<label>ویڈیو:</label>
+<input type="file" name="video" accept="video/*"><br><br>
+
+<button type="submit">شکایت جمع کریں</button>
+
+</form>
+
+<script>
+function getLocation() {
+navigator.geolocation.getCurrentPosition(function(position) {
+document.getElementById("location").value =
+position.coords.latitude + "," + position.coords.longitude;
+});
+}
+</script>
 
 <script>
 function submitForm(){
