@@ -1,62 +1,107 @@
-# Project Structure
+# Sindh Local Government Act 2013  
+## 📘 Project Structure Document
 
-## Version
-1.0
-
----
-
-# Root Files
-
-- README.md
-- PROJECT-CHARTER.md
-- ROADMAP.md
-- MISSION.md
-- CONTRIBUTING.md
-- CHANGELOG.md
-- LICENSE
-- STRUCTURE.md
+This document defines the official structure of the legal knowledge portal for the Sindh Local Government Act 2013.
 
 ---
 
-# Main Directories
+## ⚖️ Core Content Model (Per Section)
+
+Each section of the Act will include the following structured layers:
+
+---
+
+### 1. 📜 Original Legal Text
+- Authentic text of the Act (as published in official gazette)
+- No modifications allowed
+- Reference-based formatting only
+
+---
+
+### 2. 🌐 Authentic Urdu Translation
+- Legal-accurate translation
+- Meaning-based (not word-to-word only)
+- Simple but legally correct language
+
+---
+
+### 3. 🧠 Simplified Explanation
+- Plain language explanation
+- Real-world understanding
+- Examples for councillors, officials, and citizens
+
+---
+
+### 4. ⚖️ Relevant Case Laws
+- Sindh High Court judgments
+- Supreme Court of Pakistan rulings (if applicable)
+- Topic-wise categorization
+
+---
+
+### 5. 📢 Notifications & Government Orders
+- Official Sindh Government notifications
+- Amendments and circulars
+- Gazette references
+
+---
+
+### 6. 📝 RTI Sample Requests
+- Right to Information templates
+- Section-specific information requests
+- Editable formats for citizens
+
+---
+
+### 7. 🏛️ Resolution Templates
+- Council meeting resolutions
+- Municipal governance drafts
+- Legal formatting included
+
+---
+
+### 8. 📌 Practical Examples
+- Real-life governance scenarios
+- Administrative applications
+- Local government use cases
+
+---
+
+## 📂 Folder Structure (Recommended)
 
 docs/
-laws/
-rules/
-notifications/
-judgments/
-templates/
-rti/
-resolutions/
-speeches/
-translations/
-assets/
-images/
-api/
-data/
+ ┣ chapter-1.md
+ ┣ chapter-2.md
+ ┣ chapter-3.md
+ ┣ amendments.md
+ ┣ notifications.md
+ ┣ case-law.md
+ ┣ rti-templates.md
+ ┣ resolutions.md
+ ┣ commentary.md
+ ┗ index.md
 
 ---
 
-# Languages
+## 🌐 Project Vision
 
-- English
-- اردو
-- سنڌي
+This project aims to become:
 
----
-
-# Development Phases
-
-Phase 1: Project Foundation ✅
-
-Phase 2: Legal Documentation
-
-Phase 3: Website Development
-
-Phase 4: AI Integration
-
-Phase 5: Public Release
+- A public legal knowledge portal
+- A councillor support system
+- A citizen rights awareness platform
+- A structured legal reference database
 
 ---
 
-Last Updated: July 2026
+## 🚀 Development Philosophy
+
+- Accuracy first (legal authenticity is mandatory)
+- Simplicity second (public understanding)
+- Structure always (no unorganized legal dumping)
+- Scalability for future AI integration
+
+---
+
+## 👤 Maintainer
+Abdul Raheem Sario
