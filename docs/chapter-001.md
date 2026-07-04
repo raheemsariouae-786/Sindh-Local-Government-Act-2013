@@ -12,7 +12,33 @@ Sindh Local Government Act, 2013
 
 ### Section 1
 Short title, extent and commencement.
+## Section 1
 
+### Official Title
+
+Short title, extent and commencement.
+
+### Purpose
+
+This section provides the official name of the Act, its territorial extent, and the date on which it comes into force.
+
+### Official Text
+
+(To be added from the official Gazette without any modification.)
+
+### Notes
+
+- This is the opening section of the Act.
+- It defines the legal title and commencement of the Act.
+
+### References
+
+- Sindh Local Government Act, 2013
+- Official Gazette of Sindh
+
+### Status
+
+🟡 Under Documentation
 ### Section 2
 Exception.
 
