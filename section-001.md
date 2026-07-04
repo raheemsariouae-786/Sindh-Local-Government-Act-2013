@@ -1,74 +1,88 @@
-# سندھ لوکل گورنمنٹ ایکٹ 2013
+# Section 001
 
-# سیکشن 1
+## Official Information
 
-## عنوان
-(بعد میں درج کیا جائے گا)
+**Section Title:** Short title, extent and commencement
 
----
+**Official Source:** Sindh Local Government Act, 2013 (Official Gazette)
 
-# اصل قانونی متن
-
-> مستند سرکاری متن یہاں شامل کیا جائے گا۔
+**Chapter:** Chapter I – Introduction
 
 ---
 
-# مستند اردو ترجمہ
+## Official Legal Text
 
-> یہاں قانونی ترجمہ شامل ہوگا۔
-
----
-
-# آسان تشریح
-
-> عام شہری، کونسلر اور سرکاری افسران کے لیے آسان وضاحت۔
+Reference:
+See the Official Gazette / Sindh Local Government Act, 2013.
 
 ---
 
-# ترامیم
+## Authentic Urdu Explanation
 
-> اس سیکشن میں ہونے والی تمام ترامیم۔
-
----
-
-# متعلقہ نوٹیفکیشن
-
-> سرکاری نوٹیفکیشن۔
+(یہاں ہماری تیار کردہ آسان مگر درست وضاحت ہوگی۔)
 
 ---
 
-# متعلقہ عدالتی فیصلے
+## Authentic Sindhi Explanation
 
-> سندھ ہائی کورٹ اور سپریم کورٹ کے فیصلے۔
-
----
-
-# RTI درخواست کا نمونہ
-
-> اگر اس سیکشن سے متعلق معلومات مانگنی ہوں۔
+(هتي اسان جي تيار ڪيل سادي ۽ صحيح وضاحت هوندي.)
 
 ---
 
-# قرارداد کا نمونہ
+## Amendment History
 
-> اگر کونسل میں قرارداد لانی ہو۔
-
----
-
-# عملی مثال
-
-> حقیقی زندگی کی مثال۔
+(To be documented)
 
 ---
 
-# متعلقہ قوانین
+## Related Rules
 
-- سندھ لوکل گورنمنٹ رولز
-- سندھ RTI ایکٹ 2016
-- متعلقہ نوٹیفکیشن
+(To be documented)
 
 ---
 
-# آخری اپڈیٹ
+## Related Notifications
 
-Version 1.0
+(To be documented)
+
+---
+
+## Related Case Law
+
+(To be documented)
+
+---
+
+## RTI Template
+
+(To be documented)
+
+---
+
+## Resolution Template
+
+(To be documented)
+
+---
+
+## Practical Example
+
+(To be documented)
+
+---
+
+## Cross References
+
+- Chapter I
+- Section 2
+- Section 3
+
+---
+
+## Documentation Status
+
+🟢 Official Structure Verified
+
+🟡 Legal Research In Progress
+
+Version: 2.0
