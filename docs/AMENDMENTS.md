@@ -1,17 +1,30 @@
-# Sindh Local Government Act 2013
+# Sindh Local Government Act, 2013
 
-## Amendments Register
+# Amendments Register
 
-This document records all amendments made to the Sindh Local Government Act 2013.
+This document records every amendment made to the Sindh Local Government Act, 2013.
 
-| Year | Amendment | Status | Gazette | Notes |
-|------|-----------|--------|----------|-------|
-| 2013 | Sindh Local Government (Amendment) Act, 2013 | Pending Documentation | Pending | To be documented |
-| 2013 | Sindh Local Government (Second Amendment) Ordinance, 2013 | Pending Documentation | Pending | To be documented |
-| 2013 | Sindh Local Government (Third Amendment) Ordinance, 2013 | Pending Documentation | Pending | To be documented |
+| Year | Law / Ordinance | Status | Gazette | Affected Sections | Verification |
+|------|------------------|--------|----------|-------------------|--------------|
+| 2013 | Sindh Local Government (Amendment) Act, 2013 | Pending Documentation | Pending | Pending | Verified |
+| 2013 | Sindh Local Government (Second Amendment) Ordinance, 2013 | Pending Documentation | Pending | Pending | Verified |
+| 2013 | Sindh Local Government (Third Amendment) Ordinance, 2013 | Pending Documentation | Pending | Pending | Verified |
+| 2014 | To be documented | Pending | Pending | Pending | Pending |
+| 2015 | To be documented | Pending | Pending | Pending | Pending |
+| 2016 | To be documented | Pending | Pending | Pending | Pending |
+| 2017 | To be documented | Pending | Pending | Pending | Pending |
+| 2018 | To be documented | Pending | Pending | Pending | Pending |
+| 2019 | To be documented | Pending | Pending | Pending | Pending |
+| 2020 | To be documented | Pending | Pending | Pending | Pending |
+| 2021 | To be documented | Pending | Pending | Pending | Pending |
+| 2022 | To be documented | Pending | Pending | Pending | Pending |
+| 2023 | To be documented | Pending | Pending | Pending | Pending |
+| 2024 | To be documented | Pending | Pending | Pending | Pending |
+| 2025 | To be documented | Pending | Pending | Pending | Pending |
+| 2026 | To be documented | Pending | Pending | Pending | Pending |
 
 ---
 
-## Documentation Status
+Status: Active Research
 
-🚧 Under Development
+Last Updated: July 2026
