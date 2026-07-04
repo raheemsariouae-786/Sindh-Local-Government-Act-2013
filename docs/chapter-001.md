@@ -8,8 +8,6 @@ Sindh Local Government Act, 2013
 
 ---
 
-## Sections
-
 ### Section 1
 Short title, extent and commencement.
 ## Section 1
@@ -56,7 +54,56 @@ Omitted.
 
 ### Section 7
 Council to be a body corporate.
+## Sections
 
+### Section 1
+Short title, extent and commencement.
+
+### Section 2
+Exception.
+
+### Section 3
+Definitions.
+
+### Section 4
+Succession.
+
+### Section 5
+Council to work within the framework of the Provincial Government.
+
+### Section 6
+Omitted.
+
+### Section 7
+Council to be a body corporate.
+
+---
+
+## Detailed Documentation
+
+## Section 1
+
+### Official Title
+Short title, extent and commencement.
+
+### Purpose
+...
+
+### Official Text
+...
+
+### Notes
+...
+
+### References
+...
+
+### Status
+🟡 Under Documentation
+
+## Chapter Status
+
+✅ Official Chapter Verified
 ---
 
 ## Chapter Status
