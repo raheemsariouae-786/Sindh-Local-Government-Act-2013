@@ -8,27 +8,49 @@
 
 ## Purpose
 
-This chapter explains the purpose and scope of the Sindh Local Government Act 2013.
+This chapter explains the purpose and scope of the Sindh Loca# Chapter I
+
+# INTRODUCTION
+
+Official Source:
+Sindh Local Government Act, 2013
+(Sindh Act No. XLII of 2013)
 
 ---
 
-## Sections Included
+## Sections
 
-- Section 1
-- Section 2
-- Section 3
+### Section 1
+Short title, extent and commencement.
+
+### Section 2
+Exception.
+
+### Section 3
+Definitions.
+
+### Section 4
+Succession.
+
+### Section 5
+Council to work within the framework of the Provincial Government.
+
+### Section 6
+Omitted.
+
+### Section 7
+Council to be a body corporate.
 
 ---
 
-## Notes
+## Chapter Status
 
-This chapter will be documented section by section with:
+✅ Official Chapter Verified
 
-- Original Legal Text
-- Authentic Urdu Translation
-- Simplified Explanation
-- Case Law
-- Notifications
-- RTI Sample
-- Resolution Template
-- Practical Examples
+Sections: 1–7
+
+Status:
+Ready for detailed documentation.
+
+Source:
+Official Gazette of Sindh.
