@@ -1,15 +1,5 @@
 # Chapter I
 
-## Title
-
-(To be documented)
-
----
-
-## Purpose
-
-This chapter explains the purpose and scope of the Sindh Loca# Chapter I
-
 # INTRODUCTION
 
 Official Source:
