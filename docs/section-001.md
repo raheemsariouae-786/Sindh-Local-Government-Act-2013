@@ -6,7 +6,7 @@
 
 (1) This Act may be called the Sindh Local Government Act, 2013.
 
-(2) It extends to the whole of the Province of Sindh.
+(2) It shall extend to the whole of the Province of Sindh.
 
 (3) It shall come into force at once.
 ---
@@ -20,8 +20,7 @@
 
 (2) هي قانون سڄي صوبي سنڌ تي لاڳو ٿيندو.
 
-(3) هي قانون فوري طور نافذ العمل ٿيندو.
-
+(3) هي قانون فوري طور نافذ العمل ٿيندو
 ## 🌐 مستند اردو ترجمہ
 
 **دفعہ 1 — مختصر عنوان، دائرۂ اطلاق اور نفاذ**
