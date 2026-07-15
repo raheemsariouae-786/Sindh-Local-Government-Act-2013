@@ -12,10 +12,7 @@
     padding: 20px;
     color: #1e2327;
   }
-  .container {
-    max-width: 700px;
-    margin: auto;
-  }
+  .container { max-width: 700px; margin: auto; }
   header {
     background: #1e5631;
     color: white;
@@ -34,38 +31,47 @@
     box-shadow: 0 2px 6px rgba(0,0,0,0.08);
   }
   .card h2 { margin-top: 0; color: #1e5631; font-size: 1.15em; }
+  .chapter-block { margin-bottom: 18px; }
+  .chapter-title {
+    font-weight: bold;
+    color: #1e5631;
+    font-size: 1em;
+    margin: 14px 0 8px 0;
+    border-bottom: 2px solid #e0e8e3;
+    padding-bottom: 4px;
+  }
   .section-list a {
-    display: block;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background: #f9f9f9;
     border-right: 5px solid #1e5631;
-    padding: 12px 15px;
-    margin: 8px 0;
+    padding: 10px 15px;
+    margin: 6px 0;
     border-radius: 6px;
     text-decoration: none;
     color: #1e2327;
     font-weight: bold;
+    font-size: 0.92em;
   }
-  .section-list a:hover { background: #eef5ef; }
+  .section-list a.omitted { border-right-color: #999; color: #777; }
   .status-tag {
-    display: inline-block;
-    font-size: 0.75em;
+    font-size: 0.7em;
     padding: 2px 8px;
     border-radius: 10px;
     background: #d4edda;
     color: #1e5631;
-    margin-right: 8px;
+    white-space: nowrap;
   }
-  .pending {
-    color: #888;
-    font-size: 0.9em;
-    padding: 10px 15px;
-  }
-  footer {
+  .status-tag.omitted-tag { background: #eee; color: #777; }
+  .loading { text-align: center; color: #888; padding: 20px; font-size: 0.9em; }
+  .progress-stats {
     text-align: center;
-    font-size: 0.85em;
-    color: #666;
-    margin-top: 25px;
+    font-size: 0.9em;
+    color: #555;
+    margin-bottom: 10px;
   }
+  footer { text-align: center; font-size: 0.85em; color: #666; margin-top: 25px; }
 </style>
 </head>
 <body>
@@ -79,34 +85,18 @@
 
   <div class="card">
     <h2>📖 منصوبے کا تعارف</h2>
-    <p>
-      یہ منصوبہ سندھ لوکل گورنمنٹ ایکٹ 2013 کو کونسلرز، چیئرمینز، وکلاء، سرکاری افسران، محققین، طلبہ اور عام شہریوں کے لیے ایک ہی جگہ آسان، مستند اور قابلِ تلاش انداز میں فراہم کرنے کے لیے تیار کیا جا رہا ہے۔
-    </p>
-    <p style="font-size:0.9em; color:#555;">
-      ہر دفعہ (Section) میں اصل قانونی متن، مستند اردو ترجمہ، اور سادہ وضاحت شامل ہے۔
-    </p>
+    <p>یہ منصوبہ سندھ لوکل گورنمنٹ ایکٹ 2013 کو کونسلرز، چیئرمینز، وکلاء، سرکاری افسران، محققین اور شہریوں کے لیے آسان، مستند اور قابلِ تلاش انداز میں فراہم کرتا ہے۔ ہر دفعہ میں اصل قانونی متن، مستند اردو/سندھی ترجمہ اور سادہ وضاحت شامل ہے۔</p>
   </div>
 
   <div class="card">
-    <h2>📜 دستیاب دفعات (Chapter I)</h2>
-    <div class="section-list">
-      <a href="docs/section-001.md">
-        <span class="status-tag">مکمل</span> دفعہ 1 — مختصر عنوان، دائرۂ اطلاق اور نفاذ
-      </a>
-      <a href="docs/section-002.md">
-        <span class="status-tag">مکمل</span> دفعہ 2 — استثنیٰ
-      </a>
-    </div>
-    <p class="pending">
-      باقی 159 دفعات پر تدریجاً کام جاری ہے۔ ہر دفعہ سرکاری ماخذ سے تصدیق کے بعد ہی شامل کی جاتی ہے۔
-    </p>
+    <h2>📊 موجودہ صورتحال</h2>
+    <div class="progress-stats" id="progressStats">صفحہ لوڈ ہو رہا ہے...</div>
   </div>
 
   <div class="card">
-    <h2>ℹ️ Project Status</h2>
-    <p style="font-size:0.9em;">
-      یہ ایک جاری منصوبہ ہے۔ فی الحال 161 میں سے 2 دفعات مکمل اور تصدیق شدہ ہیں۔ ہر دفعہ کی تصدیق کا درجہ اس کی اپنی فائل میں واضح طور پر درج ہے۔
-    </p>
+    <h2>📜 دستیاب دفعات</h2>
+    <div id="loadingMsg" class="loading">دفعات تلاش کی جا رہی ہیں، براہ کرم انتظار کریں...</div>
+    <div id="sectionsContainer"></div>
   </div>
 
   <footer>
@@ -115,5 +105,91 @@
   </footer>
 
 </div>
+
+<script>
+const TOTAL_SECTIONS = 161;
+
+// Chapter boundaries (section number ranges) — update this array only when a NEW chapter starts.
+// This is the ONLY manual maintenance needed; individual sections are auto-detected.
+const CHAPTERS = [
+  { num: 1, title: "Chapter I — Introduction", start: 1, end: 7 },
+  { num: 2, title: "Chapter II — Councils", start: 8, end: 14 },
+  { num: 3, title: "Chapter III — Constitution and Composition of Councils", start: 15, end: 20 },
+  { num: 4, title: "Chapter IV — Members and Office Bearers", start: 21, end: 31 },
+  { num: 5, title: "Chapter V — Local Government Elections", start: 32, end: 71 },
+  { num: 6, title: "Chapter VI — Functions of the Council", start: 72, end: 78 },
+  { num: 7, title: "Chapter VII — Executive Powers", start: 79, end: 84 }
+  // Add more chapters here as work progresses — sections still auto-detect regardless.
+];
+
+function chapterFor(n) {
+  const c = CHAPTERS.find(c => n >= c.start && n <= c.end);
+  return c ? c.title : "دیگر / Other Sections";
+}
+
+async function checkSection(n) {
+  const num = String(n).padStart(3, '0');
+  const url = `docs/section-${num}.md`;
+  try {
+    const res = await fetch(url, { method: 'GET', cache: 'no-store' });
+    if (!res.ok) return null;
+    const text = await res.text();
+    const isOmitted = text.includes('⚠️ Omitted') || text.includes('Officially Omitted');
+    return { num: n, exists: true, omitted: isOmitted, url };
+  } catch (e) {
+    return null;
+  }
+}
+
+async function buildIndex() {
+  const results = [];
+  const BATCH = 20; // check 20 at a time to avoid overwhelming the browser
+  for (let start = 1; start <= TOTAL_SECTIONS; start += BATCH) {
+    const batchPromises = [];
+    for (let i = start; i < start + BATCH && i <= TOTAL_SECTIONS; i++) {
+      batchPromises.push(checkSection(i));
+    }
+    const batchResults = await Promise.all(batchPromises);
+    batchResults.forEach(r => { if (r) results.push(r); });
+  }
+  results.sort((a, b) => a.num - b.num);
+
+  document.getElementById('loadingMsg').style.display = 'none';
+
+  const completeCount = results.filter(r => !r.omitted).length;
+  const omittedCount = results.filter(r => r.omitted).length;
+  document.getElementById('progressStats').innerHTML =
+    `فی الحال <strong>${TOTAL_SECTIONS}</strong> میں سے <strong>${results.length}</strong> دفعات دستیاب ہیں ` +
+    `(${completeCount} مکمل، ${omittedCount} سرکاری طور پر Omitted)`;
+
+  const container = document.getElementById('sectionsContainer');
+  if (results.length === 0) {
+    container.innerHTML = '<p style="color:#888">ابھی کوئی دفعہ دستیاب نہیں۔</p>';
+    return;
+  }
+
+  let currentChapter = null;
+  let html = '';
+  results.forEach(r => {
+    const chap = chapterFor(r.num);
+    if (chap !== currentChapter) {
+      if (currentChapter !== null) html += '</div>';
+      html += `<div class="chapter-block"><div class="chapter-title">${chap}</div><div class="section-list">`;
+      currentChapter = chap;
+    }
+    const label = r.omitted
+      ? `دفعہ ${r.num} — Omitted`
+      : `دفعہ ${r.num}`;
+    const tagClass = r.omitted ? 'status-tag omitted-tag' : 'status-tag';
+    const tagText = r.omitted ? 'Omitted' : 'مکمل';
+    const linkClass = r.omitted ? 'omitted' : '';
+    html += `<a href="${r.url}" class="${linkClass}">${label}<span class="${tagClass}">${tagText}</span></a>`;
+  });
+  html += '</div>';
+  container.innerHTML = html;
+}
+
+buildIndex();
+</script>
 </body>
 </html>
