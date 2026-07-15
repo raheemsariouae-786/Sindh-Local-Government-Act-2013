@@ -109,8 +109,6 @@
 <script>
 const TOTAL_SECTIONS = 161;
 
-// Chapter boundaries (section number ranges) — update this array only when a NEW chapter starts.
-// This is the ONLY manual maintenance needed; individual sections are auto-detected.
 const CHAPTERS = [
   { num: 1, title: "Chapter I — Introduction", start: 1, end: 7 },
   { num: 2, title: "Chapter II — Councils", start: 8, end: 14 },
@@ -119,7 +117,6 @@ const CHAPTERS = [
   { num: 5, title: "Chapter V — Local Government Elections", start: 32, end: 71 },
   { num: 6, title: "Chapter VI — Functions of the Council", start: 72, end: 78 },
   { num: 7, title: "Chapter VII — Executive Powers", start: 79, end: 84 }
-  // Add more chapters here as work progresses — sections still auto-detect regardless.
 ];
 
 function chapterFor(n) {
@@ -135,7 +132,7 @@ async function checkSection(n) {
     if (!res.ok) return null;
     const text = await res.text();
     const isOmitted = text.includes('⚠️ Omitted') || text.includes('Officially Omitted');
-    return { num: n, exists: true, omitted: isOmitted, url };
+    return { num: n, exists: true, omitted: isOmitted, num_padded: num };
   } catch (e) {
     return null;
   }
@@ -143,7 +140,7 @@ async function checkSection(n) {
 
 async function buildIndex() {
   const results = [];
-  const BATCH = 20; // check 20 at a time to avoid overwhelming the browser
+  const BATCH = 20;
   for (let start = 1; start <= TOTAL_SECTIONS; start += BATCH) {
     const batchPromises = [];
     for (let i = start; i < start + BATCH && i <= TOTAL_SECTIONS; i++) {
@@ -183,7 +180,7 @@ async function buildIndex() {
     const tagClass = r.omitted ? 'status-tag omitted-tag' : 'status-tag';
     const tagText = r.omitted ? 'Omitted' : 'مکمل';
     const linkClass = r.omitted ? 'omitted' : '';
-    html += `<a href="${r.url}" class="${linkClass}">${label}<span class="${tagClass}">${tagText}</span></a>`;
+    html += `<a href="view.html?s=${r.num}" class="${linkClass}">${label}<span class="${tagClass}">${tagText}</span></a>`;
   });
   html += '</div>';
   container.innerHTML = html;
