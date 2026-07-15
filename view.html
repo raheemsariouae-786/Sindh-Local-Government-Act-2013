@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>سندھ لوکل گورنمنٹ ایکٹ 2013 — دفعہ</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/11.1.1/marked.min.js"></script>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background-color: #f4f6f5;
+    margin: 0;
+    padding: 15px;
+    color: #1e2327;
+    line-height: 1.8;
+  }
+  .container { max-width: 720px; margin: auto; }
+  .back-link {
+    display: inline-block;
+    margin-bottom: 15px;
+    background: #1e5631;
+    color: white;
+    padding: 8px 18px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: bold;
+  }
+  .content {
+    background: white;
+    border-radius: 12px;
+    padding: 22px 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  }
+  .content h1 {
+    color: #1e5631;
+    font-size: 1.3em;
+    border-bottom: 3px solid #1e5631;
+    padding-bottom: 10px;
+    margin-top: 0;
+  }
+  .content h2 {
+    color: #1e5631;
+    font-size: 1.1em;
+    margin-top: 28px;
+    background: #eef5ef;
+    padding: 8px 12px;
+    border-radius: 8px;
+    border-right: 4px solid #1e5631;
+  }
+  .content p { margin: 10px 0; }
+  .content strong { color: #1e5631; }
+  .content hr { border: none; border-top: 1px solid #ddd; margin: 20px 0; }
+  .content table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 0.9em; }
+  .content th, .content td { border: 1px solid #ddd; padding: 6px 10px; text-align: right; }
+  .content th { background: #eef5ef; }
+  .loading { text-align: center; color: #888; padding: 40px 0; }
+  .error { text-align: center; color: #c0392b; padding: 40px 20px; background: white; border-radius: 12px; }
+  footer { text-align: center; font-size: 0.8em; color: #888; margin-top: 20px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <a href="index.html" class="back-link">← فہرست پر واپس</a>
+  <div id="output" class="loading">لوڈ ہو رہا ہے...</div>
+  <footer>Sindh Local Government Act, 2013 — Official Digital Legal Reference Portal</footer>
+</div>
+
+<script>
+function getParam(name) {
+  const params = new URLSearchParams(window.location.search);
+  return params.get(name);
+}
+
+async function loadSection() {
+  const s = getParam('s');
+  const output = document.getElementById('output');
+
+  if (!s) {
+    output.className = 'error';
+    output.innerHTML = 'کوئی دفعہ منتخب نہیں کی گئی۔ <a href="index.html">فہرست پر واپس جائیں</a>۔';
+    return;
+  }
+
+  const num = String(s).padStart(3, '0');
+  const url = `docs/section-${num}.md`;
+
+  try {
+    const res = await fetch(url, { cache: 'no-store' });
+    if (!res.ok) throw new Error('not found');
+    const text = await res.text();
+    const html = marked.parse(text);
+    output.className = 'content';
+    output.innerHTML = html;
+  } catch (e) {
+    output.className = 'error';
+    output.innerHTML = `دفعہ ${s} نہیں ملی۔ <a href="index.html">فہرست پر واپس جائیں</a>۔`;
+  }
+}
+
+loadSection();
+</script>
+</body>
+</html>
