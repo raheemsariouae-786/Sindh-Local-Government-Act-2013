@@ -10,7 +10,8 @@ Provided that the Presiding Authority may, at any time, cause any person to be r
 (6) Minutes of the meetings of a Council shall be drawn up and recorded in a book to be kept for the purpose, and shall be signed, as soon as practicable, by the Presiding Authority and confirmed by the Council in its next meeting.
 (7) The minutes shall be open to inspection by any inhabitant of the local area.
 (8) All decisions taken by a Council shall be reported to Government within ten days of such decisions.
-(9) No proceedings of a Council shall be invalid by reason only of the existence of any vacancy in, or any defect in the constitution of, the Council.
+(9) No proceedings of a Council shall be invalid y reason only of the existence of any vacancy in, or any defect in the constitution of, the Council.
+(10) No Member shall be liable to any proceedings in any Court in respect of anything said or any vote given by him in the meeting of the Council or a Committee in good faith.
 
 🌐 مستند اردو ترجمہ
 دفعہ 83 — اجلاس اور کاروبار کی انجام دہی
