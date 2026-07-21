@@ -1,43 +1,36 @@
 Section 084
 📜 Original Legal Text
-84. Committees and Sub-committees.- A Council may form such Committees and Sub-committees consisting of its members and such other persons as may be considered necessary to advise the Council on any matter or to perform such functions as may be assigned to them by the Council, in the prescribed manner.
+84. Committees and Sub-committees.- (1) A Council may, for the performance of such functions as may be prescribed appoint Committees or Sub-Committees consisting of its Members and co-opted Members, if any.
+(2) The Members of the Committee or Sub-Committee shall be elected by the Council.
 
 🌐 مستند اردو ترجمہ
 دفعہ 84 — کمیٹیاں اور ذیلی کمیٹیاں
 
-کونسل اپنے ارکان اور ضرورت کے مطابق دیگر افراد پر مشتمل ایسی کمیٹیاں اور ذیلی کمیٹیاں بنا سکتی ہے جو کونسل کو کسی معاملے پر مشورہ دیں یا کونسل کی طرف سے تفویض کردہ فرائض مقررہ طریقے سے انجام دیں۔
+(1) کونسل، مقررہ فرائض کی انجام دہی کے لیے، اپنے ارکان اور (اگر کوئی ہوں) شریک کردہ (co-opted) ارکان پر مشتمل کمیٹیاں یا ذیلی کمیٹیاں مقرر کر سکتی ہے۔
+
+(2) کمیٹی یا ذیلی کمیٹی کے ارکان کونسل کی طرف سے منتخب کیے جائیں گے۔
 
 🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
 دفعو 84 — ڪميٽيون ۽ ذيلي ڪميٽيون
 
-ڪائونسل پنهنجن ميمبرن ۽ ٻين ماڻهن تي مشتمل ڪميٽيون ٺاهي سگهي ٿي جيڪي ڪائونسل کي صلاح ڏين يا فرض ادا ڪن.
+(1) ڪائونسل، مقرر ٿيل فرضن جي ادائيگي لاءِ، پنهنجن ميمبرن ۽ شامل ٿيل ميمبرن تي مشتمل ڪميٽيون مقرر ڪري سگهي ٿي.
+
+(2) ڪميٽي جا ميمبر ڪائونسل پاران چونڊيا ويندا.
 
 🧠 آسان وضاحت
-یہ دفعہ کونسل کو یہ اختیار دیتی ہے کہ وہ مخصوص موضوعات (جیسے بجٹ، ترقیاتی کام، صحت، تعلیم) پر مشاورت اور کام کے لیے چھوٹی کمیٹیاں بنا سکے۔ یہ کمیٹیاں پورے ایوان کی بجائے مخصوص شعبوں پر توجہ مرکوز کر کے زیادہ مؤثر انداز میں کام کر سکتی ہیں۔
+یہ دفعہ کونسل کو کمیٹیاں اور ذیلی کمیٹیاں بنانے کا اختیار دیتی ہے — مگر واضح کرتی ہے کہ ان کے ارکان کونسل کے اپنے منتخب ارکان (یا شریک کردہ ارکان) میں سے ہوں گے، اور کمیٹی کے ارکان کا انتخاب خود کونسل کرے گی (چیئرمین کی صوابدید پر نہیں)۔
 
 ⚖️ Relevant Case Law
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
-فی الحال شامل نہیں۔ Status: Under Documentation
-
-📝 RTI Sample
-"براہ کرم TMC سہراب گوٹھ کی موجودہ قائمہ کمیٹیوں (اگر کوئی ہوں) کی فہرست اور ان کے ارکان فراہم کیے جائیں۔"
-
-🏛 Resolution Template
-یہ ایوان دفعہ 84 کے تحت ترقیاتی امور کی نگرانی کے لیے ایک قائمہ کمیٹی کے قیام کی سفارش کرتا ہے۔
-
-💡 Practical Example
-TMC سہراب گوٹھ فنانس کمیٹی، ترقیاتی کمیٹی یا صحت و صفائی کمیٹی جیسی ذیلی کمیٹیاں بنا سکتی ہے تاکہ ہر شعبے پر مخصوص توجہ دی جا سکے۔
-
 📚 References
 Sindh Local Government Act, 2013 — Section 84
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (screenshot-verified July 2026)
 
 📊 Documentation Status
-✅ Original Legal Text
+✅ Original Legal Text (Corrected — Source Matched)
 ✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
+🟡 Sindhi Translation (Draft)
 ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+Version: 2.0 (Correction) | Last Updated: July 2026
