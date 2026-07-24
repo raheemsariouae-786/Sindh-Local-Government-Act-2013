@@ -15,6 +15,7 @@ This is the official documentation index for the Sindh Local Government Act 2013
 -[Chapter 7](chapter-007.md) — ✅ Complete (Sections 79-84)
 -[Chapter 8](chapter-008.md) — ✅ Complete (Sections 85-86)
 -[Chapter 9](chapter-009.md) — ✅ Complete (Sections 87-94)
+-[Chapter 10](chapter-010.md) — ✅ Complete (Sections 95-103)
 - Amendments
 - Rules
 - Notifications
