@@ -71,3 +71,4 @@ Source: Sindh High Court official compiled text (pdftotext-verified July 2026) â
 âœ… Simplified Explanation
 
 Version: 1.0 (Partial) | Last Updated: July 2026
+
