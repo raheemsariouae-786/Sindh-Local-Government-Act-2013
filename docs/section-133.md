@@ -10,8 +10,7 @@ S. No. | Category of Council | Number of Inspectors
 4 | District Council | Five
 5 | District Municipal Corporation | Five (each)
 
-(2) The prescribed officer shall be the controlling authority and administrative...
-[Note: subsection (2) continues; full text pending further verification]
+(2) The prescribed officer shall be the controlling authority and administrative head of an Inspector and the Inspector shall report to the officer for the enforcement of provisions of this Chapter.
 
 🌐 مستند اردو ترجمہ
 دفعہ 133 — انسپکٹرز کی تقرری اور کنٹرول
@@ -26,8 +25,7 @@ S. No. | Category of Council | Number of Inspectors
 4 | ڈسٹرکٹ کونسل | پانچ
 5 | ڈسٹرکٹ میونسپل کارپوریشن | پانچ (ہر ایک)
 
-(2) مقررہ افسر کنٹرولنگ اتھارٹی اور انتظامی...
-[نوٹ: ذیلی دفعہ (2) کا بقیہ حصہ ابھی تصدیق طلب ہے]
+(2) مقررہ افسر انسپکٹر کا کنٹرولنگ اتھارٹی اور انتظامی سربراہ ہوگا، اور انسپکٹر اس باب کی دفعات کے نفاذ کے لیے اسی افسر کو رپورٹ کرے گا۔
 
 🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
 دفعو 133 — انسپيڪٽرن جي تقرري ۽ ڪنٽرول
@@ -42,8 +40,10 @@ S. No. | Category of Council | Number of Inspectors
 4 | ضلعي ڪائونسل | پنج
 5 | ضلعي ميونسپل ڪارپوريشن | پنج (هر هڪ)
 
+(2) مقرر ٿيل آفيسر انسپيڪٽر جو ڪنٽرولنگ اٿارٽي ۽ انتظامي سربراهه هوندو، ۽ انسپيڪٽر ان آفيسر کي رپورٽ ڪندو.
+
 🧠 آسان وضاحت
-یہ دفعہ کونسل کو یہ اختیار دیتی ہے کہ وہ اپنے کچھ افسران کو "انسپکٹر" کے طور پر مقرر کرے جو ضابطوں کی خلاف ورزیوں (جیسے تجاوزات، غیر قانونی تعمیرات) پر کارروائی کر سکیں۔ اہم بات: ہر قسم کی کونسل کے لیے انسپکٹرز کی زیادہ سے زیادہ تعداد مقرر ہے — مثلاً ٹاؤن کمیٹی صرف ایک انسپکٹر رکھ سکتی ہے، جب تک حکومت اضافی تعداد کی اجازت نہ دے۔
+یہ دفعہ کونسل کو یہ اختیار دیتی ہے کہ وہ اپنے کچھ افسران کو "انسپکٹر" کے طور پر مقرر کرے جو ضابطوں کی خلاف ورزیوں (جیسے تجاوزات، غیر قانونی تعمیرات) پر کارروائی کر سکیں۔ اہم بات: ہر قسم کی کونسل کے لیے انسپکٹرز کی زیادہ سے زیادہ تعداد مقرر ہے — مثلاً ٹاؤن کمیٹی صرف ایک انسپکٹر رکھ سکتی ہے، جب تک حکومت اضافی تعداد کی اجازت نہ دے۔ نیز، ہر انسپکٹر ایک مقررہ افسر کو جوابدہ ہوگا۔
 
 ⚖️ Relevant Case Law
 فی الحال شامل نہیں۔ Status: Under Review
@@ -62,13 +62,12 @@ S. No. | Category of Council | Number of Inspectors
 
 📚 References
 Sindh Local Government Act, 2013 — Section 133
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026) — subsection (2) partial
+Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
 
 📊 Documentation Status
-✅ Original Legal Text (subsection 1 complete; subsection 2 partial — pending)
+✅ Original Legal Text (Complete — both subsections)
 ✅ Urdu Translation
 🟡 Sindhi Translation (Draft)
 ✅ Simplified Explanation
 
-Version: 1.0 (Partial) | Last Updated: July 2026
-
+Version: 2.0 (Complete) | Last Updated: July 2026
