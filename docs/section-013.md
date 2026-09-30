@@ -1,49 +1,47 @@
-Section 013
-📜 Original Legal Text
-13. Declaration of urban and rural areas.- (1) Government may, after inviting objections from the residents of an area and hearing those from amongst them who wish to be heard, declare by notification such area, to be an urban area or rural area, as the case may be.
-(2) For the purposes of the Act, all areas which are urban areas or rural areas, as the case may be, at the time of commencement of the Act shall be deemed to be urban areas or rural areas, as the case may be.
+# Section 013
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**13. Declaration of urban and rural areas.**- (1) Government may, after inviting objections from the residents of an area and hearing those from amongst them who wish to be heard, declare by notification such area, to be an urban area or rural area, as the case may be. (2) For the purposes of the Act, all areas which are urban areas or rural areas, as the case may be, at the time of commencement of the Act shall be deemed to be urban areas or rural areas, as the case may be.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 13 — شہری اور دیہی علاقوں کا اعلان
 
-(1) حکومت، کسی علاقے کے رہائشیوں سے اعتراضات طلب کرنے اور جو لوگ سننا چاہیں انہیں سننے کے بعد، نوٹیفیکیشن کے ذریعے اس علاقے کو شہری یا دیہی علاقہ قرار دے سکتی ہے، جیسا معاملہ ہو۔
+(1) حکومت، کسی علاقے کے رہائشیوں سے اعتراضات طلب کرنے اور سننے کی خواہش رکھنے والوں کی سماعت کے بعد، نوٹیفیکیشن کے ذریعے اس علاقے کو شہری یا دیہی قرار دے سکتی ہے۔
+(2) اس ایکٹ کے مقاصد کے لیے، جو علاقے ایکٹ کے نفاذ کے وقت پہلے سے شہری یا دیہی تھے، وہ اسی طرح شہری یا دیہی سمجھے جائیں گے۔
 
-(2) اس ایکٹ کے مقاصد کے لیے، وہ تمام علاقے جو اس ایکٹ کے نفاذ کے وقت شہری یا دیہی علاقے تھے، انہیں بدستور شہری یا دیہی علاقہ تصور کیا جائے گا، جیسا معاملہ ہو۔
+🌿 **مستند سنڌي ترجمو**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 13 — شهري ۽ ڳوٺاڻن علائقن جو اعلان
+دفعو 13 — شهري ۽ ٻهراڙي علائقن جو اعلان
 
-(1) حڪومت، ڪنهن علائقي جي رهاڪن کان اعتراض طلب ڪرڻ ۽ ٻڌڻ گهربل ماڻهن کي ٻڌڻ کان پوءِ، نوٽيفڪيشن ذريعي اهو علائقو شهري يا ڳوٺاڻو علائقو قرار ڏئي سگهي ٿي.
+(1) حڪومت، ڪنهن علائقي جي رهاڪن کان اعتراض گهرڻ ۽ ٻڌڻ گهرندڙن جي ٻڌڻي کان پوءِ، نوٽيفڪيشن ذريعي ان علائقي کي شهري يا ٻهراڙي قرار ڏئي سگهي ٿي.
+(2) هن ايڪٽ جي مقصدن لاءِ، جيڪي علائقا ايڪٽ جي لاڳو ٿيڻ وقت اڳ ۾ ئي شهري يا ٻهراڙي هئا، اهي اهڙي طرح سمجهيا ويندا.
 
-(2) هن ايڪٽ جي مقصدن لاءِ، اهي سڀ علائقا جيڪي هن ايڪٽ جي نفاذ وقت شهري يا ڳوٺاڻا علائقا هئا، اهي بدستور شهري يا ڳوٺاڻا علائقا تصور ڪيا ويندا.
+🧠 **آسان وضاحت**
 
-🧠 آسان وضاحت
-یہ دفعہ بتاتی ہے کہ حکومت کسی علاقے کو شہری یا دیہی قرار دینے سے پہلے وہاں کے رہائشیوں کی رائے سننا ضروری سمجھتی ہے۔ نیز، جو علاقے ایکٹ کے نفاذ کے وقت پہلے سے شہری یا دیہی تھے، وہ خودکار طور پر اسی حیثیت میں برقرار رہیں گے، انہیں دوبارہ قرار دینے کی ضرورت نہیں۔
+یہ دفعہ حکومت کو اختیار دیتی ہے کہ وہ کسی علاقے کو "شہری" یا "دیہی" قرار دے — لیکن اس سے پہلے اس علاقے کے رہنے والوں سے پوچھنا اور ان کے اعتراضات سننا ضروری ہے۔ جو علاقے پہلے سے شہری/دیہی تھے وہ ویسے ہی رہیں گے، نئے سرے سے اعلان کی ضرورت نہیں۔
 
-⚖️ Relevant Case Law
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ کو شہری علاقہ قرار دینے کا نوٹیفیکیشن کب جاری ہوا اور اس پر موصول ہونے والے اعتراضات کا ریکارڈ فراہم کیا جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ کو شہری علاقہ قرار دینے سے پہلے رہائشیوں سے کب اور کیسے اعتراضات طلب کیے گئے؟"
 
-🏛 Resolution Template
-یہ ایوان سفارش کرتا ہے کہ کسی بھی علاقے کی حیثیت (شہری/دیہی) تبدیل کرنے سے پہلے مقامی رہائشیوں کی مکمل مشاورت کو یقینی بنایا جائے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 13 کے تحت شہری/دیہی درجہ بندی کے فیصلے سے پہلے مقامی رہائشیوں کی سماعت کی درخواست کرتا ہے۔
 
-💡 Practical Example
-اگر حکومت سہراب گوٹھ کے کسی دیہی حصے کو شہری علاقہ قرار دینا چاہے، تو پہلے وہاں کے رہائشیوں سے اعتراضات طلب کیے جائیں گے — یہ فیصلہ یکطرفہ نوٹیفیکیشن سے نہیں ہو سکتا۔
+💡 **Practical Example**
+اگر کسی دیہی علاقے میں تیزی سے شہری آبادکاری ہو جائے، تو حکومت مقامی لوگوں کو سن کر اسے دیہی سے شہری علاقہ قرار دے سکتی ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 13
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
-🟡 Case Law (Under Review)
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
