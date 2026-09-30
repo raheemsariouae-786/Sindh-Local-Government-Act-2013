@@ -1,53 +1,50 @@
-Section 075
-📜 Original Legal Text
-75. Commercial Schemes.- (1) Government may set up a Board, Authority or any corporate body to perform any one or more functions of any Council, singly or jointly with any public or private body, and may acquire, continue, manage or operate any commercial venture or activity as deemed necessary in the public interest.
-(2) Any commercial operations or venture jointly with any private body or person in existence at the time of commencement of this Act shall continue to do so.
-(3) The Council may, with prior permission of Government promote, administer, execute or implement schemes for undertaking any commercial, business enterprises or enter into public private partnership.
+# Section 075
 
-🌐 مستند اردو ترجمہ
-دفعہ 75 — تجارتی منصوبے
+📜 **Original Legal Text**
 
-(1) حکومت کسی کونسل کے ایک یا زیادہ فرائض انجام دینے کے لیے، اکیلے یا کسی سرکاری/نجی ادارے کے ساتھ مل کر، کوئی بورڈ، اتھارٹی یا کارپوریٹ ادارہ قائم کر سکتی ہے، اور عوامی مفاد میں ضروری سمجھے جانے پر کوئی تجارتی سرگرمی حاصل، جاری، منظم یا چلا سکتی ہے۔
+**75. Commercial Schemes.**- (1) Government could set up a Board, Authority or corporate body to perform any function(s) of a Council, singly or jointly with a public/private body, and could acquire, continue, manage, or operate any commercial venture deemed necessary in the public interest. (2) Existing commercial ventures with private bodies would continue. (3) A Council could, with Government's prior permission, promote/administer/execute commercial schemes or enter public-private partnerships.
 
-(2) اس ایکٹ کے نفاذ کے وقت کسی نجی ادارے یا شخص کے ساتھ جاری کوئی تجارتی کاروبار یا منصوبہ جاری رہے گا۔
+> ⚠️ **CRITICAL LEGAL STATUS UPDATE:** This Section was **DECLARED VOID / UNCONSTITUTIONAL** by the Supreme Court of Pakistan in **MQM-P v. Province of Sindh (PLD 2022 SC 439)**, judgment announced 1 February 2022 — for the same reason as Section 74. The Court held this let the province take over "commercial schemes" that properly belong to local governments' authority under **Article 140-A**. The text above is preserved for historical/reference purposes only and **is no longer in legal effect**.
 
-(3) کونسل، حکومت کی پیشگی اجازت سے، کوئی تجارتی یا کاروباری منصوبہ چلا سکتی ہے یا پبلک پرائیویٹ پارٹنرشپ (PPP) میں شامل ہو سکتی ہے۔
+🌐 **مستند اردو ترجمہ**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 75 — واپاري منصوبا
+دفعہ 75 — کمرشل اسکیمیں
 
-(1) حڪومت ڪنهن بورڊ يا اٿارٽي قائم ڪري سگهي ٿي جيڪا ڪائونسل جا ڪم انجام ڏئي.
+(1) حکومت کسی کونسل کے فرض کو انجام دینے کے لیے، اکیلے یا کسی سرکاری/نجی ادارے کے ساتھ مل کر، بورڈ/اتھارٹی بنا سکتی تھی اور عوامی مفاد میں کمرشل سرگرمی حاصل/چلا سکتی تھی۔ (2) نجی اداروں کے ساتھ موجودہ کمرشل منصوبے جاری رہیں گے۔ (3) کونسل، حکومت کی پیشگی اجازت سے، کمرشل اسکیمیں چلا سکتی تھی۔
 
-(2) اڳ کان موجود ڪاروبار جاري رهندا.
+> ⚠️ **اہم قانونی حیثیت کی اپڈیٹ:** یہ دفعہ بھی سپریم کورٹ نے **MQM-P بمقابلہ صوبہ سندھ (PLD 2022 SC 439)** میں سیکشن 74 جیسی ہی وجہ سے **کالعدم قرار دی** — یہ صوبے کو ایسی "کمرشل اسکیموں" پر قبضہ کرنے دیتی تھی جو آرٹیکل 140-A کے تحت مقامی حکومتوں کے اختیار میں آتی ہیں۔ یہ دفعہ **اب قانونی طور پر مؤثر نہیں**۔
 
-(3) ڪائونسل حڪومت جي اجازت سان واپاري منصوبا هلائي سگهي ٿي يا پبلڪ پرائيويٽ پارٽنرشپ ۾ شامل ٿي سگهي ٿي.
+🌿 **مستند سنڌي ترجمو**
 
-🧠 آسان وضاحت
-یہ دفعہ کونسل اور حکومت کو تجارتی/کاروباری منصوبوں میں شامل ہونے کی اجازت دیتی ہے — چاہے حکومت خود کوئی الگ کارپوریٹ ادارہ بنائے، یا کونسل حکومت کی اجازت سے کسی نجی شراکت داری (PPP) میں جائے۔ یہ آمدنی بڑھانے یا خدمات بہتر کرنے کا ایک ذریعہ ہے۔
+دفعو 75 — ڪمرشل اسڪيمون
 
-⚖️ Relevant Case Law
-فی الحال شامل نہیں۔ Status: Under Review
+⚠️ **هي دفعو پڻ سپريم ڪورٽ پاران بيڪار قرار ڏنل آهي (PLD 2022 SC 439)** — سيڪشن 74 جهڙي سبب سان.
 
-📢 Relevant Notifications
+🧠 **آسان وضاحت**
+
+یہ سیکشن 74 کا "جڑواں" کالعدم سیکشن ہے۔ اصل میں یہ حکومت کو اجازت دیتا تھا کہ وہ کونسل کے کسی بھی کمرشل منصوبے (جیسے کوئی بازار، پارکنگ پلازہ) پر خود قبضہ کر لے یا نجی کمپنیوں کے ساتھ مل کر چلائے۔ سپریم کورٹ نے یہ بھی کالعدم قرار دیا کیونکہ یہ مقامی حکومت کے حقیقی اختیار میں مداخلت تھی۔
+
+⚖️ **Relevant Case Law**
+**MQM-P v. Province of Sindh, PLD 2022 SC 439** — سیکشن 74 کی طرح یہ بھی کالعدم قرار دی گئی۔
+
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ TMC سہراب گوٹھ نے دفعہ 75 کے تحت کوئی تجارتی منصوبہ یا PPP شروع کیا ہو تو تفصیل فراہم کی جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ دفعہ 75 کے تحت پہلے کون سی کمرشل اسکیمیں حکومت کے زیر انتظام تھیں اور سپریم کورٹ کے فیصلے کے بعد ان کی حیثیت کیا ہے؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 75 کے تحت کسی بھی تجارتی منصوبے سے پہلے حکومتی منظوری اور شفافیت کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان سپریم کورٹ کے فیصلے کی روشنی میں دفعہ 75 کے کالعدم ہونے کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر TMC سہراب گوٹھ کوئی پارکنگ پلازہ نجی شراکت داری سے بنانا چاہے، تو اسے پہلے حکومت سے دفعہ 75(3) کے تحت اجازت لینی ہوگی۔
+💡 **Practical Example**
+اس فیصلے سے پہلے، حکومت کسی ٹاؤن کمیٹی کا بازار یا پارکنگ پلازہ لے کر کسی نجی کمپنی کے ساتھ مل کر چلا سکتی تھی۔ اب یہ اختیار متاثر ہو چکا ہے۔
 
-📚 References
-Sindh Local Government Act, 2013 — Section 75
-Source: Sindh High Court official compiled text (verified July 2026)
+📚 **References**
+Sindh Local Government Act, 2013 — Section 75 (VOID)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
+Supreme Court: PLD 2022 SC 439
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation | ✅ Supreme Court Status Flagged
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

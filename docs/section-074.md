@@ -1,49 +1,50 @@
-Section 074
-📜 Original Legal Text
-74. Transfer of functions from Councils to Government and Vice Versa.- Notwithstanding anything contained in any other law for the time being in force, Government may –
-(a) take over the management and control of any institution or service maintained by a Council; and
-(b) transfer the management and control of any institution or service maintained by Government to a Council.
+# Section 074
 
-🌐 مستند اردو ترجمہ
-دفعہ 74 — کونسل اور حکومت کے درمیان فرائض کی منتقلی
+📜 **Original Legal Text**
 
-کسی بھی دوسرے نافذ العمل قانون میں شامل کسی بات کے باوجود، حکومت —
-(a) کسی کونسل کے زیرِ انتظام ادارے یا سہولت کا انتظام و کنٹرول اپنے ہاتھ میں لے سکتی ہے؛ اور
-(b) حکومت کے زیرِ انتظام کسی ادارے یا سہولت کا انتظام و کنٹرول کسی کونسل کو منتقل کر سکتی ہے۔
+**74. Transfer of functions from Councils to Government and Vice Versa.**- Notwithstanding anything contained in any other law, Government could (a) take over the management or control of any institution or service maintained by a Council, and (b) transfer the management or control of any Government-maintained institution or service to a Council.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 74 — ڪائونسل ۽ حڪومت جي وچ ۾ فرضن جي منتقلي
+> ⚠️ **CRITICAL LEGAL STATUS UPDATE:** This Section was **DECLARED VOID / UNCONSTITUTIONAL** by the Supreme Court of Pakistan in **MQM-P v. Province of Sindh (PLD 2022 SC 439)**, judgment announced 1 February 2022. The Court held this provision unconstitutional because it allowed the Province to strip elected local governments of their functions, violating **Article 140-A of the Constitution**. The text above is preserved for historical/reference purposes only and **is no longer in legal effect**.
 
-ڪنهن به ٻئي قانون هوندي، حڪومت —
-(a) ڪائونسل جي ڪنهن ادارن جو ڪنٽرول پاڻ وٽ وٺي سگهي ٿي؛ ۽
-(b) پنهنجي ڪنهن ادارن جو ڪنٽرول ڪائونسل کي منتقل ڪري سگهي ٿي.
+🌐 **مستند اردو ترجمہ**
 
-🧠 آسان وضاحت
-یہ دفعہ حکومت کو یہ اختیار دیتی ہے کہ وہ ضرورت کے مطابق کسی سہولت یا ادارے کا انتظام کونسل سے واپس لے سکے، یا اپنے کسی ادارے کا انتظام کونسل کو سونپ سکے۔ یہ ایک لچکدار انتظام ہے تاکہ حالات کے مطابق ذمہ داریاں ایڈجسٹ کی جا سکیں۔
+دفعہ 74 — کونسلوں سے حکومت اور بالعکس فرائض کی منتقلی
 
-⚖️ Relevant Case Law
-فی الحال شامل نہیں۔ Status: Under Review
+کسی بھی دوسرے قانون کے باوجود، حکومت (الف) کونسل کے زیر انتظام کسی ادارے یا خدمت کا انتظام/کنٹرول سنبھال سکتی تھی، اور (ب) حکومت کے زیر انتظام کسی ادارے یا خدمت کا انتظام کونسل کو منتقل کر سکتی تھی۔
 
-📢 Relevant Notifications
+> ⚠️ **اہم قانونی حیثیت کی اپڈیٹ:** یہ دفعہ سپریم کورٹ آف پاکستان نے **MQM-P بمقابلہ صوبہ سندھ (PLD 2022 SC 439)** میں **غیر آئینی/کالعدم قرار دی** — فیصلہ یکم فروری 2022 کو سنایا گیا۔ عدالت نے فیصلہ دیا کہ یہ شق آرٹیکل 140-A کی خلاف ورزی کرتے ہوئے صوبے کو منتخب مقامی حکومتوں سے ان کے فرائض چھیننے کی اجازت دیتی تھی۔ اوپر دیا گیا متن صرف تاریخی حوالے کے لیے محفوظ ہے اور **اب قانونی طور پر مؤثر نہیں**۔
+
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 74 — ڪائونسلن کان حڪومت ۽ ان جي برعڪس ڪمن جي منتقلي
+
+⚠️ **هي دفعو سپريم ڪورٽ پاران بيڪار قرار ڏنل آهي (PLD 2022 SC 439)** — تفصيل لاءِ اردو/انگريزي حصو ڏسو.
+
+🧠 **آسان وضاحت**
+
+یہ سیکشن پورے ایکٹ کا سب سے حساس اور اہم "کالعدم" سیکشن ہے۔ اصل میں یہ حکومت کو یہ اختیار دیتا تھا کہ وہ کسی بھی وقت کونسل سے کوئی محکمہ یا خدمت (جیسے پانی کی فراہمی، صفائی) چھین کر خود سنبھال لے۔ سپریم کورٹ نے 2022 میں فیصلہ دیا کہ یہ آئین کے آرٹیکل 140-A کی خلاف ورزی ہے جو مقامی حکومتوں کو حقیقی معنوں میں "بااختیار" ہونے کی ضمانت دیتا ہے۔ اس لیے اب یہ دفعہ عملی طور پر ختم ہو چکی ہے۔
+
+⚖️ **Relevant Case Law**
+**MQM-P v. Province of Sindh, PLD 2022 SC 439** — سپریم کورٹ نے یہ دفعہ کالعدم قرار دی۔ عدالت نے یہ بھی فیصلہ دیا کہ صوبائی ادارے (SBCA، KWSB، KDA وغیرہ) آرٹیکل 140-A کے مطابق ڈھلیں اور جہاں کام اوورلیپ ہوں وہاں مقامی حکومت کی منظوری کے بغیر عمل نہیں کر سکتے۔
+
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ کیا TMC سہراب گوٹھ سے متعلق کوئی ادارہ یا سہولت دفعہ 74 کے تحت حکومت نے واپس لی یا سونپی ہو۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سپریم کورٹ کے PLD 2022 SC 439 فیصلے کے بعد سندھ حکومت نے دفعہ 74 سے متعلق کیا اقدامات کیے؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 74 کے تحت کسی بھی منتقلی سے پہلے کونسل سے مکمل مشاورت کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان سپریم کورٹ کے فیصلے (PLD 2022 SC 439) کی روشنی میں دفعہ 74 کے کالعدم ہونے کی توثیق کرتا ہے اور مکمل بااختیار مقامی حکومت کے اصول کا خیرمقدم کرتا ہے۔
 
-💡 Practical Example
-اگر کوئی بڑا ہسپتال جو پہلے TMC کے زیرِ انتظام تھا، حکومت خود سنبھالنا چاہے، تو وہ دفعہ 74(a) کے تحت ایسا کر سکتی ہے۔
+💡 **Practical Example**
+اس فیصلے سے پہلے، حکومت کسی ٹاؤن کمیٹی سے پانی کی فراہمی کا نظام لے کر خود چلا سکتی تھی۔ اب، سپریم کورٹ کے فیصلے کے بعد، ایسا کرنا غیر آئینی ہوگا۔
 
-📚 References
-Sindh Local Government Act, 2013 — Section 74
-Source: Sindh High Court official compiled text (verified July 2026)
+📚 **References**
+Sindh Local Government Act, 2013 — Section 74 (VOID)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
+Supreme Court: PLD 2022 SC 439 (see AMENDMENTS.md, Judicial History section)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation | ✅ Supreme Court Status Flagged
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

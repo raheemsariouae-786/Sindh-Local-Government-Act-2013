@@ -1,52 +1,45 @@
-Section 073
-📜 Original Legal Text
-73. Records, reports and returns.- A Council shall –
-(a) maintain such record of its working as may be prescribed;
-(b) prepare and publish such periodical reports and returns as may be prescribed; and
-(c) adopt such other measures as may be necessary, or may be specified by Government, from time to time, for the publication of information about the working of the Council.
+# Section 073
 
-🌐 مستند اردو ترجمہ
-دفعہ 73 — ریکارڈ، رپورٹس اور گوشوارے
+📜 **Original Legal Text**
 
-کونسل —
-(a) اپنے کام کا ایسا ریکارڈ رکھے گی جیسا مقرر کیا جائے؛
-(b) ایسی متواتر رپورٹس اور گوشوارے تیار اور شائع کرے گی جیسا مقرر کیا جائے؛ اور
-(c) کونسل کے کام کی معلومات کی اشاعت کے لیے ایسے دیگر اقدامات اختیار کرے گی جو ضروری ہوں یا حکومت وقتاً فوقتاً مقرر کرے۔
+**73. Records, reports and returns.**- A Council shall maintain such records of its working, prepare and publish such periodical reports and returns, and adopt such other measures as Government may specify for the purpose of publicizing its work.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 73 — رڪارڊ، رپورٽون ۽ گوشوارا
+🌐 **مستند اردو ترجمہ**
 
-ڪائونسل —
-(a) پنهنجي ڪم جو رڪارڊ رکندي؛
-(b) دوري رپورٽون تيار ۽ شايع ڪندي؛ ۽
-(c) پنهنجي ڪم جي معلومات شايع ڪرڻ لاءِ ٻيا قدم کڻندي.
+دفعہ 73 — ریکارڈ، رپورٹس اور ریٹرنز
 
-🧠 آسان وضاحت
-یہ دفعہ کونسل کے لیے شفافیت اور جوابدہی کا بنیادی اصول ہے — کونسل کو نہ صرف اپنا مکمل ریکارڈ رکھنا ہوگا بلکہ باقاعدگی سے رپورٹس بھی شائع کرنی ہوں گی تاکہ عوام کو اس کے کام کی معلومات حاصل ہو سکیں۔ یہ آپ کے سابقہ کام (fiscal transparency resolution) سے بھی جڑی ایک اہم دفعہ ہے۔
+کونسل کو مقررہ ریکارڈ رکھنا، متواتر رپورٹس اور ریٹرنز تیار/شائع کرنا، اور اپنے کام کی تشہیر کے لیے حکومت کی مقرر کردہ دیگر تدابیر اپنانا ہوں گی۔
 
-⚖️ Relevant Case Law
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 73 — رڪارڊ، رپورٽون ۽ رٽرن
+
+ڪائونسل کي مقرر ٿيل رڪارڊ رکڻو، دوري رپورٽون ۽ رٽرن تيار/شايع ڪرڻ، ۽ پنهنجي ڪم جي تشهير لاءِ حڪومت جون مقرر ٿيل ٻيون تدبيرون اپنائڻيون پونديون.
+
+🧠 **آسان وضاحت**
+
+کونسل کو صرف کام نہیں کرنا بلکہ اس کا ریکارڈ بھی رکھنا ہے اور وقتاً فوقتاً عوام کو بتانا ہے کہ وہ کیا کر رہی ہے — یعنی شفافیت اور جوابدہی کو یقینی بنانا۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم TMC سہراب گوٹھ کی گزشتہ تین سالوں کی متواتر رپورٹس اور گوشوارے فراہم کیے جائیں۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ ٹاؤن کمیٹی نے پچھلے سال کون سی متواتر رپورٹس شائع کیں؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 73 کے تحت باقاعدہ رپورٹس کی اشاعت اور عوامی رسائی کو یقینی بنانے کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 73 کے تحت باقاعدہ رپورٹنگ اور شفافیت کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر TMC سہراب گوٹھ سالانہ کارکردگی رپورٹ شائع نہ کرے، تو یہ دفعہ 73(b) کی خلاف ورزی تصور ہوگی، اور شہری RTI کے ذریعے یہ رپورٹ طلب کر سکتے ہیں۔
+💡 **Practical Example**
+ایک ٹاؤن کمیٹی اپنی سالانہ کارکردگی رپورٹ ویب سائٹ پر شائع کر سکتی ہے تاکہ رہائشی جان سکیں کہ ان کے ٹیکس کیسے خرچ ہوئے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 73
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

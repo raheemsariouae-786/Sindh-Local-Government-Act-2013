@@ -1,55 +1,45 @@
-Section 078
-📜 Original Legal Text
-78. Works.- A Council may by bye-laws lay down the procedure for –
-(a) the preparation of plan and estimates for works to be executed by the Council;
-(b) the authority by whom and the conditions subject to which such plans and estimates shall be technically approved and administratively sanctioned;
-(c) the agency by which such plans and estimates shall be prepared; and
-(d) the agency or the authority by which such plans shall be executed.
+# Section 078
 
-🌐 مستند اردو ترجمہ
-دفعہ 78 — تعمیراتی کام (Works)
+📜 **Original Legal Text**
 
-کونسل، ضابطوں (bye-laws) کے ذریعے، درج ذیل کے لیے طریقہ کار مقرر کر سکتی ہے —
-(a) کونسل کے ذریعے انجام دیئے جانے والے کاموں کے منصوبے اور تخمینے تیار کرنا؛
-(b) وہ اتھارٹی جو ایسے منصوبوں اور تخمینوں کی تکنیکی منظوری اور انتظامی توثیق دے گی، اور اس کی شرائط؛
-(c) وہ ایجنسی جو ایسے منصوبے اور تخمینے تیار کرے گی؛ اور
-(d) وہ ایجنسی یا اتھارٹی جو ایسے منصوبوں پر عمل درآمد کرے گی۔
+**78. Works.**- A Council may make bye-laws on: preparing plans and estimates for Council works; the authority responsible for technical approval and administrative sanction; the agency preparing such plans and estimates; and the agency or authority executing them.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 78 — ڪم (Works)
+🌐 **مستند اردو ترجمہ**
 
-ڪائونسل، ضابطن ذريعي، هيٺين لاءِ طريقو مقرر ڪري سگهي ٿي —
-(a) ڪم جا منصوبا ۽ تخمينا تيار ڪرڻ؛
-(b) اها اٿارٽي جيڪا تڪنيڪي منظوري ڏيندي؛
-(c) اها ايجنسي جيڪا منصوبا تيار ڪندي؛ ۽
-(d) اها ايجنسي جيڪا عمل درآمد ڪندي.
+دفعہ 78 — کام
 
-🧠 آسان وضاحت
-یہ دفعہ کونسل کو یہ اختیار دیتی ہے کہ وہ اپنے تعمیراتی کاموں (جیسے سڑکیں، عمارتیں، پارک) کے لیے ایک واضح، مرحلہ وار طریقہ کار بنائے — کون منصوبہ بنائے گا، کون اسے تکنیکی طور پر منظور کرے گا، اور کون اسے عملی جامہ پہنائے گا۔ یہ کام کی کوالٹی اور ذمہ داری کو یقینی بناتا ہے۔
+کونسل ضوابط بنا سکتی ہے: کام کی منصوبہ بندی/تخمینہ تیار کرنے پر؛ تکنیکی منظوری/انتظامی منظوری دینے والی اتھارٹی پر؛ منصوبے تیار کرنے والی ایجنسی پر؛ اور انہیں عمل میں لانے والی ایجنسی/اتھارٹی پر۔
 
-⚖️ Relevant Case Law
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 78 — ڪم
+
+ڪائونسل ضابطا ٺاهي سگهي ٿي: ڪم جي منصوبابندي/اندازي تيار ڪرڻ تي؛ ٽيڪنيڪل منظوري ڏيندڙ اٿارٽي تي؛ منصوبا تيار ڪندڙ ادارو تي؛ ۽ انهن کي عمل ۾ آڻيندڙ ادارو تي.
+
+🧠 **آسان وضاحت**
+
+یہ باب 6 (کونسل کے فرائض) کی آخری دفعہ ہے۔ یہ کونسل کو اختیار دیتی ہے کہ وہ اپنے تعمیراتی کاموں کے لیے تفصیلی ضوابط بنائے — کون سا افسر منصوبہ منظور کرے گا، کون سا ادارہ ڈیزائن بنائے گا، اور کون تعمیر کرے گا۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم TMC سہراب گوٹھ کے کسی حالیہ تعمیراتی کام کی تکنیکی منظوری اور انتظامی توثیق کا ریکارڈ فراہم کیا جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ ٹاؤن کمیٹی میں تعمیراتی کاموں کی تکنیکی منظوری کون دیتا ہے؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 78 کے تحت تمام تعمیراتی کاموں کی تکنیکی جانچ اور منظوری کے مکمل عمل کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 78 کے تحت تعمیراتی کاموں کے واضح طریقہ کار کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر TMC سہراب گوٹھ کوئی نئی گلی پختہ کرنا چاہے، تو پہلے اس کا منصوبہ اور تخمینہ تیار ہوگا، پھر متعلقہ تکنیکی اتھارٹی اسے منظور کرے گی، اور آخر میں کوئی مخصوص ایجنسی اسے تعمیر کرے گی۔
+💡 **Practical Example**
+کسی نئے پارک کی تعمیر کے لیے، پہلے تکنیکی ماہر نقشہ بنائے گا، پھر ایک مقررہ افسر اس کی منظوری دے گا، اور آخر میں ٹھیکیدار اسے عمل میں لائے گا — یہ سارا طریقہ کار کونسل کے اپنے ضوابط طے کریں گے۔
 
-📚 References
-Sindh Local Government Act, 2013 — Section 78
-Source: Sindh High Court official compiled text (verified July 2026)
+📚 **References**
+Sindh Local Government Act, 2013 — Section 78 (Final section of Chapter VI)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

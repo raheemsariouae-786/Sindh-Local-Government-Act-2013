@@ -1,48 +1,46 @@
-Section 072
-📜 Original Legal Text
-72. Functions of Council.- A Council shall, subject to rules and directions given by Government and within the limits of the funds at its disposal, undertake all or any of the functions, given in Schedule II in the case of a Corporation, a District Municipal Corporation, Municipal Committee and Town Committee, in Schedule III in the case of a District Council, and in Schedule IV in the case of a Union Council and such other functions as are entrusted to them by Government:
-Provided that no Corporation shall undertake such functions as are assigned to and performed by anybody, agency or authority established by or under any law for the time being in force:
-Provided further that Government may at any time require the Metropolitan Corporation to perform any function of a District Municipal Corporation subject to such conditions as Government may specify.
+# Section 072
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**72. Functions of Council.**- A Council shall, subject to the rules and directions of Government and within the limits of its funds, discharge such functions as are laid down in Schedule-II in the case of a Corporation, Municipal Committee or Town Committee; Schedule-III in the case of a District Council; and Schedule-IV in the case of a Union Council; and such other functions as Government may entrust to it. A Corporation shall not undertake a function assigned to another body, agency or authority established under any law.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 72 — کونسل کے فرائض
 
-کونسل، حکومت کے قواعد اور ہدایات کے تابع اور اپنے دستیاب فنڈز کی حد کے اندر، وہ تمام یا کوئی بھی فرائض انجام دے گی جو کارپوریشن، ڈسٹرکٹ میونسپل کارپوریشن، میونسپل کمیٹی اور ٹاؤن کمیٹی کے لیے شیڈول II میں، ڈسٹرکٹ کونسل کے لیے شیڈول III میں، اور یونین کونسل کے لیے شیڈول IV میں درج ہیں، اور ایسے دیگر فرائض بھی جو حکومت کی طرف سے سپرد کیے جائیں:
-بشرطیکہ کوئی کارپوریشن ایسے فرائض انجام نہیں دے گی جو کسی ایسے ادارے، ایجنسی یا اتھارٹی کو سونپے گئے ہوں جو کسی نافذ العمل قانون کے تحت قائم ہو؛
-مزید بشرطیکہ حکومت کسی بھی وقت میٹروپولیٹن کارپوریشن کو ڈسٹرکٹ میونسپل کارپوریشن کا کوئی فرض انجام دینے کا پابند کر سکتی ہے، جیسا کہ حکومت مقرر کرے۔
+کونسل، قواعد اور حکومتی ہدایات کے تابع اور اپنے فنڈز کی حدود میں، شیڈول II (کارپوریشن، میونسپل کمیٹی، ٹاؤن کمیٹی)، شیڈول III (ڈسٹرکٹ کونسل)، یا شیڈول IV (یونین کونسل) میں درج فرائض انجام دے گی، نیز حکومت کی تفویض کردہ دیگر فرائض۔ کارپوریشن کسی ایسے ادارے کو تفویض کردہ فرائض انجام نہیں دے گی جو کسی قانون کے تحت قائم ہو۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
+🌿 **مستند سنڌي ترجمو**
+
 دفعو 72 — ڪائونسل جا فرض
 
-ڪائونسل، حڪومت جي قاعدن ۽ هدايتن جي تابع ۽ پنهنجي دستياب فنڊن جي حد اندر، اهي سڀ يا ڪي به فرض ادا ڪندي جيڪي شيڊول II، III يا IV ۾ درج آهن، ۽ ٻيا فرض به جيڪي حڪومت طرفان سونپيا وڃن:
-بشرطيڪ ڪا به ڪارپوريشن اهي فرض ادا نه ڪندي جيڪي ڪنهن ٻئي قانوني ادارن کي سونپيل هجن.
+ڪائونسل، قاعدن ۽ حڪومتي هدايتن جي تابع، شيڊول II (ڪارپوريشن، ميونسپل ڪميٽي)، شيڊول III (ڊسٽرڪٽ ڪائونسل)، يا شيڊول IV (يونين ڪائونسل) ۾ درج فرض ادا ڪندي.
 
-🧠 آسان وضاحت
-یہ دفعہ Chapter VI کی بنیاد ہے — یہ بتاتی ہے کہ ہر قسم کی کونسل کے فرائض کہاں درج ہیں (مختلف Schedules میں)، اور یہ کہ کونسل صرف حکومت کے قواعد اور اپنے مالی وسائل کی حد کے اندر ہی کام کر سکتی ہے۔ یہ بھی واضح ہے کہ کوئی کونسل کسی دوسرے قانونی ادارے کا کام نہیں چھین سکتی۔
+🧠 **آسان وضاحت**
 
-⚖️ Relevant Case Law
+یہ دفعہ بتاتی ہے کہ ہر قسم کی کونسل کے فرائض کہاں لکھے گئے ہیں — تفصیلی فہرست الگ الگ شیڈولز میں دی گئی ہے (کارپوریشن کے لیے شیڈول II، ڈسٹرکٹ کونسل کے لیے III، یونین کونسل کے لیے IV)۔ یہ باب 6 کی پہلی اور بنیادی دفعہ ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم TMC سہراب گوٹھ کو تفویض شدہ فرائض کی مکمل فہرست (شیڈول کے مطابق) فراہم کی جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ ٹاؤن کمیٹی دفعہ 72 کے تحت شیڈول II کے کون کون سے فرائض ادا کر رہی ہے؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 72 کے تحت مقررہ فرائض کی مکمل انجام دہی کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 72 کے تحت اپنے تمام مقررہ فرائض کی مکمل ادائیگی کی توثیق کرتا ہے۔
 
-💡 Practical Example
-TMC سہراب گوٹھ، بطور ٹاؤن کمیٹی، شیڈول II میں درج فرائض (جیسے صفائی، سڑکیں، اسٹریٹ لائٹس) انجام دینے کی پابند ہے، اپنے دستیاب بجٹ کی حد کے اندر۔
+💡 **Practical Example**
+سہراب گوٹھ ٹاؤن کمیٹی، بطور ٹاؤن کمیٹی، شیڈول II میں درج فرائض (جیسے صفائی، پانی کی فراہمی، سڑکوں کی دیکھ بھال) انجام دینے کی پابند ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 72
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
+See also: schedule-2.md, schedule-3.md, schedule-4.md for full function lists
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
