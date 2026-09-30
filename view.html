@@ -72,18 +72,39 @@ function getParam(name) {
   return params.get(name);
 }
 
-async function loadSection() {
-  const s = getParam('s');
+async function loadDoc() {
   const output = document.getElementById('output');
 
-  if (!s) {
+  const s = getParam('s');       // section, e.g. 5, 18-A, 153-A
+  const c = getParam('c');       // chapter, e.g. 001 or 1
+  const sch = getParam('sch');   // schedule, e.g. 1 or 7-8
+
+  let url = null;
+  let notFoundLabel = null;
+
+  if (s) {
+    // Support plain numbers (pad to 3 digits) and special ids like 18-A, 153-A, 153-B
+    let id = s;
+    if (/^\d+$/.test(s)) {
+      id = String(s).padStart(3, '0');
+    }
+    url = `docs/section-${id}.md`;
+    notFoundLabel = `دفعہ ${s}`;
+  } else if (c) {
+    let id = c;
+    if (/^\d+$/.test(c)) {
+      id = String(c).padStart(3, '0');
+    }
+    url = `docs/chapter-${id}.md`;
+    notFoundLabel = `چیپٹر ${c}`;
+  } else if (sch) {
+    url = `docs/schedule-${sch}.md`;
+    notFoundLabel = `شیڈول ${sch}`;
+  } else {
     output.className = 'error';
-    output.innerHTML = 'کوئی دفعہ منتخب نہیں کی گئی۔ <a href="index.html">فہرست پر واپس جائیں</a>۔';
+    output.innerHTML = 'کوئی دفعہ، چیپٹر یا شیڈول منتخب نہیں کی گئی۔ <a href="index.html">فہرست پر واپس جائیں</a>۔';
     return;
   }
-
-  const num = String(s).padStart(3, '0');
-  const url = `docs/section-${num}.md`;
 
   try {
     const res = await fetch(url, { cache: 'no-store' });
@@ -94,11 +115,11 @@ async function loadSection() {
     output.innerHTML = html;
   } catch (e) {
     output.className = 'error';
-    output.innerHTML = `دفعہ ${s} نہیں ملی۔ <a href="index.html">فہرست پر واپس جائیں</a>۔`;
+    output.innerHTML = `${notFoundLabel} نہیں ملی۔ <a href="index.html">فہرست پر واپس جائیں</a>۔`;
   }
 }
 
-loadSection();
+loadDoc();
 </script>
 </body>
 </html>
