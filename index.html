@@ -72,6 +72,52 @@
     margin-bottom: 10px;
   }
   footer { text-align: center; font-size: 0.85em; color: #666; margin-top: 25px; }
+
+  /* Tabs */
+  .tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 15px;
+  }
+  .tab-btn {
+    flex: 1;
+    padding: 12px 8px;
+    border: none;
+    border-radius: 8px;
+    background: #e0e8e3;
+    color: #1e5631;
+    font-weight: bold;
+    font-size: 0.95em;
+    cursor: pointer;
+  }
+  .tab-btn.active {
+    background: #1e5631;
+    color: white;
+  }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  .simple-list a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f9f9f9;
+    border-right: 5px solid #1e5631;
+    padding: 12px 15px;
+    margin: 8px 0;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #1e2327;
+    font-weight: bold;
+    font-size: 0.95em;
+  }
+  .simple-list .sub {
+    display: block;
+    font-size: 0.75em;
+    font-weight: normal;
+    color: #666;
+    margin-top: 3px;
+  }
 </style>
 </head>
 <body>
@@ -94,9 +140,24 @@
   </div>
 
   <div class="card">
-    <h2>📜 دستیاب دفعات</h2>
-    <div id="loadingMsg" class="loading">دفعات تلاش کی جا رہی ہیں، براہ کرم انتظار کریں...</div>
-    <div id="sectionsContainer"></div>
+    <div class="tabs">
+      <button class="tab-btn active" data-tab="chapters">📚 چیپٹرز (17)</button>
+      <button class="tab-btn" data-tab="sections">📜 دفعات (161)</button>
+      <button class="tab-btn" data-tab="schedules">📋 شیڈولز (8)</button>
+    </div>
+
+    <div class="tab-panel active" id="panel-chapters">
+      <div class="simple-list" id="chaptersContainer"></div>
+    </div>
+
+    <div class="tab-panel" id="panel-sections">
+      <div id="loadingMsg" class="loading">دفعات تلاش کی جا رہی ہیں، براہ کرم انتظار کریں...</div>
+      <div id="sectionsContainer"></div>
+    </div>
+
+    <div class="tab-panel" id="panel-schedules">
+      <div class="simple-list" id="schedulesContainer"></div>
+    </div>
   </div>
 
   <footer>
@@ -109,19 +170,45 @@
 <script>
 const TOTAL_SECTIONS = 161;
 
+// Full, corrected chapter map — covers all 17 chapters, Sections 1-161
 const CHAPTERS = [
-  { num: 1, title: "Chapter I — Introduction", start: 1, end: 7 },
-  { num: 2, title: "Chapter II — Councils", start: 8, end: 14 },
-  { num: 3, title: "Chapter III — Constitution and Composition of Councils", start: 15, end: 20 },
-  { num: 4, title: "Chapter IV — Members and Office Bearers", start: 21, end: 31 },
-  { num: 5, title: "Chapter V — Local Government Elections", start: 32, end: 71 },
-  { num: 6, title: "Chapter VI — Functions of the Council", start: 72, end: 78 },
-  { num: 7, title: "Chapter VII — Executive Powers", start: 79, end: 84 }
+  { num: 1,  file: "001", title: "Chapter I — Preliminary", start: 1,   end: 7 },
+  { num: 2,  file: "002", title: "Chapter II — Establishment of Councils", start: 8,   end: 14 },
+  { num: 3,  file: "003", title: "Chapter III — Constitution of Councils", start: 15,  end: 20 },
+  { num: 4,  file: "004", title: "Chapter IV — Councillors", start: 21,  end: 31 },
+  { num: 5,  file: "005", title: "Chapter V — Conduct of Business", start: 32,  end: 71 },
+  { num: 6,  file: "006", title: "Chapter VI — Mayor, Chairman and other office bearers", start: 72,  end: 78 },
+  { num: 7,  file: "007", title: "Chapter VII — Functions of Councils", start: 79,  end: 84 },
+  { num: 8,  file: "008", title: "Chapter VIII — Committees", start: 85,  end: 86 },
+  { num: 9,  file: "009", title: "Chapter IX — Officers and Servants", start: 87,  end: 94 },
+  { num: 10, file: "010", title: "Chapter X — Local Taxation", start: 95,  end: 103 },
+  { num: 11, file: "011", title: "Chapter XI — Local Fund and Property", start: 104, end: 111 },
+  { num: 12, file: "012", title: "Chapter XII — Provincial Finance Commission", start: 112, end: 118 },
+  { num: 13, file: "013", title: "Chapter XIII — Provincial Local Government Commission", start: 119, end: 120 },
+  { num: 14, file: "014", title: "Chapter XIV — Administration of Service", start: 121, end: 131 },
+  { num: 15, file: "015", title: "Chapter XV — Offences, Penalties and Enforcement", start: 132, end: 137 },
+  { num: 16, file: "016", title: "Chapter XVI — Miscellaneous", start: 138, end: 154 },
+  { num: 17, file: "017", title: "Chapter XVII — Transitional Provisions", start: 155, end: 161 }
+];
+
+const SCHEDULES = [
+  { file: "1",   title: "Schedule I", subtitle: "Population criteria for Councils (Section 19)" },
+  { file: "2",   title: "Schedule II", subtitle: "Functions of Corporations, Municipal & Town Committees" },
+  { file: "3",   title: "Schedule III", subtitle: "Functions of District Councils" },
+  { file: "4",   title: "Schedule IV", subtitle: "Functions of Union Councils & Union Committees" },
+  { file: "5",   title: "Schedule V", subtitle: "Taxes, Rates, Tolls and Fees" },
+  { file: "6",   title: "Schedule VI", subtitle: "Offences (Parts I & II)" },
+  { file: "7-8", title: "Schedules VII & VIII", subtitle: "Rules-making & Bye-law-making matters" }
 ];
 
 function chapterFor(n) {
   const c = CHAPTERS.find(c => n >= c.start && n <= c.end);
   return c ? c.title : "دیگر / Other Sections";
+}
+
+function chapterNumFor(n) {
+  const c = CHAPTERS.find(c => n >= c.start && n <= c.end);
+  return c ? c.num : null;
 }
 
 async function checkSection(n) {
@@ -138,7 +225,25 @@ async function checkSection(n) {
   }
 }
 
-async function buildIndex() {
+function buildChaptersTab() {
+  const container = document.getElementById('chaptersContainer');
+  let html = '';
+  CHAPTERS.forEach(c => {
+    html += `<a href="view.html?c=${c.file}"><span>${c.title}<span class="sub">Sections ${c.start}–${c.end}</span></span><span class="status-tag">دیکھیں</span></a>`;
+  });
+  container.innerHTML = html;
+}
+
+function buildSchedulesTab() {
+  const container = document.getElementById('schedulesContainer');
+  let html = '';
+  SCHEDULES.forEach(s => {
+    html += `<a href="view.html?sch=${s.file}"><span>${s.title}<span class="sub">${s.subtitle}</span></span><span class="status-tag">دیکھیں</span></a>`;
+  });
+  container.innerHTML = html;
+}
+
+async function buildSectionsTab() {
   const results = [];
   const BATCH = 20;
   for (let start = 1; start <= TOTAL_SECTIONS; start += BATCH) {
@@ -157,7 +262,8 @@ async function buildIndex() {
   const omittedCount = results.filter(r => r.omitted).length;
   document.getElementById('progressStats').innerHTML =
     `فی الحال <strong>${TOTAL_SECTIONS}</strong> میں سے <strong>${results.length}</strong> دفعات دستیاب ہیں ` +
-    `(${completeCount} مکمل، ${omittedCount} سرکاری طور پر Omitted)`;
+    `(${completeCount} مکمل، ${omittedCount} سرکاری طور پر Omitted) — ` +
+    `<strong>17</strong> چیپٹرز اور <strong>8</strong> شیڈولز بھی مکمل دستیاب ہیں۔`;
 
   const container = document.getElementById('sectionsContainer');
   if (results.length === 0) {
@@ -186,7 +292,19 @@ async function buildIndex() {
   container.innerHTML = html;
 }
 
-buildIndex();
+// Tab switching
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('panel-' + btn.dataset.tab).classList.add('active');
+  });
+});
+
+buildChaptersTab();
+buildSchedulesTab();
+buildSectionsTab();
 </script>
 </body>
 </html>
