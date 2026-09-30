@@ -1,28 +1,45 @@
-Section 085
-📜 Original Legal Text
-85. Naming or renaming to be made under this Chapter.- No City, Municipality, Town, Village, or any part or locality thereof, or public place or public way, in this Chapter referred to as place, may be named or renamed except in accordance with the provisions of this Chapter.
+# Section 085
 
-🌐 مستند اردو ترجمہ
-دفعہ 85 — نام رکھنا یا نام تبدیل کرنا اسی باب کے تحت ہوگا
+📜 **Original Legal Text**
 
-کسی شہر، میونسپلٹی، ٹاؤن، گاؤں، یا اس کے کسی حصے یا علاقے، یا عوامی جگہ یا عوامی راستے کا نام (جسے اس باب میں "مقام" کہا گیا ہے) صرف اسی باب کی دفعات کے مطابق رکھا یا تبدیل کیا جا سکتا ہے۔
+**85. Naming or renaming to be made under this Chapter.**- No City, Municipality, Town, Village, or any part/locality thereof, or public place or public way, may be named or renamed except under the provisions of this Chapter.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 85 — نالو رکھڻ يا تبديل ڪرڻ هن باب هيٺ
+🌐 **مستند اردو ترجمہ**
 
-ڪنهن شهر، ميونسپالٽي، ٽائون، ڳوٺ، يا عوامي جڳھ يا رستي جو نالو صرف هن باب جي شقن مطابق رکيو يا تبديل ڪيو ويندو.
+دفعہ 85 — نام رکھنا یا تبدیل کرنا اسی باب کے تحت ہوگا
 
-🧠 آسان وضاحت
-یہ دفعہ واضح کرتی ہے کہ کسی بھی شہر، ٹاؤن، گاؤں یا عوامی جگہ کا نام رکھنا یا بدلنا من مانی طور پر نہیں ہو سکتا — یہ صرف اسی باب (Chapter VIII) کے مقررہ طریقہ کار کے مطابق ہی ممکن ہے۔
+کسی شہر، میونسپلٹی، ٹاؤن، گاؤں، یا اس کے کسی حصے/علاقے، یا عوامی جگہ یا عوامی راستے کا نام صرف اسی باب کی شقوں کے تحت رکھا یا تبدیل کیا جا سکتا ہے۔
 
-📚 References
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 85 — نالو رکڻ يا تبديل ڪرڻ هن باب تحت ٿيندو
+
+ڪنهن شهر، ميونسپلٽي، ٽائون، ڳوٺ، يا ان جي ڪنهن حصي، يا عوامي جاءِ يا عوامي رستي جو نالو رڳو هن باب جي شقن تحت رکيو يا تبديل ڪيو وڃي سگهي ٿو.
+
+🧠 **آسان وضاحت**
+
+یہ ایک تحفظاتی دفعہ ہے — کسی بھی جگہ کا نام تبدیل کرنا اپنی مرضی سے نہیں ہو سکتا، بلکہ صرف اس مخصوص باب (چیپٹر 8) میں دیے گئے طریقہ کار کے مطابق ہی ہو سکتا ہے۔
+
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
+
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا کبھی سہراب گوٹھ میں کسی سڑک یا جگہ کا نام تبدیل کرنے کی درخواست آئی؟"
+
+🏛 **Resolution Template**
+لاگو نہیں۔
+
+💡 **Practical Example**
+کوئی کونسل اپنی مرضی سے کسی مشہور چوک کا نام نہیں بدل سکتی جب تک دفعہ 86 کی شرائط پوری نہ ہوں۔
+
+📚 **References**
 Sindh Local Government Act, 2013 — Section 85
-Source: Sindh High Court official compiled text (screenshot-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

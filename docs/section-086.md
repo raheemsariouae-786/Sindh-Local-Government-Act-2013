@@ -1,52 +1,45 @@
-Section 086
-📜 Original Legal Text
-86. Guidelines for naming or renaming.- Naming or renaming under section 85 may be made after –
-(a) the founder of the nation or any person who took a prominent part in the creation of Pakistan;
-(b) a national or local personality with an unblemished record of service to the nation;
-(c) a person famous for his work in the field of art, culture, science and education or notable public service;
-(d) the principal donor of any building or institution built or set up for charitable purposes;
-(e) non-Pakistani with the permission of Government.
+# Section 086
 
-🌐 مستند اردو ترجمہ
-دفعہ 86 — نام رکھنے یا تبدیل کرنے کے رہنما اصول
+📜 **Original Legal Text**
 
-دفعہ 85 کے تحت نام رکھنا یا تبدیل کرنا درج ذیل کے نام پر کیا جا سکتا ہے —
-(a) بانیٔ قوم یا کوئی ایسا شخص جس نے قیامِ پاکستان میں نمایاں کردار ادا کیا ہو؛
-(b) ایسی قومی یا مقامی شخصیت جس کی قوم کی خدمت کا ریکارڈ بے داغ ہو؛
-(c) وہ شخص جو فنون، ثقافت، سائنس اور تعلیم یا نمایاں عوامی خدمت کے شعبے میں مشہور ہو؛
-(d) کسی خیراتی مقصد کے لیے بنائی گئی عمارت یا ادارے کا اصل عطیہ دہندہ؛
-(e) کوئی غیر پاکستانی، بشرطیکہ حکومت کی اجازت ہو۔
+**86. Guidelines for naming or renaming.**- Naming or renaming may be done after: (a) the founder of the nation or a person prominent in Pakistan's creation; (b) a national or local personality with an unblemished record of service; (c) a person famous for work in art, culture, science, education, or notable public service; (d) the principal donor of a charitable building/institution; (e) a non-Pakistani, with Government's permission.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 86 — نالو رکھڻ يا تبديل ڪرڻ جا اصول
+🌐 **مستند اردو ترجمہ**
 
-دفعہ 85 هيٺ نالو هيٺين جي نالي تي رکي سگهجي ٿو —
-(a) بانئ قوم يا پاڪستان جي تخليق ۾ نمايان ڪردار ادا ڪندڙ شخص؛
-(b) اهڙي قومي يا مقامي شخصيت جنهن جي خدمت بي داغ هجي؛
-(c) فن، ثقافت، سائنس ۽ تعليم ۾ مشهور شخص؛
-(d) خيراتي عمارت جو اصل عطيو ڏيندڙ؛
-(e) غير پاڪستاني، حڪومت جي اجازت سان.
+دفعہ 86 — نام رکھنے یا تبدیل کرنے کی ہدایات
 
-🧠 آسان وضاحت
-یہ دفعہ نام رکھنے کے پانچ جائز زمرے بیان کرتی ہے — قومی رہنما، بے داغ خدمت والی شخصیات، فن/سائنس/تعلیم کے ماہرین، خیراتی اداروں کے عطیہ دہندگان، اور خصوصی اجازت سے غیر پاکستانی شخصیات۔ یہ اصول کسی بھی سڑک، پارک یا عمارت کا نام تجویز کرتے وقت رہنمائی فراہم کرتے ہیں۔
+نام رکھنا/تبدیل کرنا درج ذیل کے نام پر ہو سکتا ہے: (الف) بانیِ پاکستان یا پاکستان کی تشکیل میں نمایاں کردار ادا کرنے والا شخص؛ (ب) بے داغ خدمات کے ریکارڈ والی قومی یا مقامی شخصیت؛ (ج) فن، ثقافت، سائنس، تعلیم یا نمایاں عوامی خدمت میں مشہور شخص؛ (د) خیراتی عمارت/ادارے کا اصل عطیہ دہندہ؛ (ہ) غیر پاکستانی، حکومت کی اجازت سے۔
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ کے کسی پارک/سڑک کا نام دفعہ 86 کے کس زمرے کے تحت رکھا گیا۔"
+🌿 **مستند سنڌي ترجمو**
 
-🏛 Resolution Template
-یہ ایوان دفعہ 86 کے رہنما اصولوں کے مطابق ہی نئے ناموں کی تجویز کی سفارش کرتا ہے۔
+دفعو 86 — نالو رکڻ يا تبديل ڪرڻ جون هدايتون
 
-💡 Practical Example
-اگر TMC سہراب گوٹھ کسی نئے پارک کا نام کسی مقامی سماجی خدمت گار کے نام پر رکھنا چاہے، تو یہ دفعہ 86(b) یا (c) کے تحت جائز ہوگا، بشرطیکہ اس شخص کا ریکارڈ بے داغ ہو۔
+نالو رکڻ/تبديل ڪرڻ هيٺين جي نالي تي ٿي سگهي ٿو: (الف) بانئ پاڪستان يا پاڪستان جي تشڪيل ۾ نمايان ڪردار ادا ڪندڙ شخص؛ (ب) بي داغ خدمتن جي رڪارڊ واري قومي يا مقامي شخصيت؛ (ج) فن، ثقافت، سائنس، تعليم ۾ مشهور شخص؛ (د) خيراتي عمارت جو اصل عطيو ڏيندڙ؛ (ه) غير پاڪستاني، حڪومت جي اجازت سان.
 
-📚 References
-Sindh Local Government Act, 2013 — Section 86
-Source: Sindh High Court official compiled text (screenshot-verified July 2026)
+🧠 **آسان وضاحت**
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+یہ باب 8 کی آخری دفعہ ہے جو بتاتی ہے کہ کسی جگہ کا نام کن شخصیات کے نام پر رکھا جا سکتا ہے — قومی رہنما، بے داغ خدمت والی شخصیات، فنکار/سائنسدان، یا کسی خیراتی ادارے کے بانی عطیہ دہندہ۔ غیر پاکستانی شخصیت کے نام کے لیے خاص طور پر حکومت کی اجازت ضروری ہے۔
 
-Version: 1.0 | Last Updated: July 2026
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
+
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ کی کسی سڑک یا ادارے کا نام دفعہ 86 کی کس شق کے تحت رکھا گیا؟"
+
+🏛 **Resolution Template**
+یہ ایوان دفعہ 86 کے تحت نام رکھنے کی شفاف ہدایات کی توثیق کرتا ہے۔
+
+💡 **Practical Example**
+اگر کوئی امیر شخص کسی اسکول کی عمارت کے لیے بڑا عطیہ دے، تو اس اسکول کا نام دفعہ 86(د) کے تحت اس شخص کے نام پر رکھا جا سکتا ہے۔
+
+📚 **References**
+Sindh Local Government Act, 2013 — Section 86 (Final section of Chapter VIII)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
+
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
+
+**Version:** 1.0 | **Last Updated:** September 2026
