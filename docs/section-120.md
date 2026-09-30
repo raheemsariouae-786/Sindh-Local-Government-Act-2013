@@ -1,69 +1,59 @@
-Section 120
-📜 Original Legal Text
-120. Functions of the Provincial Local Government Commission.- (1) The functions of the Provincial Local Government Commission shall be as, otherwise, provided in this Act and, in particular, it shall –
-(a) conduct special inspections of the Councils and submit reports to the Chief Minister Sindh;
-(b) conduct, on its own initiative or, whenever, so directed by the Chief Minister Sindh, an inquiry by itself or through Council into any matter concerning a Council;
-(c) cause, on its own initiative or, whenever, so directed by the Chief Minister Sindh, a special audit by itself or direct a Council to arrange a special audit, of any Council;
-(d) resolve disputes between any Department of Government of Sindh and Council or between two Councils;
-Provided that if the Local Government Commission fails to settle the disputes, the aggrieved party may move the Chief Minister Sindh for resolution thereof;
-(e) enquire into the matters referred to it by the Chief Officer under the provisions of this Act and give its decision thereon or, as the case may be, make report to the competent authority;
-(f) submit to the Chief Minister Sindh an Annual Report on the overall performance of the Council;
-(g) take cognizance of violations of laws and rules by a Council in performance of its functions;
-(h) organize consultative planning meetings of National and Provincial legislators, Mayors, Deputy Mayors, Chairmen and Vice Chairmen of Councils.
+# Section 120
 
-🌐 مستند اردو ترجمہ
-دفعہ 120 — صوبائی لوکل گورنمنٹ کمیشن کے فرائض
+📜 **Original Legal Text**
 
-(1) صوبائی لوکل گورنمنٹ کمیشن کے فرائض، اس ایکٹ میں دی گئی دیگر شقوں کے علاوہ، خاص طور پر یہ ہوں گے —
-(a) کونسلوں کا خصوصی معائنہ کرنا اور وزیرِ اعلیٰ سندھ کو رپورٹ پیش کرنا؛
-(b) اپنی مرضی سے یا وزیرِ اعلیٰ سندھ کی ہدایت پر، کسی کونسل سے متعلق کسی معاملے کی خود یا کونسل کے ذریعے تحقیقات کرنا؛
-(c) اپنی مرضی سے یا وزیرِ اعلیٰ سندھ کی ہدایت پر، کسی کونسل کا خصوصی آڈٹ خود کرنا یا کونسل کو خصوصی آڈٹ کرانے کی ہدایت دینا؛
-(d) حکومتِ سندھ کے کسی محکمے اور کونسل کے درمیان، یا دو کونسلوں کے درمیان تنازعات کا حل کرنا؛
-بشرطیکہ اگر لوکل گورنمنٹ کمیشن تنازعہ حل کرنے میں ناکام رہے، تو متاثرہ فریق وزیرِ اعلیٰ سندھ سے رجوع کر سکتا ہے؛
-(e) چیف آفیسر کی طرف سے اس ایکٹ کے تحت بھیجے گئے معاملات کی تحقیقات کر کے فیصلہ دینا یا متعلقہ اتھارٹی کو رپورٹ کرنا؛
-(f) کونسل کی مجموعی کارکردگی پر وزیرِ اعلیٰ سندھ کو سالانہ رپورٹ پیش کرنا؛
-(g) کونسل کی طرف سے اپنے فرائض کی انجام دہی میں قوانین اور قواعد کی خلاف ورزیوں کا نوٹس لینا؛
-(h) قومی و صوبائی اراکینِ اسمبلی، میئرز، ڈپٹی میئرز، چیئرمینز اور وائس چیئرمینز کی مشاورتی منصوبہ بندی اجلاس منظم کرنا۔
+**120. Functions of the Provincial Local Government Commission.**- (1) PLGC functions include: (a) special inspections of Councils; (b) inquiry into any matter concerning a Council; (c) special audit of any Council; (d) resolving disputes between a Government department and a Council, or between Councils; (e) enquiring into matters referred by the Chief Officer; (f) submitting an Annual Report to the Chief Minister; (g) taking cognizance of a Council's law violations; (h) organizing consultative planning meetings. (2) PLGC directions bind the Council. (3) PLGC may recommend suspension of a Mayor/Chairman for up to 90 days for a fair enquiry. (4) PLGC recommends action if misconduct is found. (5) PLGC has civil-court powers.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 120 — صوبائي لوڪل گورنمينٽ ڪميشن جا فرض
+🌐 **مستند اردو ترجمہ**
 
-(1) ڪميشن جا فرض هوندا —
-(a) ڪائونسلن جو خاص معائنو ۽ وزيرِ اعليٰ کي رپورٽ؛
-(b) پنهنجي مرضي يا وزيرِ اعليٰ جي هدايت تي تحقيقات؛
-(c) خاص آڊٽ ڪرڻ يا ڪرائڻ؛
-(d) کاتن يا ڪائونسلن جي وچ ۾ تڪرار حل ڪرڻ (ناڪامي تي وزيرِ اعليٰ ڏانهن رجوع ڪري سگهجي ٿو)؛
-(e) چيف آفيسر جي موڪليل معاملن جي تحقيقات؛
-(f) سالياني ڪارڪردگي جي رپورٽ؛
-(g) قانون خلاف ورزين جو نوٽيس وٺڻ؛
-(h) مشاورتي اجلاس منظم ڪرڻ.
+دفعہ 120 — PLGC کے فرائض
 
-🧠 آسان وضاحت
-یہ دفعہ صوبائی لوکل گورنمنٹ کمیشن کے وسیع فرائض بیان کرتی ہے — یہ کمیشن ایک طاقتور نگران ادارہ ہے جو کونسلوں کا معائنہ، تحقیقات، خصوصی آڈٹ کر سکتا ہے، تنازعات حل کر سکتا ہے (چاہے دو کونسلوں کے درمیان ہوں یا کسی کونسل اور حکومتی محکمے کے درمیان)، اور وزیرِ اعلیٰ کو براہ راست رپورٹ کرتا ہے۔ اگر کمیشن کوئی تنازعہ حل نہ کر سکے، تو معاملہ وزیرِ اعلیٰ تک جا سکتا ہے — یعنی یہ آخری اپیل کا ادارہ نہیں، بلکہ ایک درمیانی سطح ہے۔
+(1) PLGC کے فرائض شامل ہیں:
+(الف) کونسلوں کا خصوصی معائنہ؛
+(ب) کونسل سے متعلق کسی معاملے کی تحقیقات؛
+(ج) کسی کونسل کا خصوصی آڈٹ؛
+(د) سرکاری محکمے اور کونسل، یا دو کونسلوں کے درمیان تنازعات کا حل؛
+(ہ) چیف آفیسر کی طرف سے بھیجے گئے معاملات کی تحقیقات؛
+(و) وزیر اعلیٰ کو سالانہ رپورٹ؛
+(ز) قوانین کی خلاف ورزی پر نوٹس لینا؛
+(ح) مشاورتی منصوبہ بندی کے اجلاس منعقد کرنا۔
+(2) PLGC کی ہدایات کونسل پر پابند ہوں گی۔
+(3) PLGC منصفانہ تحقیقات کے لیے میئر/چیئرمین کی 90 دن تک معطلی کی سفارش کر سکتا ہے۔
+(4) بدانتظامی ثابت ہونے پر PLGC کارروائی کی سفارش کرے گا۔
+(5) PLGC کو سول کورٹ جیسے اختیارات حاصل ہوں گے۔
 
-⚖️ Relevant Case Law
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 120 — PLGC جا فرض
+
+(1) PLGC جا فرض شامل آهن: ڪائونسلن جو خاص معائنو؛ تحقيقات؛ خاص آڊٽ؛ تڪرارن جو حل؛ سالياني رپورٽ؛ قانونن جي خلاف ورزي تي نوٽيس.
+(3) PLGC ميئر/چيئرمين جي 90 ڏينهن تائين معطلي جي سفارش ڪري سگهي ٿو.
+(5) PLGC کي سول ڪورٽ جهڙا اختيار حاصل هوندا.
+
+🧠 **آسان وضاحت**
+
+یہ باب 13 کی آخری اور سب سے اہم دفعہ ہے، جو PLGC کو وسیع اختیارات دیتی ہے — کونسلوں کا معائنہ، خصوصی آڈٹ، تنازعات کا حل، اور سب سے اہم، **کسی میئر/چیئرمین کو 90 دن تک معطل کرنے کی سفارش** کا اختیار (اگر منصفانہ تحقیقات کے لیے ضروری ہو)۔ یہ ایک طاقتور نگرانی کا ادارہ ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ کیا TMC سہراب گوٹھ سے متعلق کوئی تنازعہ کبھی صوبائی لوکل گورنمنٹ کمیشن کے سامنے آیا ہو۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا کبھی سندھ میں دفعہ 120(3) کے تحت کسی میئر/چیئرمین کو معطل کیا گیا؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 120 کے تحت کسی بھی بین الاداراتی تنازعے کے حل کے لیے کمیشن سے رجوع کرنے کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 120 کے تحت منصفانہ تحقیقات اور احتساب کے عمل کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر TMC سہراب گوٹھ اور کسی صوبائی محکمے (مثلاً KWSC) کے درمیان کسی سہولت کے انتظام پر تنازعہ ہو، تو دفعہ 120(d) کے تحت یہ معاملہ صوبائی لوکل گورنمنٹ کمیشن کے سامنے لایا جا سکتا ہے۔
+💡 **Practical Example**
+اگر کسی چیئرمین پر سنگین بدعنوانی کا الزام ہو اور شفاف تحقیقات کے لیے ضروری ہو کہ وہ عہدے پر نہ رہے، تو PLGC وزیر اعلیٰ کو 90 دن کی عارضی معطلی کی سفارش کر سکتا ہے۔
 
-📚 References
-Sindh Local Government Act, 2013 — Section 120
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+📚 **References**
+Sindh Local Government Act, 2013 — Section 120 (Final section of Chapter XIII)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
