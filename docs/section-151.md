@@ -1,28 +1,45 @@
-Section 151
-📜 Original Legal Text
-151. Members and servants of councils to be public servants.- Every member and employee of a Council and every other person duly empowered to act on behalf of a Council shall be deemed to be a Public Servant within the meaning of Section 21 of the Pakistan Penal Code (Act XLV of 1860).
+# Section 151
 
-🌐 مستند اردو ترجمہ
-دفعہ 151 — کونسل کے ارکان اور ملازمین کا سرکاری ملازم ہونا
+📜 **Original Legal Text**
 
-کونسل کا ہر رکن اور ملازم، اور کونسل کی طرف سے باضابطہ طور پر مجاز ہر شخص، پاکستان پینل کوڈ (Act XLV of 1860) کی دفعہ 21 کے مفہوم کے مطابق "سرکاری ملازم" (Public Servant) تصور کیا جائے گا۔
+**151. Members and servants of councils to be public servants.**- Every member and employee of a Council and every other person duly empowered to act on behalf of a Council shall be deemed to be a Public Servant within the meaning of Section 21 of the Pakistan Penal Code (Act XLV of 1860).
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 151 — ڪائونسل جا ميمبر ۽ ملازم سرڪاري ملازم هوندا
+🌐 **مستند اردو ترجمہ**
 
-ڪائونسل جو هر ميمبر ۽ ملازم پاڪستان پينل ڪوڊ جي دفعہ 21 مطابق سرڪاري ملازم تصور ٿيندو.
+دفعہ 151 — کونسل کے ممبران اور ملازمین کا سرکاری ملازم ہونا
 
-🧠 آسان وضاحت
-یہ ایک نہایت اہم دفعہ ہے — کونسل کا ہر رکن (بشمول چیئرمین، وائس چیئرمین اور عام ارکان) اور ہر ملازم قانونی طور پر "سرکاری ملازم" تصور ہوتا ہے۔ اس کا مطلب ہے کہ اگر وہ اپنے فرائض میں رشوت، بدعنوانی یا بدانتظامی کریں، تو ان پر پاکستان پینل کوڈ کے سرکاری ملازمین سے متعلق سخت قوانین (جیسے دفعہ 409 خیانت، دفعہ 161 رشوت) لاگو ہو سکتے ہیں — یعنی آپ بطور کونسلر بھی اسی جوابدہی کے دائرے میں آتے ہیں جو کسی سرکاری افسر پر لاگو ہوتی ہے۔
+کونسل کا ہر رکن اور ملازم، اور کونسل کی جانب سے باقاعدہ طور پر با اختیار کیا گیا ہر دوسرا شخص، پاکستان پینل کوڈ (ایکٹ نمبر XLV آف 1860) کی دفعہ 21 کے معنی میں سرکاری ملازم (Public Servant) تصور کیا جائے گا۔
 
-📚 References
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 151 — ڪائونسل جي ميمبرن ۽ ملازمن جو سرڪاري ملازم هجڻ
+
+ڪائونسل جو هر ميمبر ۽ ملازم، ۽ ڪائونسل جي طرفان باقاعده طور اختيار ڏنل هر ٻيو شخص، پاڪستان پينل ڪوڊ (ايڪٽ نمبر XLV آف 1860) جي دفعه 21 جي معنى ۾ سرڪاري ملازم تصور ڪيو ويندو.
+
+🧠 **آسان وضاحت**
+
+کونسل کے تمام ممبران، ملازمین اور اختیار یافتہ افراد کو قانونی طور پر "سرکاری ملازم" سمجھا جاتا ہے۔ اس کا مطلب ہے کہ اگر وہ اپنے فرائض میں کوتاہی، بدعنوانی یا غلط استعمال کریں تو ان پر پاکستان پینل کوڈ کے تحت وہی سختی لاگو ہوگی جو سرکاری ملازمین پر ہوتی ہے۔
+
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
+
+📝 **RTI Sample**
+لاگو نہیں۔
+
+🏛 **Resolution Template**
+لاگو نہیں۔
+
+💡 **Practical Example**
+اگر کونسل کا کوئی رکن یا ملازم اپنے عہدے کا غلط استعمال کر کے رشوت لے، تو اس پر پاکستان پینل کوڈ کے تحت سرکاری ملازم کے طور پر کارروائی ہو سکتی ہے۔
+
+📚 **References**
 Sindh Local Government Act, 2013 — Section 151
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

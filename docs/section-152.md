@@ -1,33 +1,47 @@
-Section 152
-📜 Original Legal Text
-152. Protection of action taken in good faith.- (1) No suit, prosecution, or other legal proceedings shall lie against Government, Election Commission of Pakistan or any Council or any Officer or other person for anything done in good faith or intended to be done under this Act, or any rule or direction given thereunder.
-(2) No Court shall question the legality of any action taken in good faith or under the Authority of the Election Commission of Pakistan or an Officer appointed by it or any decisions given by any of them.
+# Section 152
 
-🌐 مستند اردو ترجمہ
-دفعہ 152 — حسنِ نیت سے کیے گئے اقدام کا تحفظ
+📜 **Original Legal Text**
 
-(1) اس ایکٹ، یا اس کے تحت بنائے گئے کسی قاعدے یا ہدایت کے تحت حسنِ نیت سے کیے گئے یا کیے جانے کے ارادہ کردہ کسی عمل کے سلسلے میں، حکومت، الیکشن کمیشن آف پاکستان، کسی کونسل، یا کسی افسر یا دیگر شخص کے خلاف کوئی مقدمہ، فردِ جرم، یا دیگر قانونی کارروائی نہیں ہوگی۔
+**152. Protection of action taken in good faith.**- (1) No suit, prosecution, or other legal proceedings shall lie against Government, Election Commission of Pakistan or any Council or any Officer or other person for anything done in good faith or intended to be done under this Act, or any rule or direction given thereunder. (2) No Court shall question the legality of any action taken in good faith or under the Authority of the Election Commission of Pakistan or an Officer appointed by it or any decisions given by any of them.
 
-(2) کوئی عدالت الیکشن کمیشن آف پاکستان، اس کے مقرر کردہ کسی افسر، یا ان میں سے کسی کے دیئے گئے فیصلوں کی، حسنِ نیت سے یا اس کے اختیار کے تحت کیے گئے کسی عمل کی قانونی حیثیت پر سوال نہیں اٹھائے گی۔
+🌐 **مستند اردو ترجمہ**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 152 — نيڪ نيتي سان کيل عمل جو تحفظ
+دفعہ 152 — نیک نیتی سے کیے گئے عمل کا تحفظ
 
-(1) حسنِ نيت سان ڪيل عمل تي حڪومت، اليڪشن ڪميشن، ڪائونسل يا آفيسر خلاف ڪو به مقدمو نه هوندو.
+(1) حکومت، الیکشن کمیشن آف پاکستان، کسی کونسل، کسی افسر یا کسی اور شخص کے خلاف کوئی مقدمہ، فردِ جرم یا کوئی اور قانونی کارروائی نہیں ہو سکتی، بشرطیکہ وہ عمل اس ایکٹ یا اس کے تحت کسی قاعدے یا ہدایت کے مطابق نیک نیتی سے کیا گیا ہو یا کرنے کا ارادہ ہو۔
+(2) کوئی عدالت الیکشن کمیشن آف پاکستان یا اس کے مقرر کردہ کسی افسر کی طرف سے نیک نیتی سے یا اس کے اختیار کے تحت کیے گئے کسی عمل یا فیصلے کی قانونی حیثیت پر سوال نہیں اٹھا سکتی۔
 
-(2) عدالت اليڪشن ڪميشن جي عمل يا فيصلن جي قانوني حيثيت تي سوال نه اٿاريندي.
+🌿 **مستند سنڌي ترجمو**
 
-🧠 آسان وضاحت
-یہ دفعہ ایک اہم قانونی تحفظ فراہم کرتی ہے — اگر کوئی افسر، کونسل، یا حکومت اپنے فرائض حسنِ نیت (good faith) سے، یعنی دیانتداری سے اور بغیر بدنیتی کے انجام دے، تو اسے بعد میں ذاتی طور پر عدالت میں کھینچا نہیں جا سکتا، چاہے اس کا فیصلہ بعد میں غلط ثابت ہو جائے۔ یہ سرکاری اہلکاروں کو خوف کے بغیر فیصلے کرنے کی آزادی دیتا ہے، بشرطیکہ وہ دیانتداری سے کام کریں — بدنیتی یا بدعنوانی پر یہ تحفظ لاگو نہیں ہوگا۔
+دفعو 152 — نيڪ نيتي سان ڪيل عمل جو تحفظ
 
-📚 References
+(1) حڪومت، اليڪشن ڪميشن آف پاڪستان، ڪنهن ڪائونسل، ڪنهن آفيسر يا ٻئي شخص خلاف ڪا به دعويٰ يا قانوني ڪاروائي نه ٿي سگهي، جيڪڏهن اهو عمل هن ايڪٽ يا ان تحت ڪنهن قاعدي مطابق نيڪ نيتي سان ڪيو ويو هجي.
+(2) ڪا به عدالت اليڪشن ڪميشن آف پاڪستان يا ان جي مقرر ڪيل آفيسر جي نيڪ نيتي سان ڪيل عمل يا فيصلي جي قانونيت تي سوال نه اٿاري سگهي.
+
+🧠 **آسان وضاحت**
+
+اگر حکومت، الیکشن کمیشن، کونسل یا کوئی افسر نیک نیتی سے، قانون کے مطابق کوئی کام کرے، تو اس پر مقدمہ نہیں چل سکتا، چاہے بعد میں وہ فیصلہ غلط بھی ثابت ہو۔ یہ تحفظ صرف نیک نیتی سے کیے گئے کاموں کے لیے ہے، بدنیتی یا بدعنوانی کو تحفظ حاصل نہیں۔
+
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
+
+📝 **RTI Sample**
+لاگو نہیں۔
+
+🏛 **Resolution Template**
+لاگو نہیں۔
+
+💡 **Practical Example**
+اگر ٹاؤن کمیٹی کا کوئی افسر نیک نیتی سے کسی غلط معلومات کی بنیاد پر کوئی نوٹس جاری کرے، تو اس کے خلاف ذاتی طور پر مقدمہ نہیں چل سکتا۔
+
+📚 **References**
 Sindh Local Government Act, 2013 — Section 152
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
