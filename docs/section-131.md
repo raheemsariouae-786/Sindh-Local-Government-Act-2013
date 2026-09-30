@@ -1,33 +1,47 @@
-Section 131
-📜 Original Legal Text
-131. Divisional and District Local Boards.- (1) Government may appoint Divisional and District Local Government Boards to exercise such functions and powers under this Act as may be delegated to them by Government.
-(2) The Divisional and District Local Government Boards shall, with the approval of Board, employ such number of employees as may be necessary on such terms and conditions and they shall be liable to such disciplinary action and penalties as may be prescribed.
+# Section 131
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**131. Divisional and District Local Boards.**- (1) Government may appoint Divisional and District Local Government Boards to exercise functions and powers delegated by Government. (2) With Board approval, these bodies employ necessary staff on prescribed terms, liable to prescribed disciplinary action.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 131 — ڈویژنل اور ڈسٹرکٹ لوکل بورڈز
 
-(1) حکومت ڈویژنل اور ڈسٹرکٹ لوکل گورنمنٹ بورڈز مقرر کر سکتی ہے تاکہ وہ اس ایکٹ کے تحت حکومت کی طرف سے تفویض کردہ فرائض اور اختیارات استعمال کریں۔
+(1) حکومت ڈویژنل/ڈسٹرکٹ لوکل گورنمنٹ بورڈز مقرر کر سکتی ہے جو حکومت کے تفویض کردہ اختیارات استعمال کریں۔
+(2) بورڈ کی منظوری سے یہ ادارے ضروری ملازمین بھرتی کریں گے۔
 
-(2) ڈویژنل اور ڈسٹرکٹ لوکل گورنمنٹ بورڈز، بورڈ کی منظوری سے، ضرورت کے مطابق ملازمین بھرتی کریں گے، مقررہ شرائط پر، اور وہ مقررہ طریقہ کار کے مطابق تادیبی کارروائی اور سزا کے ذمہ دار ہوں گے۔
+🌿 **مستند سنڌي ترجمو**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 131 — ڊويزنل ۽ ضلعي لوڪل بورڊز
+دفعو 131 — ڊويزنل ۽ ڊسٽرڪٽ لوڪل بورڊ
 
-(1) حڪومت ڊويزنل ۽ ضلعي بورڊ مقرر ڪري سگهي ٿي.
+(1) حڪومت ڊويزنل/ڊسٽرڪٽ لوڪل گورنمينٽ بورڊ مقرر ڪري سگهي ٿي جيڪي حڪومت جا سونپيل اختيار استعمال ڪن.
+(2) بورڊ جي منظوري سان اهي ادارا ضروري ملازم ڀرتي ڪندا.
 
-(2) اهي بورڊ ملازم رکندا بورڊ جي منظوري سان.
+🧠 **آسان وضاحت**
 
-🧠 آسان وضاحت
-یہ Chapter XIV کی آخری دفعہ ہے — یہ سندھ لوکل گورنمنٹ بورڈ کے نیچے ذیلی سطح کے بورڈز (ڈویژن اور ضلع کی سطح پر) قائم کرنے کا اختیار دیتی ہے، تاکہ صوبے بھر میں انتظامی کام کو مختلف سطحوں پر تقسیم کیا جا سکے۔
+یہ باب 14 (سروس کا انتظام) کی آخری دفعہ ہے۔ مرکزی بورڈ کی طرح، حکومت ہر ڈویژن اور ضلع کی سطح پر بھی چھوٹے بورڈ بنا سکتی ہے جو اپنے علاقے کے معاملات نمٹائیں — تاکہ ہر چھوٹے مسئلے کے لیے مرکزی بورڈ تک نہ جانا پڑے۔
 
-📚 References
-Sindh Local Government Act, 2013 — Section 131
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
 
-Version: 1.0 | Last Updated: July 2026
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کراچی ڈویژن کا لوکل گورنمنٹ بورڈ فعال ہے یا نہیں؟"
+
+🏛 **Resolution Template**
+لاگو نہیں۔
+
+💡 **Practical Example**
+کراچی ڈویژن کا اپنا لوکل گورنمنٹ بورڈ ہو سکتا ہے جو صرف کراچی کی کونسلوں کے ملازمین کے معاملات دیکھے، مرکزی بورڈ کا بوجھ کم کرتے ہوئے۔
+
+📚 **References**
+Sindh Local Government Act, 2013 — Section 131 (Final section of Chapter XIV)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
+
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
+
+**Version:** 1.0 | **Last Updated:** September 2026

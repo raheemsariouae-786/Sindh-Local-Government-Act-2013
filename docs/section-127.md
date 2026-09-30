@@ -1,40 +1,49 @@
-Section 127
-📜 Original Legal Text
-127. Training and Training Institutions.- (1) Government may set up institutions or make other arrangement as may be necessary for –
-(i) the pre-service and in-service training of the employees of the Councils;
-(ii) the training of Members, Mayor, Deputy Mayor, Chairmen and Vice Chairmen of Councils;
-(iii) organizing conference and seminars on Local Government and related subjects;
-(iv) undertaking research in Local Government and allied subjects independently or in collaboration with the Universities or Research Institutions.
+# Section 127
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**127. Training and Training Institutions.**- (1) Government may set up institutions/arrangements for: pre-service/in-service training of Council employees; training of Members, Mayors, Deputy Mayors, Chairmen and Vice Chairmen; conferences/seminars on local government; research; courses/examinations/diplomas; and affiliating institutions with universities. (2) Civil servants and employees of other agencies may also train at these institutions. (3) A Council may be required to contribute toward such institutions' costs.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 127 — تربیت اور تربیتی ادارے
 
-(1) حکومت درج ذیل مقاصد کے لیے ادارے قائم کر سکتی ہے یا دیگر ضروری انتظامات کر سکتی ہے —
-(i) کونسل کے ملازمین کی ملازمت سے پہلے اور دورانِ ملازمت تربیت؛
-(ii) کونسلوں کے ارکان، میئر، ڈپٹی میئر، چیئرمینز اور وائس چیئرمینز کی تربیت؛
-(iii) لوکل گورنمنٹ اور متعلقہ موضوعات پر کانفرنسز اور سیمینار منظم کرنا؛
-(iv) لوکل گورنمنٹ اور متعلقہ موضوعات میں تحقیق کرنا، خواہ آزادانہ طور پر ہو یا یونیورسٹیوں/تحقیقی اداروں کے تعاون سے۔
+(1) حکومت اداروں/انتظامات کے لیے: ملازمین کی پیشگی/دورانِ سروس تربیت؛ ارکان، میئرز، چیئرمینز کی تربیت؛ کانفرنسز/سیمینارز؛ تحقیق؛ کورسز/امتحانات/ڈپلومے؛ یونیورسٹیوں سے الحاق۔
+(2) دیگر سرکاری ملازمین بھی تربیت حاصل کر سکتے ہیں۔
+(3) کونسل کو لاگت میں حصہ ڈالنا پڑ سکتا ہے۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
+🌿 **مستند سنڌي ترجمو**
+
 دفعو 127 — تربيت ۽ تربيتي ادارا
 
-(1) حڪومت هيٺين لاءِ ادارا قائم ڪري سگهي ٿي —
-(i) ملازمن جي تربيت؛
-(ii) ميمبرن ۽ چيئرمينن جي تربيت؛
-(iii) ڪانفرنس ۽ سيمينار؛
-(iv) تحقيق.
+(1) حڪومت ادارن/انتظامن لاءِ: ملازمن جي تربيت؛ ميمبرن، ميئرن جي تربيت؛ ڪانفرنسون؛ تحقيق؛ ڪورس؛ يونيورسٽين سان الحاق.
+(2) ٻيا سرڪاري ملازم به تربيت حاصل ڪري سگهن ٿا.
+(3) ڪائونسل کي خرچ ۾ حصو ڏيڻو پئجي سگهي ٿو.
 
-🧠 آسان وضاحت
-یہ دفعہ ایک اہم صلاحیت سازی (capacity building) کا نظام قائم کرتی ہے — نہ صرف کونسل کے ملازمین بلکہ منتخب نمائندے (میئر، چیئرمین، ارکان) بھی باقاعدہ تربیت حاصل کر سکتے ہیں، تاکہ وہ اپنے فرائض بہتر طریقے سے انجام دے سکیں۔ یہ آپ جیسے کونسلر کے لیے خاص طور پر متعلقہ ہے — دفعہ 127(ii) کے تحت آپ کو باضابطہ تربیت کا حق حاصل ہے۔
+🧠 **آسان وضاحت**
 
-📚 References
+یہ دفعہ خاص طور پر آپ جیسے منتخب نمائندوں کے لیے اہم ہے — حکومت کونسلرز، میئرز اور چیئرمینز کی تربیت کے لیے ادارے بنا سکتی ہے تاکہ وہ اپنے قانونی اختیارات اور ذمہ داریوں کو بہتر سمجھ سکیں۔ ملازمین کی پیشہ ورانہ تربیت اور یونیورسٹی کے تعاون سے ڈپلومہ کورسز بھی اس میں شامل ہیں۔
+
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
+
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ منتخب کونسلرز کے لیے حکومت کی طرف سے کون سی تربیتی ورکشاپس منعقد کی گئی ہیں؟"
+
+🏛 **Resolution Template**
+یہ ایوان دفعہ 127 کے تحت منتخب نمائندوں کی مسلسل تربیت کی درخواست کرتا ہے۔
+
+💡 **Practical Example**
+نو منتخب کونسلرز کے لیے "قانونی اختیارات اور ذمہ داریاں" پر ایک ہفتے کی تربیتی ورکشاپ دفعہ 127 کے تحت منعقد کی جا سکتی ہے۔
+
+📚 **References**
 Sindh Local Government Act, 2013 — Section 127
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

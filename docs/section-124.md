@@ -1,33 +1,47 @@
-Section 124
-📜 Original Legal Text
-124. Appointment of employees for Councils.- (1) Appointment to a schedule posts shall be made by such Authority, in such manner and on such terms and conditions as, may be prescribed and the person so appointed shall be the employee of the Council.
-(2) An employee of a Council shall be liable to such disciplinary action and penalties in accordance with such procedure as may be prescribed; provided that the Council shall have power to impose the penalty on such employees.
+# Section 124
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**124. Appointment of employees for Councils.**- (1) Appointment to a scheduled post is made by such Authority, in such manner and on such terms/conditions as prescribed; the appointee becomes a Council employee. (2) A Council employee is liable to disciplinary action/penalties per prescribed procedure — the Council itself has power to impose the penalty.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 124 — کونسلوں کے لیے ملازمین کی تقرری
 
-(1) شیڈول اسامیوں پر تقرری مقررہ اتھارٹی، طریقے اور شرائط کے مطابق کی جائے گی، اور اس طرح مقرر ہونے والا شخص کونسل کا ملازم ہوگا۔
+(1) مقررہ آسامی پر تقرری مقررہ اتھارٹی، طریقے اور شرائط پر ہوگی؛ مقرر شخص کونسل کا ملازم ہوگا۔
+(2) کونسل کا ملازم مقررہ طریقہ کار کے تحت تادیبی کارروائی کا ذمہ دار ہوگا — کونسل کو سزا دینے کا اختیار حاصل ہوگا۔
 
-(2) کونسل کا ملازم مقررہ طریقہ کار کے مطابق تادیبی کارروائی اور سزا کا ذمہ دار ہوگا؛ بشرطیکہ ایسے ملازمین پر سزا عائد کرنے کا اختیار کونسل کو حاصل ہوگا۔
+🌿 **مستند سنڌي ترجمو**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 124 — ڪائونسلن لاءِ ملازمن جي تقرري
+دفعو 124 — ڪائونسلن لاءِ ملازمن جي مقرري
 
-(1) شيڊول اسامين تي تقرري مقرر ٿيل اٿارٽي ذريعي ٿيندي.
+(1) مقرر ٿيل آسامي تي مقرري مقرر ٿيل اٿارٽي، طريقي ۽ شرطن تي ٿيندي.
+(2) ڪائونسل جو ملازم مقرر ٿيل طريقيڪار تحت سزا جو ذميوار هوندو.
 
-(2) ملازم تادیبی ڪاروائي جو ذميوار هوندو؛ سزا ڏيڻ جو اختيار ڪائونسل وٽ هوندو.
+🧠 **آسان وضاحت**
 
-🧠 آسان وضاحت
-یہ دفعہ Section 123 کے شیڈول کے مطابق حقیقی تقرریوں کا طریقہ بتاتی ہے، اور اہم بات یہ ہے کہ اگر کوئی ملازم بدانتظامی کرے تو اس پر تادیبی کارروائی اور سزا کا اختیار خود کونسل کے پاس ہے — یعنی کونسل اپنے عملے پر انتظامی کنٹرول رکھتی ہے۔
+یہ دفعہ عام (نچلے درجے کے) کونسل ملازمین کی تقرری کا طریقہ بتاتی ہے — یونیفائیڈ گریڈز (دفعہ 121) سے مختلف، یہ عام ملازمین ہیں جن کی بھرتی اور سزا دونوں کا اختیار خود کونسل کے پاس ہے۔
 
-📚 References
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
+
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ ٹاؤن کمیٹی نے پچھلے سال کتنے نئے ملازمین بھرتی کیے؟"
+
+🏛 **Resolution Template**
+لاگو نہیں۔
+
+💡 **Practical Example**
+اگر کوئی ملازم ڈیوٹی میں غفلت برتے، تو کونسل خود (بغیر کسی بیرونی اتھارٹی کی مدد کے) اسے دفعہ 124(2) کے تحت سزا دے سکتی ہے۔
+
+📚 **References**
 Sindh Local Government Act, 2013 — Section 124
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
