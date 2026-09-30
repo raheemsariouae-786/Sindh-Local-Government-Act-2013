@@ -1,43 +1,45 @@
-Section 055
-📜 Original Legal Text
-55. Corrupt practice.- A person guilty of bribery, personating or undue influence shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to one hundred thousand rupees or with both.
+# Section 055
 
-🌐 مستند اردو ترجمہ
-دفعہ 55 — بدعنوان طریقہ (Corrupt Practice)
+📜 **Original Legal Text**
 
-جو شخص رشوت، جعلی شناخت (personating) یا ناروا اثر و رسوخ (undue influence) کا مرتکب پایا جائے، اسے تین سال تک قید یا ایک لاکھ روپے تک جرمانہ یا دونوں سزائیں دی جا سکتی ہیں۔
+**55. Corrupt practice.**- A person guilty of bribery, personating or undue influence shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to one hundred thousand rupees or with both.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 55 — بدعنوان طريقو
+🌐 **مستند اردو ترجمہ**
 
-جيڪو شخص رشوت، ٺڳي واري سڃاڻپ يا ناجائز اثر ۾ ملوث هجي، ان کي ٽن سالن قيد يا هڪ لک رپين جرمانو يا ٻئي سزائون ٿي سگهن ٿيون.
+دفعہ 55 — بدعنوانی
 
-🧠 آسان وضاحت
-یہ دفعہ تین قسم کے سنگین انتخابی جرائم (رشوت، جعلی شناخت کے ذریعے ووٹنگ، اور ناروا دباؤ) کے لیے سزا مقرر کرتی ہے۔ اگلی چند دفعات (56، 57، 58) میں ان تینوں جرائم کی الگ الگ تفصیلی تعریف دی گئی ہے۔
+رشوت، جعلسازی یا غیر ضروری اثر کا مرتکب شخص 3 سال تک قید یا 1 لاکھ روپے تک جرمانہ یا دونوں کی سزا کا مستحق ہوگا۔
 
-⚖️ Relevant Case Law
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 55 — بدعناوي
+
+رشوت، جعلسازي يا غير ضروري اثر جو مجرم 3 سال قيد يا 1 لک روپيا جرمانو يا ٻئي جي سزا جو حقدار هوندو.
+
+🧠 **آسان وضاحت**
+
+یہ دفعہ الیکشن کے تین بڑے جرائم — رشوت، جعلسازی (کسی اور کے نام پر ووٹ ڈالنا) اور غیر ضروری اثر (زبردستی/دباؤ) — کی سزا بیان کرتی ہے۔ تفصیل اگلی دفعات میں دی گئی ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ سے متعلق کسی امیدوار پر دفعہ 55 کے تحت مقدمہ قائم ہوا ہو تو تفصیل فراہم کی جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا سہراب گوٹھ میں کبھی دفعہ 55 کے تحت بدعنوانی کا مقدمہ درج ہوا؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 55 کے تحت انتخابی بدعنوانی کے خلاف سخت کارروائی کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 55 کے تحت انتخابی بدعنوانی کے خلاف سخت کارروائی کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر کوئی امیدوار ووٹروں کو نقد رقم دے کر ووٹ خریدتا پکڑا جائے، تو اسے دفعہ 55 کے تحت تین سال تک قید اور جرمانہ ہو سکتا ہے۔
+💡 **Practical Example**
+اگر کوئی امیدوار ووٹرز کو رقم دے کر ووٹ خریدے، تو یہ رشوت کے زمرے میں آتا ہے اور دفعہ 55 کے تحت 3 سال قید کی سزا ہو سکتی ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 55
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

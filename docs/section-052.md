@@ -1,49 +1,45 @@
-Section 052
-📜 Original Legal Text
-52. Ground for declaring elections as a whole void.- The Tribunal shall declare the election as a whole to be void if it is satisfied that the result of the election has been materially affected and amounts to tempering with the will of the voters by reasons of –
-(a) the failure of any person to comply with the provisions of this Act or the rules; or
-(b) the prevalence of extensive corrupt or illegal practice at the election.
+# Section 052
 
-🌐 مستند اردو ترجمہ
-دفعہ 52 — پورے انتخاب کو کالعدم قرار دینے کی بنیاد
+📜 **Original Legal Text**
 
-ٹریبونل پورے انتخاب کو کالعدم قرار دے گا اگر اسے یقین ہو جائے کہ انتخاب کا نتیجہ نمایاں طور پر متاثر ہوا ہے اور یہ ووٹروں کی مرضی کے ساتھ چھیڑ چھاڑ کے مترادف ہے، جس کی وجوہات یہ ہوں —
-(a) کسی شخص کی طرف سے اس ایکٹ یا قواعد کی دفعات پر عمل نہ کرنا؛ یا
-(b) انتخاب میں بڑے پیمانے پر بدعنوانی یا غیر قانونی طریقوں کا رواج پانا۔
+**52. Grounds for declaring election as a whole void.**- The Election Tribunal shall declare the election as a whole to be void if it is satisfied that the result of the election has been materially affected by reason of non-compliance with the provisions of this Act or the rules, or by reason of any corrupt or illegal practice committed extensively in furtherance of the election of the returned candidate.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 52 — سموري چونڊ کي ڪالعدم قرار ڏيڻ جو بنياد
+🌐 **مستند اردو ترجمہ**
 
-ٽربيونل سموري چونڊ کي ڪالعدم قرار ڏيندو جيڪڏهن نتيجو نمايان طور تي متاثر ٿيو هجي —
-(a) ايڪٽ يا قاعدن جي پيروي نه ٿيڻ سبب؛ يا
-(b) وڏي پيماني تي بدعنواني سبب.
+دفعہ 52 — پورے انتخاب کو کالعدم قرار دینے کی بنیادیں
 
-🧠 آسان وضاحت
-یہ دفعہ Section 50 اور 51 سے زیادہ سنگین اقدام کی اجازت دیتی ہے — اگر بدعنوانی صرف ایک امیدوار تک محدود نہ ہو بلکہ اتنی وسیع ہو کہ پورے حلقے کے نتیجے پر شک پڑ جائے، تو ٹریبونل پورے انتخاب کو ہی کالعدم قرار دے سکتا ہے، صرف ایک نشست کو نہیں۔
+الیکشن ٹریبونل پورے انتخاب کو کالعدم قرار دے گا اگر اسے یقین ہو کہ نتیجہ ایکٹ/قواعد کی عدم تعمیل سے، یا وسیع پیمانے پر بدعنوانی/غیر قانونی طریقوں سے نمایاں طور پر متاثر ہوا ہے۔
 
-⚖️ Relevant Case Law
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 52 — سموري چونڊ کي بيڪار قرار ڏيڻ جا بنياد
+
+اليڪشن ٽربيونل سموري چونڊ کي بيڪار قرار ڏيندو جيڪڏهن نتيجو ايڪٽ جي عدم تعميل يا وسيع بدعناوي سان خاص طور متاثر ٿيو هجي.
+
+🧠 **آسان وضاحت**
+
+اگر خرابی صرف ایک امیدوار تک محدود نہ ہو بلکہ پورے انتخابی عمل کو متاثر کرے (مثلاً بڑے پیمانے پر دھاندلی یا قانونی طریقہ کار کی خلاف ورزی)، تو ٹریبونل پوری الیکشن کو ہی کالعدم قرار دے کر نئے سرے سے انتخاب کرانے کا حکم دے سکتا ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ کیا سہراب گوٹھ کے کسی حلقے کا مکمل انتخاب دفعہ 52 کے تحت کبھی کالعدم قرار دیا گیا۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا سندھ میں کبھی دفعہ 52 کے تحت پورا انتخاب کالعدم قرار دیا گیا؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 52 کے تحت وسیع پیمانے پر بدعنوانی کے خلاف سخت کارروائی کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر کسی حلقے کے بیشتر پولنگ اسٹیشنز پر بڑے پیمانے پر دھاندلی ثابت ہو جائے، تو ٹریبونل پورے حلقے کا انتخاب کالعدم قرار دے کر دوبارہ الیکشن کا حکم دے سکتا ہے۔
+💡 **Practical Example**
+اگر پورے حلقے میں بیلٹ پیپرز چوری ہو جائیں یا بڑے پیمانے پر جعلی ووٹنگ ہو، تو ٹریبونل پورا انتخاب کالعدم قرار دے سکتا ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 52
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

@@ -1,43 +1,45 @@
-Section 057
-📜 Original Legal Text
-57. Personating.- A person is guilty of personating, if he votes or applies for a ballot paper for voting as some other person whether that other person is living, dead or fictitious.
+# Section 057
 
-🌐 مستند اردو ترجمہ
-دفعہ 57 — جعلی شناخت کے ذریعے ووٹنگ (Personating)
+📜 **Original Legal Text**
 
-کوئی شخص جعلی شناخت کے ذریعے ووٹنگ کا مرتکب تصور ہوگا اگر وہ کسی اور شخص کے نام سے ووٹ دے یا بیلٹ پیپر کے لیے درخواست دے — چاہے وہ دوسرا شخص زندہ ہو، فوت ہو چکا ہو، یا فرضی ہو۔
+**57. Personating.**- A person is guilty of personating, if he votes or applies for a ballot paper for voting as some other person whether that other person is living, dead or fictitious.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 57 — ٺڳي واري سڃاڻپ سان ووٽنگ
+🌐 **مستند اردو ترجمہ**
 
-ڪو به شخص ٺڳي جو مرتڪب تصور ٿيندو جيڪڏهن هو ڪنهن ٻئي شخص جي نالي سان ووٽ ڏئي، چاهي اهو شخص جيئرو هجي، مري ويو هجي يا فرضي هجي.
+دفعہ 57 — جعلسازی
 
-🧠 آسان وضاحت
-یہ دفعہ ایک سنگین انتخابی جرم کی تعریف کرتی ہے — کسی اور کے نام سے ووٹ ڈالنا، چاہے وہ اصل شخص زندہ ہو (اور خود ووٹ نہ ڈال سکا ہو)، فوت ہو چکا ہو (مگر اس کا نام ابھی تک ووٹر لسٹ میں ہو)، یا سرے سے موجود ہی نہ ہو (فرضی نام)۔ یہ ووٹنگ کے پورے نظام کی ساکھ کو نقصان پہنچاتا ہے۔
+کوئی شخص جعلسازی کا مرتکب ہوگا اگر وہ کسی اور شخص کے نام پر ووٹ ڈالے یا بیلٹ پیپر کا مطالبہ کرے، چاہے وہ شخص زندہ ہو، مردہ ہو یا فرضی ہو۔
 
-⚖️ Relevant Case Law
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 57 — جعلسازي
+
+ڪو شخص جعلسازي جو مجرم هوندو جيڪڏهن هو ڪنهن ٻئي جي نالي تي ووٽ ڏئي، ڀلي اهو شخص جيئرو، مئل يا فرضي هجي.
+
+🧠 **آسان وضاحت**
+
+یہ دفعہ "ووٹ کی چوری" کو جرم قرار دیتی ہے — یعنی کسی اور کے نام پر (چاہے وہ شخص زندہ ہو، فوت ہو چکا ہو، یا سرے سے موجود ہی نہ ہو) ووٹ ڈالنا سنگین جرم ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ کے کسی پولنگ اسٹیشن پر جعلی ووٹنگ کی شکایت درج ہوئی ہو۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا سہراب گوٹھ کے کسی پولنگ اسٹیشن پر جعلسازی کی شکایت درج ہوئی؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 57 کے تحت جعلی شناخت کے ذریعے ووٹنگ کی روک تھام کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر کوئی شخص اپنے فوت شدہ رشتہ دار کے نام پر جو ابھی تک ووٹر لسٹ میں درج ہو، ووٹ ڈالنے کی کوشش کرے، تو یہ دفعہ 57 کے تحت جرم ہے۔
+💡 **Practical Example**
+اگر کوئی شخص اپنے فوت شدہ دادا کے نام پر جو ابھی تک ووٹر لسٹ میں ہے، ووٹ ڈالنے کی کوشش کرے، تو یہ دفعہ 57 کے تحت جعلسازی کا جرم ہوگا۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 57
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

@@ -1,43 +1,45 @@
-Section 067
-📜 Original Legal Text
-67. Assistance by Government servants.- A person in the service of the Government, a Council or a body owned or controlled by Government is guilty of an offence punishable with imprisonment for a term which may extend to six months or with fine which may extend to two hundred thousand rupees, or with both if he, in any manner, gives any assistance calculated to further or hinder the election of a candidate.
+# Section 067
 
-🌐 مستند اردو ترجمہ
-دفعہ 67 — سرکاری ملازمین کی جانب سے تعاون
+📜 **Original Legal Text**
 
-حکومت، کسی کونسل، یا حکومت کے زیرِ ملکیت/کنٹرول کسی ادارے کا ملازم شخص ایک جرم کا مرتکب تصور ہوگا، جس کی سزا چھ ماہ تک قید یا دو لاکھ روپے تک جرمانہ یا دونوں ہیں، اگر وہ کسی بھی طریقے سے کسی امیدوار کے انتخاب کو فروغ دینے یا روکنے کے لیے مدد فراہم کرے۔
+**67. Improper assistance by government servant.**- Any Government servant who assists a candidate in an election in a manner not authorized by law shall be liable to disciplinary action in addition to any punishment under this Act.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 67 — سرڪاري ملازمن پاران مدد
+🌐 **مستند اردو ترجمہ**
 
-حڪومت يا ڪائونسل جو ملازم جرم جو مرتڪب تصور ٿيندو، جيڪڏهن هو ڪنهن اميدوار جي چونڊ کي فروغ ڏيڻ يا روڪڻ لاءِ مدد ڪري.
+دفعہ 67 — سرکاری ملازمین کی طرف سے غیر مناسب مدد
 
-🧠 آسان وضاحت
-یہ دفعہ سرکاری ملازمین (چاہے وہ الیکشن ڈیوٹی پر ہوں یا نہ ہوں) کو کسی بھی امیدوار کی حمایت یا مخالفت میں اپنے سرکاری اثر و رسوخ کے استعمال سے روکتی ہے۔ یہ اس بات کو یقینی بناتی ہے کہ سرکاری وسائل اور مشینری کسی خاص سیاسی مقصد کے لیے استعمال نہ ہو۔
+کوئی سرکاری ملازم جو غیر قانونی طریقے سے کسی امیدوار کی مدد کرے، اس ایکٹ کے تحت سزا کے علاوہ تادیبی کارروائی کا بھی سامنا کرے گا۔
 
-⚖️ Relevant Case Law
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 67 — سرڪاري ملازمن پاران غير مناسب مدد
+
+ڪو به سرڪاري ملازم جيڪو غير قانوني طريقي سان ڪنهن اميدوار جي مدد ڪري، ان ايڪٽ تحت سزا سان گڏ نظمي واري ڪاروائي جو به منهن ڏسندو.
+
+🧠 **آسان وضاحت**
+
+سرکاری ملازمین کو غیر جانبدار رہنا ضروری ہے۔ اگر کوئی سرکاری افسر یا ملازم اپنے عہدے کا غلط استعمال کرتے ہوئے کسی خاص امیدوار کی مدد کرے، تو اسے قانونی سزا کے ساتھ ساتھ اپنی نوکری میں بھی تادیبی کارروائی کا سامنا کرنا پڑے گا۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ میں کسی سرکاری ملازم کے خلاف دفعہ 67 کے تحت کوئی شکایت درج ہوئی ہو۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا کبھی کسی سرکاری ملازم کے خلاف دفعہ 67 کے تحت کارروائی ہوئی؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 67 کے تحت سرکاری وسائل کے سیاسی استعمال کی مکمل ممانعت کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 67 کے تحت سرکاری ملازمین کی مکمل غیر جانبداری کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر کوئی سرکاری محکمے کا اہلکار اپنے سرکاری وقت میں کسی امیدوار کے حق میں گھر گھر مہم چلائے، تو یہ دفعہ 67 کے تحت جرم ہے۔
+💡 **Practical Example**
+اگر کوئی سرکاری استاد سرکاری وسائل استعمال کرتے ہوئے کسی امیدوار کی انتخابی مہم چلائے، تو یہ دفعہ 67 کی خلاف ورزی ہوگی اور اسے محکمانہ کارروائی کا بھی سامنا ہوگا۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 67
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

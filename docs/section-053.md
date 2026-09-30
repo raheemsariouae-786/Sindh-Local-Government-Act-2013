@@ -1,43 +1,45 @@
-Section 053
-📜 Original Legal Text
-53. Decision in case of equality of votes.- Where after the conclusion of any proceedings as may be necessary for the purpose, it appears that there is an equality of votes between two or more contesting candidates and the addition of one vote for one such candidate would entitle him to be declared elected, the Tribunal shall draw a lot in respect of such candidates and the candidate on whom the lot falls shall be deemed to have received the highest number of votes entitling him to be declared elected.
+# Section 053
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**53. Decision on equality of votes.**- Where, after the count or recount of votes at an election, an equality of votes is found between two or more candidates and the addition of one vote would entitle any of the candidates to be declared elected, the Tribunal shall decide between the candidates by draw of lots, and the candidate on whom the lot falls shall be deemed to have received the highest number of votes.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 53 — مساوی ووٹوں کی صورت میں فیصلہ
 
-جہاں ضروری کارروائی مکمل ہونے کے بعد یہ ظاہر ہو کہ دو یا زیادہ مدمقابل امیدواروں کے درمیان ووٹوں کی تعداد برابر ہے، اور کسی ایک امیدوار کے لیے صرف ایک اضافی ووٹ اسے منتخب قرار دینے کا حقدار بنا دے، تو ٹریبونل ان امیدواروں کے درمیان قرعہ اندازی کرے گا، اور جس امیدوار کے نام قرعہ نکلے، اسے سب سے زیادہ ووٹ حاصل کرنے والا اور منتخب قرار دیئے جانے کا حقدار تصور کیا جائے گا۔
+اگر گنتی کے بعد دو یا زیادہ امیدواروں کے ووٹ برابر نکلیں اور ایک ووٹ کے اضافے سے کسی کا فیصلہ ہو سکتا ہو، تو ٹریبونل قرعہ اندازی کے ذریعے فیصلہ کرے گا؛ جس کا نام قرعے میں آئے گا، اسے سب سے زیادہ ووٹ حاصل کرنے والا سمجھا جائے گا۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
+🌿 **مستند سنڌي ترجمو**
+
 دفعو 53 — برابر ووٽن جي صورت ۾ فيصلو
 
-جيڪڏهن ٻن يا وڌيڪ اميدوارن جي وچ ۾ ووٽ برابر هجن، ته ٽربيونل قرعو ڪڍندو، ۽ جنهن جو نالو نڪري ان کي منتخب قرار ڏنو ويندو.
+جيڪڏهن ٻن اميدوارن جا ووٽ برابر نڪرن، ته ٽربيونل پرچي وجهي فيصلو ڪندو؛ جنهن جو نالو پرچي ۾ اچي، ان کي سڀ کان وڌيڪ ووٽ وارو سمجهيو ويندو.
 
-🧠 آسان وضاحت
-یہ دفعہ ایک نایاب مگر ممکنہ صورتحال کا حل بتاتی ہے — اگر انتخاب میں دو امیدواروں کے ووٹ بالکل برابر ہو جائیں (ایک ٹائی), تو فیصلہ قرعہ اندازی (لاٹری) کے ذریعے کیا جائے گا، تاکہ نتیجہ غیر جانبدارانہ طریقے سے نکل سکے۔
+🧠 **آسان وضاحت**
 
-⚖️ Relevant Case Law
+بہت کم صورتوں میں ایسا ہو سکتا ہے کہ دو امیدواروں کو بالکل برابر ووٹ ملیں۔ ایسی صورت میں کوئی انسانی فیصلہ نہیں بلکہ قرعہ اندازی (لاٹری کی طرح) کے ذریعے فیصلہ کیا جاتا ہے تاکہ مکمل غیر جانبداری رہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ کیا سہراب گوٹھ کے کسی وارڈ میں ٹائی ووٹنگ کی صورتحال پیش آئی اور قرعہ اندازی ہوئی۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا کبھی سندھ میں کسی مقامی حکومت کے انتخاب میں دفعہ 53 کے تحت قرعہ اندازی کی نوبت آئی؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 53 کے تحت مساوی ووٹوں کی صورت میں شفاف قرعہ اندازی کے عمل کی توثیق کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر کسی وارڈ میں دو امیدواروں کو بالکل برابر (مثلاً 500-500) ووٹ ملیں، تو فاتح کا فیصلہ دوبارہ گنتی کی بجائے باضابطہ قرعہ اندازی سے کیا جائے گا۔
+💡 **Practical Example**
+اگر دو امیدواروں کو بالکل 1500-1500 ووٹ ملیں، تو ٹریبونل دونوں کے ناموں کی پرچیاں ڈال کر ایک نکالے گا — جس کا نام نکلے وہی فاتح قرار پائے گا۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 53
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

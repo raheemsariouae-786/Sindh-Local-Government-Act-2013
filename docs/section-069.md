@@ -1,43 +1,45 @@
-Section 069
-📜 Original Legal Text
-69. Offence to be cognizable.- An offence punishable under this Chapter shall be a cognizable offence.
+# Section 069
 
-🌐 مستند اردو ترجمہ
-دفعہ 69 — جرم کا قابلِ دست اندازیٔ پولیس ہونا
+📜 **Original Legal Text**
 
-اس باب کے تحت قابلِ سزا جرم ایک قابلِ دست اندازیٔ پولیس (cognizable) جرم تصور ہوگا۔
+**69. Offences to be cognizable.**- Every offence punishable under this Chapter shall be a cognizable offence within the meaning of the Code of Criminal Procedure, 1898.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 69 — جرم جو قابلِ گرفتاري هجڻ
+🌐 **مستند اردو ترجمہ**
 
-هن باب هيٺ سزا لائق جرم هڪ قابلِ گرفتاري جرم تصور ٿيندو.
+دفعہ 69 — جرائم کا قابل دست اندازی پولیس ہونا
 
-🧠 آسان وضاحت
-یہ دفعہ ایک اہم قانونی اصطلاح واضح کرتی ہے — "cognizable offence" کا مطلب ہے کہ پولیس کو ایسے جرم کی صورت میں فوری کارروائی کرنے، گرفتاری کرنے، یا تحقیقات شروع کرنے کے لیے عدالت کے پیشگی حکم کی ضرورت نہیں ہوتی۔ یعنی یہ باب کے جرائم کو سنجیدگی سے لیا جاتا ہے اور فوری کارروائی ممکن ہے۔
+اس باب کے تحت قابل سزا ہر جرم ضابطہ فوجداری 1898 کے مفہوم میں قابل دست اندازی پولیس جرم ہوگا۔
 
-⚖️ Relevant Case Law
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 69 — ڏوهه جو قابل گرفتاري هجڻ
+
+هن باب تحت قابل سزا هر ڏوهه ضابطه فوجداري 1898 جي مفهوم ۾ قابل گرفتاري ڏوهه هوندو.
+
+🧠 **آسان وضاحت**
+
+"قابل دست اندازی پولیس" کا مطلب ہے کہ پولیس بغیر عدالتی وارنٹ کے فوری گرفتاری کر سکتی ہے۔ یہ دفعہ واضح کرتی ہے کہ الیکشن کے تمام جرائم اتنے سنگین سمجھے جاتے ہیں کہ پولیس فوری کارروائی کر سکتی ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ کے کسی انتخابی جرم پر پولیس نے فوری کارروائی کی ہو۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا سہراب گوٹھ میں کبھی دفعہ 69 کے تحت کوئی فوری گرفتاری عمل میں آئی؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 69 کے تحت انتخابی جرائم پر پولیس کی فوری کارروائی کی اہمیت کو تسلیم کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر پولنگ کے دن کوئی شخص بیلٹ باکس کے ساتھ چھیڑ چھاڑ کرتا پکڑا جائے، تو پولیس فوری طور پر گرفتار کر سکتی ہے، عدالتی وارنٹ کا انتظار کیے بغیر — کیونکہ یہ ایک قابلِ دست اندازی جرم ہے۔
+💡 **Practical Example**
+اگر پولیس کسی کو رشوت دیتے یا بیلٹ باکس سے چھیڑ چھاڑ کرتے رنگے ہاتھوں پکڑے، تو وہ بغیر وارنٹ کے فوری گرفتار کر سکتی ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 69
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

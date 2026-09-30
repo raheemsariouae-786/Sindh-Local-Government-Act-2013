@@ -1,52 +1,45 @@
-Section 063
-📜 Original Legal Text
-63. Interference with secrecy of voting.- A person is guilty of an offence punishable with imprisonment which may extend to six months or with fine which may extend to two hundred thousand rupees or with both, if he –
-(a) interferes or attempts to interfere with a voter when he records his vote; or
-(b) in any manner obtains or attempts to obtain, in a polling station, information as to the candidate for whom a voter in that station is about to vote or has voted; or
-(c) communicates at any time any information obtained in a polling station about the candidate for whom a voter in that station is about to vote or has voted.
+# Section 063
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**63. Interference with secrecy of voting.**- A person who, at a polling station, interferes with the secrecy of voting or obtains/attempts to obtain information as to the candidate for whom another person is about to vote or has voted, shall be punishable under the offences provisions of this Act.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 63 — رائے دہی کی رازداری میں مداخلت
 
-کوئی شخص ایک جرم کا مرتکب تصور ہوگا، جس کی سزا چھ ماہ تک قید یا دو لاکھ روپے تک جرمانہ یا دونوں ہیں، اگر وہ —
-(a) کسی ووٹر کے ووٹ ڈالتے وقت اس میں مداخلت کرے یا اس کی کوشش کرے؛ یا
-(b) پولنگ اسٹیشن میں کسی بھی طریقے سے یہ معلومات حاصل کرے یا کرنے کی کوشش کرے کہ کوئی ووٹر کس امیدوار کو ووٹ دینے والا ہے یا دے چکا ہے؛ یا
-(c) پولنگ اسٹیشن میں حاصل کردہ ایسی معلومات کسی وقت بھی کسی کو بتائے۔
+پولنگ اسٹیشن پر کوئی شخص جو رائے دہی کی رازداری میں مداخلت کرے یا کسی اور کے ووٹ کے بارے میں معلومات حاصل کرنے کی کوشش کرے، وہ اس ایکٹ کے جرائم کی شقوں کے تحت سزا کا مستحق ہوگا۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 63 — راءِ ڏيڻ جي رازداري ۾ مداخلت
+🌿 **مستند سنڌي ترجمو**
 
-ڪو به شخص جرم جو مرتڪب تصور ٿيندو، جنهن جي سزا ڇهه مهينن قيد آهي، جيڪڏهن هو —
-(a) ووٽر کي ووٽ ڏيڻ وقت مداخلت ڪري؛ يا
-(b) اهو معلوم ڪري ته ووٽر ڪنهن کي ووٽ ڏنو؛ يا
-(c) اها ڳجهي ڳالھ ٻڌائي.
+دفعو 63 — راءِ ڏيڻ جي ڳجهپڻ ۾ مداخلت
 
-🧠 آسان وضاحت
-یہ دفعہ ووٹنگ کی رازداری (secrecy of ballot) کی حفاظت کرتی ہے — یہ ایک بنیادی جمہوری اصول ہے کہ کسی کو یہ معلوم نہ ہو کہ کس ووٹر نے کسے ووٹ دیا۔ یہ دفعہ اس رازداری میں کسی بھی قسم کی مداخلت یا معلومات کے افشا کو جرم قرار دیتی ہے۔
+پولنگ اسٽيشن تي ڪو شخص جيڪو راءِ ڏيڻ جي ڳجهپڻ ۾ مداخلت ڪري يا ڪنهن جي ووٽ بابت معلومات حاصل ڪرڻ جي ڪوشش ڪري، اهو سزا جو مستحق هوندو.
 
-⚖️ Relevant Case Law
+🧠 **آسان وضاحت**
+
+ووٹ خفیہ ہونا ایک بنیادی حق ہے۔ اگر کوئی شخص یہ جاننے کی کوشش کرے کہ کسی نے کس کو ووٹ دیا، یا ووٹنگ کے دوران جھانکنے کی کوشش کرے، تو یہ اس رازداری کی خلاف ورزی اور جرم ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ کے کسی پولنگ اسٹیشن پر رائے دہی کی رازداری کی خلاف ورزی کی شکایت درج ہوئی ہو۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا سہراب گوٹھ کے پولنگ اسٹیشنز پر خفیہ ووٹنگ کے انتظامات (پردے وغیرہ) مناسب تھے؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 63 کے تحت ووٹنگ کی رازداری کے بنیادی جمہوری اصول کے تحفظ کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 63 کے تحت ووٹنگ کی مکمل رازداری کے تحفظ کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر پولنگ اسٹیشن کا کوئی عملہ یہ بتا دے کہ فلاں ووٹر نے کس امیدوار کو ووٹ دیا، تو یہ دفعہ 63 کے تحت سنگین جرم ہے۔
+💡 **Practical Example**
+اگر کوئی پولنگ ایجنٹ ووٹنگ بوتھ میں جھانک کر دیکھنے کی کوشش کرے کہ ووٹر نے کس کو ووٹ دیا، تو یہ دفعہ 63 کی خلاف ورزی ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 63
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

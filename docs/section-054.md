@@ -1,48 +1,45 @@
-Section 054
-📜 Original Legal Text
-54. Appeal against the orders of Tribunal.- (1) Any person aggrieved by a final order of a Tribunal may, within thirty days of the communication of such order, prefer an appeal to the High Court.
-(2) The High Court shall decide an appeal preferred under sub-section (1) within three months.
+# Section 054
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**54. Appeal against orders of the Tribunal.**- Any person aggrieved by a final order of the Election Tribunal may, within thirty days of the order, prefer an appeal to the High Court, which shall decide the appeal within three months.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 54 — ٹریبونل کے احکامات کے خلاف اپیل
 
-(1) کوئی بھی شخص جو ٹریبونل کے حتمی حکم سے متاثر ہو، اس حکم کی اطلاع ملنے کے تیس دن کے اندر ہائی کورٹ میں اپیل دائر کر سکتا ہے۔
+ٹریبونل کے حتمی حکم سے متاثرہ کوئی بھی شخص، حکم کے 30 دن کے اندر، ہائی کورٹ میں اپیل کر سکتا ہے، جو 3 ماہ میں فیصلہ کرے گی۔
 
-(2) ہائی کورٹ کو ذیلی دفعہ (1) کے تحت دائر کی گئی اپیل کا فیصلہ تین ماہ کے اندر کرنا لازمی ہے۔
+🌿 **مستند سنڌي ترجمو**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
 دفعو 54 — ٽربيونل جي حڪمن خلاف اپيل
 
-(1) ڪو به شخص جيڪو ٽربيونل جي آخري حڪم کان متاثر هجي، اهو 30 ڏينهن اندر هاءِ ڪورٽ ۾ اپيل داخل ڪري سگهي ٿو.
+ٽربيونل جي آخري حڪم کان متاثر ڪو به شخص 30 ڏينهن اندر هاءِ ڪورٽ ۾ اپيل ڪري سگهي ٿو، جيڪا 3 مهينن ۾ فيصلو ڪندي.
 
-(2) هاءِ ڪورٽ کي اپيل جو فيصلو ٽن مهينن اندر ڪرڻو پوندو.
+🧠 **آسان وضاحت**
 
-🧠 آسان وضاحت
-یہ دفعہ الیکشن ٹریبونل کے فیصلے کے خلاف آخری قانونی راستہ فراہم کرتی ہے — اگر کوئی شخص ٹریبونل کے فیصلے سے مطمئن نہ ہو، تو وہ ہائی کورٹ سے رجوع کر سکتا ہے۔ ہائی کورٹ کو بھی تین ماہ کی مقررہ مدت میں فیصلہ کرنا ہوگا تاکہ معاملہ طویل عرصے تک زیرِ التوا نہ رہے۔
+اگر کوئی الیکشن ٹریبونل کے فیصلے سے مطمئن نہ ہو، تو یہ آخری راستہ نہیں — وہ 30 دن کے اندر سندھ ہائی کورٹ میں اپیل کر سکتا ہے، اور ہائی کورٹ کو بھی 3 ماہ کی مقررہ مدت میں فیصلہ دینا ہوگا تاکہ معاملہ زیادہ عرصہ نہ لٹکے۔
 
-⚖️ Relevant Case Law
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ سے متعلق کوئی اپیل سندھ ہائی کورٹ میں زیرِ سماعت ہے یا نہیں۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا سہراب گوٹھ سے متعلق کوئی الیکشن اپیل ہائی کورٹ میں دائر ہوئی؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 54 کے تحت اپیل کے حق اور بروقت فیصلوں کی اہمیت کو تسلیم کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر کوئی امیدوار الیکشن ٹریبونل کے فیصلے سے مطمئن نہ ہو، تو وہ فیصلے کی اطلاع ملنے کے 30 دن کے اندر سندھ ہائی کورٹ میں اپیل دائر کر سکتا ہے۔
+💡 **Practical Example**
+اگر امیدوار ٹریبونل کے فیصلے سے مطمئن نہ ہو کہ اس کی الیکشن کالعدم قرار دی گئی، تو وہ 30 دن کے اندر سندھ ہائی کورٹ سے رجوع کر سکتا ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 54
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

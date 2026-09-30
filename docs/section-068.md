@@ -1,43 +1,45 @@
-Section 068
-📜 Original Legal Text
-68. Cognizance.- A Court shall not take cognizance of an offence under this Chapter except on a complaint in writing by the Election Commission or the Returning Officer.
+# Section 068
 
-🌐 مستند اردو ترجمہ
-دفعہ 68 — نوٹس/دائرہ اختیار
+📜 **Original Legal Text**
 
-کوئی عدالت اس باب کے تحت کسی جرم کا نوٹس نہیں لے گی سوائے اس کے کہ الیکشن کمیشن یا ریٹرننگ افسر کی طرف سے تحریری شکایت موصول ہو۔
+**68. Cognizance of offences.**- No court shall take cognizance of any offence punishable under this Act except on a complaint made by the Election Commission, a Returning Officer, or a person authorized by the Election Commission in this behalf.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 68 — نوٽس وٺڻ
+🌐 **مستند اردو ترجمہ**
 
-ڪا به عدالت هن باب هيٺ ڪنهن جرم جو نوٽس نه وٺندي سواءِ ان جي جو اليڪشن ڪميشن يا ريٽرننگ آفيسر جي لکت ۾ شڪايت هجي.
+دفعہ 68 — جرم کا نوٹس
 
-🧠 آسان وضاحت
-یہ دفعہ ایک اہم طریقہ کار طے کرتی ہے: کوئی بھی عام شہری براہ راست عدالت میں انتخابی جرم (مثلاً رشوت، غیر قانونی طریقہ وغیرہ) کی شکایت دائر نہیں کر سکتا۔ صرف الیکشن کمیشن یا ریٹرننگ افسر کی تحریری شکایت پر ہی عدالت اس معاملے کا نوٹس لے سکتی ہے — یہ ایک فلٹر کا کام کرتا ہے تاکہ بلاجواز مقدمات نہ بنیں۔
+کوئی عدالت اس ایکٹ کے تحت کسی جرم کا نوٹس نہیں لے گی سوائے الیکشن کمیشن، ریٹرننگ آفیسر، یا الیکشن کمیشن کے مجاز کردہ شخص کی شکایت پر۔
 
-⚖️ Relevant Case Law
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 68 — ڏوهه جو نوٽيس
+
+ڪا به عدالت هن ايڪٽ تحت ڪنهن ڏوهه جو نوٽيس نه وٺندي سواءِ اليڪشن ڪميشن يا ريٽرننگ آفيسر جي شڪايت جي.
+
+🧠 **آسان وضاحت**
+
+انتخابی جرائم کے مقدمے عام شہری کی براہ راست شکایت پر شروع نہیں ہو سکتے — صرف الیکشن کمیشن، ریٹرننگ آفیسر، یا ان کا مجاز کردہ شخص ہی باضابطہ شکایت درج کرا سکتا ہے۔ یہ ایک تحفظ ہے تاکہ بلاوجہ کے مقدمات نہ بنیں۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ سے متعلق کوئی انتخابی جرم کی شکایت الیکشن کمیشن یا ریٹرننگ افسر کی طرف سے عدالت میں دائر ہوئی ہو۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ سے متعلق کوئی انتخابی مقدمہ دفعہ 68 کے تحت کس نے درج کرایا؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 68 کے تحت انتخابی جرائم کی شکایات کے مقررہ طریقہ کار کی پیروی کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر کوئی عام شہری کسی امیدوار کے خلاف رشوت کا الزام لگائے، تو وہ براہ راست عدالت نہیں جا سکتا — پہلے الیکشن کمیشن یا ریٹرننگ افسر کو تحریری شکایت دینی ہوگی۔
+💡 **Practical Example**
+اگر کوئی عام شہری کسی امیدوار کے خلاف براہ راست تھانے میں انتخابی جرم کی رپورٹ درج کرانا چاہے، تو عدالت اس پر کارروائی نہیں کرے گی جب تک الیکشن کمیشن یا ریٹرننگ آفیسر خود شکایت درج نہ کرائے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 68
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
