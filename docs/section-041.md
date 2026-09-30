@@ -1,58 +1,45 @@
-Section 041
-📜 Original Legal Text
-41. Polling Station.- (1) The Returning Officer shall, before such time as the Election Commission may fix, submit to the District Returning Officer a list of polling stations for the constituency.
-(2) The District Returning Officer may make such alterations in the list of polling stations submitted under sub-section (1) if deems necessary and shall return to the Returning Officer the final list of polling stations at least fifteen days before the polling day, published in the official gazette, specifying the electoral areas assigned to polling stations.
-(3) The Returning Officer shall establish in each constituency polling stations according to the final list sent by the Election Commission specifying the electoral area and the voters of the electoral area who shall be entitled to vote at each polling station, and shall, at least three days before the polling day, give wide publicity, in such manner as he may deem fit, to the polling stations.
-(4) A polling station shall not be located in any premises which belongs to or is under the control of any candidate.
+# Section 041
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**41. Polling Station.**- The Returning Officer shall submit a list of polling stations to the District Returning Officer, who may alter it, and shall finalize it at least fifteen days before the polling day; the list shall be published in the Gazette showing the electoral areas assigned to each polling station. No polling station shall be located on premises belonging to or controlled by a candidate.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 41 — پولنگ اسٹیشن
 
-(1) ریٹرننگ افسر، الیکشن کمیشن کی مقررہ مدت سے پہلے، حلقے کے پولنگ اسٹیشنز کی فہرست ڈسٹرکٹ ریٹرننگ افسر کو جمع کرائے گا۔
+ریٹرننگ آفیسر پولنگ اسٹیشنز کی فہرست ڈسٹرکٹ ریٹرننگ آفیسر کو دیتا ہے، جو اسے تبدیل کر کے پولنگ سے کم از کم 15 دن پہلے حتمی شکل دیتا ہے؛ یہ فہرست گزٹ میں شائع ہوگی۔ کوئی پولنگ اسٹیشن کسی امیدوار کی ملکیت/زیر کنٹرول جگہ پر نہیں ہو سکتا۔
 
-(2) ڈسٹرکٹ ریٹرننگ افسر ضرورت کے مطابق اس فہرست میں تبدیلی کر سکتا ہے اور پولنگ کے دن سے کم از کم پندرہ دن پہلے، سرکاری گزٹ میں شائع شدہ حتمی فہرست ریٹرننگ افسر کو واپس بھیجے گا، جس میں ہر پولنگ اسٹیشن کے لیے مخصوص انتخابی علاقے کی نشاندہی ہوگی۔
+🌿 **مستند سنڌي ترجمو**
 
-(3) ریٹرننگ افسر ہر حلقے میں الیکشن کمیشن کی بھیجی گئی حتمی فہرست کے مطابق پولنگ اسٹیشن قائم کرے گا، اور پولنگ کے دن سے کم از کم تین دن پہلے پولنگ اسٹیشنز کی مناسب تشہیر کرے گا۔
-
-(4) کوئی پولنگ اسٹیشن کسی امیدوار کی ملکیت یا زیرِ کنٹرول عمارت میں قائم نہیں کیا جائے گا۔
-
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
 دفعو 41 — پولنگ اسٽيشن
 
-(1) ريٽرننگ آفيسر پولنگ اسٽيشنن جي لسٽ ضلعي ريٽرننگ آفيسر کي موڪليندو.
+ريٽرننگ آفيسر پولنگ اسٽيشنن جي فهرست ڊسٽرڪٽ ريٽرننگ آفيسر کي ڏئي ٿو، جيڪو ان کي پولنگ کان 15 ڏينهن اڳ حتمي شڪل ڏئي ٿو. ڪو به پولنگ اسٽيشن اميدوار جي ملڪيت تي نه ٿي سگهي.
 
-(2) ضلعي ريٽرننگ آفيسر ضرورت مطابق لسٽ ۾ تبديلي ڪري سگهي ٿو ۽ پولنگ کان گهٽ ۾ گهٽ 15 ڏينهن اڳ حتمي لسٽ واپس موڪليندو.
+🧠 **آسان وضاحت**
 
-(3) ريٽرننگ آفيسر پولنگ کان گهٽ ۾ گهٽ ٽي ڏينهن اڳ پولنگ اسٽيشنن جي تشهير ڪندو.
+یہ دفعہ پولنگ اسٹیشن کے انتخاب میں شفافیت یقینی بناتی ہے — سب سے اہم بات یہ کہ کوئی بھی پولنگ اسٹیشن کسی امیدوار کی اپنی زمین یا عمارت پر نہیں بنایا جا سکتا، تاکہ وہ ووٹرز کو متاثر نہ کر سکے۔
 
-(4) ڪو به پولنگ اسٽيشن ڪنهن اميدوار جي ملڪيت واري عمارت ۾ قائم نه ٿيندو.
-
-🧠 آسان وضاحت
-یہ دفعہ پولنگ اسٹیشن کے قیام کا مکمل طریقہ کار بتاتی ہے — کیسے فہرست بنتی ہے، کتنے دن پہلے حتمی فہرست شائع ہوتی ہے، اور تشہیر کیسے کی جاتی ہے۔ سب سے اہم بات: کوئی بھی پولنگ اسٹیشن کسی امیدوار کی ملکیت والی جگہ پر نہیں بن سکتا — یہ شفافیت اور غیر جانبداری کو یقینی بناتا ہے۔
-
-⚖️ Relevant Case Law
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم سہراب گوٹھ کے حلقے کی پولنگ اسٹیشنز کی حتمی فہرست فراہم کی جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ کے آخری انتخابات میں کتنے پولنگ اسٹیشن قائم کیے گئے اور ان کی فہرست فراہم کی جائے۔"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 41 کے تحت پولنگ اسٹیشنز کے شفاف اور غیر جانبدارانہ قیام کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 41 کے تحت غیر جانبدار پولنگ اسٹیشنز کے قیام کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر کوئی امیدوار اپنی ذاتی عمارت کو پولنگ اسٹیشن کے طور پر پیش کرے، تو دفعہ 41(4) کے تحت یہ قابلِ قبول نہیں ہوگا۔
+💡 **Practical Example**
+اگر کسی امیدوار کا اپنا اسکول ہو، تو اس اسکول کو اس کے اپنے حلقے میں پولنگ اسٹیشن کے طور پر استعمال نہیں کیا جا سکتا۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 41
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

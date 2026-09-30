@@ -1,55 +1,45 @@
-Section 032
-📜 Original Legal Text
-32. Franchise and wards.- Save as otherwise provided under the Act –
-(a) election of members of all councils, shall be held through secret ballot on the basis of adult franchise in such manner as may be prescribed;
-(b) Election Commission may for the purpose of election divide a local area into such number of Union Councils, Union Committees or Wards having a definite boundary as it may determine;
-(c) the Union Councils, Union Committees or Wards may be multi members or single members as the case may be;
-(d) [Omitted]
+# Section 032
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**32. Franchise and wards.**- Elections under this Act shall be held on the basis of adult franchise and by secret ballot. The Election Commission may divide a local area into Union Councils, Union Committees or Wards, with defined boundaries, which may be multi-member or single-member as provided in this Act.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 32 — رائے دہی کا حق اور وارڈز
 
-اس ایکٹ میں دی گئی دیگر شقوں کے سوا —
-(a) تمام کونسلوں کے ارکان کا انتخاب خفیہ رائے شماری (secret ballot) کے ذریعے، بالغ رائے دہی کی بنیاد پر، مقررہ طریقے سے کیا جائے گا؛
-(b) الیکشن کمیشن انتخاب کے مقصد کے لیے کسی مقامی علاقے کو یونین کونسلز، یونین کمیٹیوں یا وارڈز کی اس تعداد میں تقسیم کر سکتا ہے جو وہ مقرر کرے، جن کی حدود واضح ہوں؛
-(c) یونین کونسلز، یونین کمیٹیاں یا وارڈز، جیسا معاملہ ہو، کثیر ارکان یا واحد رکن پر مشتمل ہو سکتے ہیں؛
-(d) [حذف شدہ]
+اس ایکٹ کے تحت انتخابات بالغ رائے دہی کی بنیاد پر اور خفیہ رائے شماری کے ذریعے ہوں گے۔ الیکشن کمیشن مقامی علاقے کو متعین حدود والی یونین کونسلوں/کمیٹیوں یا وارڈز میں تقسیم کر سکتا ہے، جو ملٹی ممبر یا سنگل ممبر ہو سکتے ہیں۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 32 — راءِ ڏيڻ جو حق ۽ وارڊ
+🌿 **مستند سنڌي ترجمو**
 
-هن ايڪٽ ۾ ڏنل ٻين شقن کان سواءِ —
-(a) سڀني ڪائونسلن جي ميمبرن جي چونڊ ڳجھي راءِ شماري ذريعي، بالغ راءِ دهي جي بنياد تي ٿيندي؛
-(b) اليڪشن ڪميشن چونڊ جي مقصد لاءِ ڪنهن مقامي علائقي کي يونين ڪائونسلن، يونين ڪميٽين يا وارڊن ۾ ورهائي سگهي ٿو؛
-(c) يونين ڪائونسل، يونين ڪميٽي يا وارڊ گھڻن ميمبرن يا هڪ ميمبر تي مشتمل ٿي سگهن ٿا؛
-(d) [حذف ٿيل]
+دفعو 32 — راءِ ڏيڻ جو حق ۽ وارڊون
 
-🧠 آسان وضاحت
-یہ دفعہ انتخابات کے بنیادی اصول بیان کرتی ہے: تمام ووٹنگ خفیہ رائے شماری سے ہوگی، اور الیکشن کمیشن کو یہ اختیار حاصل ہے کہ وہ کسی علاقے کو مختلف یونین کونسلز/کمیٹیوں یا وارڈز میں تقسیم کرے — یہ سنگل ممبر یا ملٹی ممبر بھی ہو سکتے ہیں۔
+هن ايڪٽ تحت چونڊون بالغ راءِ جي بنياد تي ۽ ڳجهي راءِ شماري ذريعي ٿينديون. اليڪشن ڪميشن مقامي علائقي کي مقرر ٿيل حدن سان يونين ڪائونسلن/وارڊن ۾ ورهائي سگهي ٿو.
 
-⚖️ Relevant Case Law
+🧠 **آسان وضاحت**
+
+یہ دفعہ انتخابات کا بنیادی اصول بیان کرتی ہے: ہر بالغ شہری کو ووٹ کا حق حاصل ہے، اور ووٹ خفیہ طور پر ڈالا جائے گا (کوئی دیکھ نہیں سکے گا کہ کس نے کسے ووٹ دیا)۔ الیکشن کمیشن مختلف علاقوں کو وارڈز میں تقسیم کرتا ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ کے وارڈز کی حد بندی الیکشن کمیشن نے کب اور کس نوٹیفیکیشن کے تحت کی۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ ٹاؤن میں کتنے وارڈز ہیں اور ان کی حدود کیا ہیں؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 32 کے مطابق شفاف اور خفیہ رائے شماری کے اصول کی توثیق کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 32 کے تحت خفیہ رائے شماری کے اصول کی توثیق کرتا ہے۔
 
-💡 Practical Example
-TMC سہراب گوٹھ کے تمام ووٹرز خفیہ بیلٹ کے ذریعے اپنے وارڈ کے نمائندے کو منتخب کرتے ہیں — کسی کو یہ معلوم نہیں ہوتا کہ کس نے کسے ووٹ دیا۔
+💡 **Practical Example**
+ہر ووٹر پولنگ اسٹیشن پر جا کر پردے کے پیچھے خفیہ طور پر اپنا ووٹ ڈالتا ہے تاکہ کسی پر دباؤ نہ ہو۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 32
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

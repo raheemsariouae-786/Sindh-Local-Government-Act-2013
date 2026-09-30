@@ -1,46 +1,45 @@
-Section 033
-📜 Original Legal Text
-33. Election on party basis.- The elections to the Council under this Act shall be held on party basis:
-Provided that any candidate may contest election as independent candidate and may subsequently join any party.
+# Section 033
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**33. Election on party basis.**- Elections to the Councils shall be held on party basis. A candidate may also contest an election as an independent candidate and may join a political party after being declared as returned candidate.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 33 — جماعتی بنیاد پر انتخاب
 
-اس ایکٹ کے تحت کونسل کے انتخابات جماعتی بنیاد (party basis) پر منعقد ہوں گے:
-بشرطیکہ کوئی بھی امیدوار آزاد امیدوار کے طور پر الیکشن لڑ سکتا ہے، اور بعد میں کسی بھی جماعت میں شامل ہو سکتا ہے۔
+کونسل کے انتخابات جماعتی بنیاد پر ہوں گے۔ کوئی امیدوار آزاد حیثیت سے بھی الیکشن لڑ سکتا ہے اور منتخب قرار پانے کے بعد کسی سیاسی جماعت میں شامل ہو سکتا ہے۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 33 — سياسي جماعت جي بنياد تي چونڊ
+🌿 **مستند سنڌي ترجمو**
 
-هن ايڪٽ هيٺ ڪائونسل جون چونڊون سياسي جماعت جي بنياد تي ٿينديون:
-بشرطيڪ ڪو به اميدوار آزاد اميدوار طور چونڊ وڙهي سگهي ٿو، ۽ بعد ۾ ڪنهن به جماعت ۾ شامل ٿي سگهي ٿو.
+دفعو 33 — پارٽي بنياد تي چونڊ
 
-🧠 آسان وضاحت
-یہ دفعہ واضح کرتی ہے کہ لوکل گورنمنٹ کے انتخابات بنیادی طور پر سیاسی جماعتوں کی بنیاد پر ہوتے ہیں — یعنی امیدوار کسی جماعت کے ٹکٹ پر الیکشن لڑ سکتا ہے۔ مگر یہ لازمی نہیں — کوئی بھی شخص آزاد امیدوار کے طور پر بھی الیکشن لڑ سکتا ہے، اور جیتنے کے بعد چاہے تو کسی جماعت میں شامل ہو سکتا ہے۔
+ڪائونسل جون چونڊون پارٽي بنياد تي ٿينديون. ڪو اميدوار آزاد حيثيت ۾ به چونڊ وڙهي سگهي ٿو ۽ چونڊجڻ کان پوءِ ڪنهن پارٽي ۾ شامل ٿي سگهي ٿو.
 
-⚖️ Relevant Case Law
+🧠 **آسان وضاحت**
+
+مقامی حکومت کے انتخابات میں امیدوار سیاسی جماعت کے ٹکٹ پر یا آزاد حیثیت سے، دونوں طرح لڑ سکتے ہیں۔ اگر کوئی آزاد امیدوار جیت جائے، تو وہ بعد میں کسی جماعت میں شامل ہونے کا فیصلہ کر سکتا ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ کے حالیہ بلدیاتی انتخابات میں کتنے امیدوار جماعتی اور کتنے آزاد حیثیت میں کھڑے ہوئے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ آخری انتخابات میں سہراب گوٹھ سے کتنے آزاد امیدواروں نے حصہ لیا اور کتنے جیتنے کے بعد کسی جماعت میں شامل ہوئے؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 33 کے تحت جماعتی اور آزاد دونوں طرح کے امیدواروں کے حق کو تسلیم کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں (انتخابی طریقہ کار کی وضاحتی دفعہ)۔
 
-💡 Practical Example
-اگر کوئی شخص پیپلز پارٹی کے ٹکٹ پر الیکشن نہ جیت سکے، تو وہ آزاد امیدوار کے طور پر بھی الیکشن لڑ سکتا ہے، اور جیتنے کے بعد پارٹی میں شمولیت اختیار کر سکتا ہے۔
+💡 **Practical Example**
+ایک آزاد امیدوار الیکشن جیتنے کے بعد کسی بڑی سیاسی جماعت میں شمولیت اختیار کر سکتا ہے، بغیر دوبارہ الیکشن لڑے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 33
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

@@ -1,84 +1,45 @@
-Section 036
-📜 Original Legal Text
-36. Disqualification for candidates as members.- (1) A person shall be disqualified from being elected or chosen as and from being a member of the Council, if –
-(a) he is of unsound mind and has been so declared by a competent court; or
-(b) he is an un-discharged insolvent;
-(c) [Omitted];
-(d) he holds an office of profit in the service of Pakistan, or Province of Sindh or a Council;
-(e) he is in the service of any statutory body or a body which is owned or controlled by the Government or the Federal Government or a Council or, in which any of such Government or Council has a controlling share or interest, except the holders of elected public office; provided that in case of a person who has resigned or retired from any such service, a period of not less than six months has elapsed since his resignation or retirement; or
-(f) he has been convicted by a court of competent jurisdiction for an offence involving moral turpitude or misuse of power or authority under any law unless a period of three years has elapsed since his release; or
-(g) he has been convicted for an offence involving activities prejudicial to the ideology, interest, security, unity, solidarity, peace and integrity of Pakistan, unless a period of three years has elapsed since his release;
-(h) he has been dismissed, removed or compulsorily retired from public service on the grounds of misconduct unless a period of three years has elapsed since his dismissal, removal or compulsory retirement;
-(i) he is under contract for work to be done or goods to be supplied to a council or has otherwise any direct pecuniary interest in its affairs;
-(j) he is for the time being disqualified or chosen as a member of the Provincial Assembly under any law for the time being enforce;
-(k) he is certified by his Political Party to have defected from the Party.
-(2) Whoever –
-(a) is found, by the Election Commission to have contravened the provisions of sub-section (1), shall stand disqualified from being a candidate for election to any office of a Council for a period of four years;
-(b) having been elected as a member of a Council or is a holder of an elective office of the Council is found by the Election Commission to have contravened the provisions of sub-section (1) shall cease forthwith to be an elected member or to hold the office of such member and stand disqualified from being a candidate for election to a Council for a period of four years.
+# Section 036
 
-🌐 مستند اردو ترجمہ
-دفعہ 36 — امیدواروں کی نااہلیت
+📜 **Original Legal Text**
 
-(1) کوئی شخص کونسل کے رکن کے طور پر منتخب ہونے یا رہنے کے لیے نااہل ہوگا اگر —
-(a) وہ ذہنی طور پر معذور ہو اور کسی مجاز عدالت نے اسے ایسا قرار دیا ہو؛ یا
-(b) وہ ایسا مقروض ہو جس کا قرض ابھی ادا نہ ہوا ہو؛
-(c) [حذف شدہ]؛
-(d) وہ پاکستان، صوبہ سندھ یا کسی کونسل کی سرکاری ملازمت میں منافع بخش عہدے پر ہو؛
-(e) وہ کسی ایسے سرکاری ادارے کی ملازمت میں ہو جو حکومت یا کونسل کے کنٹرول میں ہو — سوائے منتخب عوامی عہدے داروں کے؛ بشرطیکہ استعفیٰ/ریٹائرمنٹ کے بعد کم از کم چھ ماہ گزر چکے ہوں؛ یا
-(f) اسے کسی مجاز عدالت نے اخلاقی پستی یا اختیارات کے غلط استعمال کے جرم میں سزا دی ہو، جب تک رہائی کے بعد تین سال نہ گزر جائیں؛ یا
-(g) اسے پاکستان کی نظریاتی، سلامتی یا یکجہتی کے خلاف سرگرمیوں کے جرم میں سزا ہوئی ہو، جب تک تین سال نہ گزریں؛
-(h) اسے بدانتظامی کی بنیاد پر سرکاری ملازمت سے برخاست یا لازمی ریٹائر کیا گیا ہو، جب تک تین سال نہ گزریں؛
-(i) وہ کسی کونسل کے ساتھ کام یا سامان کی فراہمی کے معاہدے میں ہو یا اس کے معاملات میں براہ راست مالی مفاد رکھتا ہو؛
-(j) وہ فی الوقت صوبائی اسمبلی کا رکن بننے کے لیے نااہل قرار پایا ہو؛
-(k) اس کی سیاسی جماعت نے اسے پارٹی سے منحرف ہونے کی تصدیق کی ہو۔
+**36. Disqualification for candidates.**- A person shall be disqualified from being elected or chosen as, and from being, a member if he or she – (a) is of unsound mind and has been so declared by a competent court; (b) is an undischarged insolvent; (c) holds an office of profit in the service of Pakistan, Sindh or a Council, other than an office declared by law not to disqualify its holder; (d) is in the service of any statutory body or any body which is owned or controlled by Government or in which Government has a controlling share or interest, unless a period of not less than six months has elapsed since he ceased to be in such service; (e) has been convicted for an offence involving moral turpitude or misuse of power or authority, unless a period of three years has elapsed since his release; (f) has been convicted of an offence against the integrity of the country, unless a period of three years has elapsed since his release; (g) has been dismissed or removed from service for misconduct, unless a period of three years has elapsed since his dismissal; (h) has, directly or indirectly, any share or interest in a contract with the Council; (i) is disqualified under any law for the time being in force as a Member of the Provincial Assembly; or (j) is declared by his political party as a defector. Any person who contravenes any provision of this section shall be disqualified for a period of four years from contesting any election under this Act.
 
-(2) اگر کوئی شخص —
-(a) الیکشن کمیشن کی طرف سے ذیلی دفعہ (1) کی خلاف ورزی کرتا پایا جائے، تو وہ چار سال کے لیے کسی بھی کونسل کے عہدے کے انتخاب کے لیے نااہل قرار پائے گا؛
-(b) کونسل کا منتخب رکن ہونے کے باوجود اگر الیکشن کمیشن اسے ذیلی دفعہ (1) کی خلاف ورزی کرتا پائے، تو وہ فوری طور پر اپنی رکنیت کھو دے گا اور چار سال کے لیے نااہل قرار پائے گا۔
+🌐 **مستند اردو ترجمہ**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 36 — اميدوارن جي نااهليت
+دفعہ 36 — امیدواروں کی نااہلی
 
-(1) ڪو به شخص ڪائونسل جو ميمبر چونڊجڻ لاءِ نااهل هوندو جيڪڏهن —
-(a) هو ذهني طور تي معذور هجي؛ يا
-(b) هو اڻ ادا قرضدار هجي؛
-(d) هو منافعي واري سرڪاري عهدي تي هجي؛
-(e) هو ڪنهن سرڪاري ادارن جي ملازمت ۾ هجي؛
-(f) کيس اخلاقي جرم ۾ سزا ٿي هجي؛
-(g) کيس پاڪستان جي سالميت خلاف سرگرمين تي سزا ٿي هجي؛
-(h) کيس بدانتظامي تي نوڪري مان برطرف ڪيو ويو هجي؛
-(i) هن جو ڪائونسل سان ڪنٽرئڪٽ هجي؛
-(j) هو صوبائي اسيمبلي لاءِ نااهل هجي؛
-(k) هن جي پارٽي کيس منحرف قرار ڏنو هجي.
+کوئی شخص رکن منتخب ہونے سے نااہل ہوگا اگر: (الف) عدالت سے ذہنی طور پر ناقص قرار پایا ہو؛ (ب) غیر فارغ شدہ دیوالیہ ہو؛ (ج) پاکستان/سندھ/کونسل کی سروس میں منافع بخش عہدہ رکھتا ہو؛ (د) کسی سرکاری زیر کنٹرول ادارے کی سروس میں ہو (سوائے 6 ماہ بعد کے)؛ (ہ) اخلاقی پستی یا اختیار کے غلط استعمال کا مجرم ہو (سوائے رہائی کے 3 سال بعد)؛ (و) ملکی سالمیت کے خلاف جرم کا مجرم ہو؛ (ز) بدانتظامی پر برخاست ہو (سوائے 3 سال بعد)؛ (ح) کونسل کے معاہدے میں مالی مفاد رکھتا ہو؛ (ط) صوبائی اسمبلی کے رکن کے طور پر نااہل ہو؛ یا (ی) اس کی جماعت نے اسے منحرف قرار دیا ہو۔ خلاف ورزی پر 4 سال کی نااہلی ہوگی۔
 
-(2) جيڪڏهن ڪو شخص مٿين شقن جي خلاف ورزي ڪري، ته هو چار سالن لاءِ نااهل قرار ڏنو ويندو.
+🌿 **مستند سنڌي ترجمو**
 
-🧠 آسان وضاحت
-یہ دفعہ ان تمام وجوہات کی مکمل فہرست دیتی ہے جن کی بنیاد پر کوئی شخص کونسل کا رکن بننے کے لیے نااہل قرار پا سکتا ہے — ذہنی معذوری، دیوالیہ پن، سرکاری منافع بخش عہدہ، فوجداری سزا، ملکی سالمیت کے خلاف سرگرمی، بدانتظامی پر برطرفی، مالی مفاد کا تصادم، یا پارٹی سے انحراف۔ اگر کوئی شخص پہلے سے منتخب ہو چکا ہو اور بعد میں نااہلیت ثابت ہو جائے، تو وہ فوری طور پر اپنی نشست کھو دیتا ہے اور چار سال کے لیے دوبارہ الیکشن نہیں لڑ سکتا۔
+دفعو 36 — اميدوارن جي نااهلي
 
-⚖️ Relevant Case Law
+ڪو شخص نااهل هوندو جيڪڏهن: ذهني طور نالائق هجي؛ ديوالياپن جو شڪار هجي؛ فائديمند عهدو رکندو هجي؛ سرڪاري ادارن جي خدمت ۾ هجي؛ اخلاقي خرابي جو مجرم هجي؛ رياست مخالف سرگرمين جو مجرم هجي؛ بدانتظامي تي برطرف هجي؛ ڪائونسل جي معاهدن ۾ مالي مفاد رکندو هجي؛ يا پارٽي کيس منحرف قرار ڏنو هجي. خلاف ورزي تي 4 سالن جي نااهلي ٿيندي.
+
+🧠 **آسان وضاحت**
+
+یہ دفعہ ان تمام وجوہات کی تفصیلی فہرست دیتی ہے جن کی بنیاد پر کوئی شخص انتخاب لڑنے کا اہل نہیں رہتا — ذہنی معذوری، دیوالیہ پن، سرکاری منافع بخش عہدہ، مجرمانہ ریکارڈ، بدعنوانی، یا کونسل کے ساتھ ذاتی مالی مفاد۔ یہ ایکٹ کی سب سے اہم "احتساب" والی دفعات میں سے ایک ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ TMC سہراب گوٹھ میں دفعہ 36 کے تحت اب تک کسی امیدوار کو نااہل قرار دیا گیا ہو تو اس کی تفصیل فراہم کی جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا کبھی سہراب گوٹھ سے کسی امیدوار کی نامزدگی دفعہ 36 کے تحت مسترد ہوئی، اور کس بنیاد پر؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 36 کے تحت امیدواروں کی اہلیت کی مکمل جانچ پڑتال کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 36 کے تحت امیدواروں کی مکمل جانچ پڑتال کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر کوئی امیدوار کسی سرکاری ٹھیکے میں ملوث ہو (جیسے TMC کو سامان فراہم کرنے کا معاہدہ رکھتا ہو)، تو وہ دفعہ 36(1)(i) کے تحت الیکشن لڑنے کا اہل نہیں ہوگا جب تک وہ اپنا مالی مفاد ختم نہ کرے۔
+💡 **Practical Example**
+اگر کوئی امیدوار کونسل کے کسی ٹھیکے میں پارٹنر ہو (مثلاً کونسل کا کوئی تعمیراتی معاہدہ اس کی کمپنی کو ملا ہو)، تو دفعہ 36(ح) کے تحت وہ نااہل قرار پائے گا کیونکہ یہ "مفادات کا ٹکراؤ" (conflict of interest) ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 36
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

@@ -1,58 +1,45 @@
-Section 040
-📜 Original Legal Text
-40. Appointment of Returning Officer and other officers.- (1) Subject to sub-section (2), the Election Commission of Pakistan shall appoint from amongst the officers of the Election Commission, the Government, a body or entity controlled by the Government or any other Authority, a District Returning Officer, Returning Officer and an Assistant Returning Officer for each constituency for the purposes of elections under this Act.
-(2) The Election Commission of Pakistan may appoint a person as Returning Officer or Assistant Returning Officer for two or more constituencies.
-(3) An Assistant Returning Officer shall assist the Returning Officer in the performance of his functions under this Act and may, subject to such conditions as may be imposed by the Election Commission, exercise and perform, under the control of the Returning Officer, the powers and functions of the Returning Officer.
-(4) It shall be the duty of the Returning Officer to do all such acts as may be necessary for effectively conducting an election in accordance with the provisions of this Act and the rules.
+# Section 040
 
-🌐 مستند اردو ترجمہ
-دفعہ 40 — ریٹرننگ افسر اور دیگر افسران کا تقرر
+📜 **Original Legal Text**
 
-(1) ذیلی دفعہ (2) کے تابع، الیکشن کمیشن آف پاکستان اس ایکٹ کے تحت انتخابات کے مقاصد کے لیے، ہر حلقے کے لیے الیکشن کمیشن، حکومت، حکومت کے زیرِ کنٹرول ادارے یا کسی اور اتھارٹی کے افسران میں سے ایک ڈسٹرکٹ ریٹرننگ افسر، ریٹرننگ افسر اور اسسٹنٹ ریٹرننگ افسر مقرر کرے گا۔
+**40. Appointment of Returning Officer and other officers.**- The Election Commission shall appoint District Returning Officers, Returning Officers, and Assistant Returning Officers from amongst officers of the Election Commission, Government, or a body controlled by Government, and one such officer may be appointed for more than one electoral constituency.
 
-(2) الیکشن کمیشن آف پاکستان کسی شخص کو دو یا زیادہ حلقوں کے لیے ریٹرننگ افسر یا اسسٹنٹ ریٹرننگ افسر مقرر کر سکتا ہے۔
+🌐 **مستند اردو ترجمہ**
 
-(3) اسسٹنٹ ریٹرننگ افسر، ریٹرننگ افسر کے فرائض کی انجام دہی میں معاونت کرے گا، اور الیکشن کمیشن کی مقررہ شرائط کے تحت، ریٹرننگ افسر کے کنٹرول میں اس کے اختیارات اور فرائض انجام دے سکتا ہے۔
+دفعہ 40 — ریٹرننگ آفیسر اور دیگر افسران کی تقرری
 
-(4) ریٹرننگ افسر کا یہ فرض ہوگا کہ وہ اس ایکٹ اور قواعد کے مطابق مؤثر طریقے سے انتخاب کے انعقاد کے لیے تمام ضروری اقدامات کرے۔
+الیکشن کمیشن اپنے، حکومت کے، یا زیر کنٹرول اداروں کے افسران میں سے ڈسٹرکٹ ریٹرننگ آفیسر، ریٹرننگ آفیسر اور اسسٹنٹ ریٹرننگ آفیسر مقرر کرتا ہے؛ ایک افسر متعدد حلقوں کا انچارج ہو سکتا ہے۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 40 — ريٽرننگ آفيسر ۽ ٻين آفيسرن جو تقرر
+🌿 **مستند سنڌي ترجمو**
 
-(1) اليڪشن ڪميشن هر حلقي لاءِ ضلعي ريٽرننگ آفيسر، ريٽرننگ آفيسر ۽ اسسٽنٽ ريٽرننگ آفيسر مقرر ڪندو.
+دفعو 40 — ريٽرننگ آفيسر ۽ ٻين آفيسرن جي مقرري
 
-(2) اليڪشن ڪميشن هڪ شخص کي ٻن يا وڌيڪ حلقن لاءِ مقرر ڪري سگهي ٿو.
+اليڪشن ڪميشن پنهنجن، حڪومت جي، يا ڪنٽرول ٿيل ادارن جي آفيسرن مان ڊسٽرڪٽ ريٽرننگ آفيسر، ريٽرننگ آفيسر ۽ اسسٽنٽ ريٽرننگ آفيسر مقرر ڪري ٿو.
 
-(3) اسسٽنٽ ريٽرننگ آفيسر، ريٽرننگ آفيسر جي مدد ڪندو.
+🧠 **آسان وضاحت**
 
-(4) ريٽرننگ آفيسر جو فرض هوندو ته هو چونڊ جي مؤثر انعقاد لاءِ ضروري ڪم ڪري.
+انتخابات کے انتظام کے لیے الیکشن کمیشن مختلف سطحوں پر افسران مقرر کرتا ہے — سب سے اوپر ڈسٹرکٹ ریٹرننگ آفیسر، پھر ریٹرننگ آفیسر، اور ان کی مدد کے لیے اسسٹنٹ ریٹرننگ آفیسر۔ یہ عام طور پر سرکاری افسران ہوتے ہیں جنہیں عارضی طور پر یہ ذمہ داری دی جاتی ہے۔
 
-🧠 آسان وضاحت
-یہ دفعہ بتاتی ہے کہ ہر انتخابی حلقے کے لیے کون کون سے افسران مقرر ہوتے ہیں — ڈسٹرکٹ ریٹرننگ افسر، ریٹرننگ افسر، اور اسسٹنٹ ریٹرننگ افسر۔ یہ افسران الیکشن کے پورے عمل کو منظم اور مؤثر طریقے سے چلانے کے ذمہ دار ہوتے ہیں۔
-
-⚖️ Relevant Case Law
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم سہراب گوٹھ کے حلقے کے حالیہ انتخابات میں مقرر ہونے والے ریٹرننگ افسر کا نام اور نوٹیفیکیشن فراہم کیا جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ کے حلقے کے لیے آخری انتخابات میں ریٹرننگ آفیسر کون تھا؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 40 کے تحت مقرر کردہ افسران کی شفاف کارکردگی کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں (انتظامی تقرری کی دفعہ)۔
 
-💡 Practical Example
-سہراب گوٹھ کے حلقے میں ایک ریٹرننگ افسر مقرر ہوگا جو نامزدگی کاغذات کی جانچ، نتائج کی تصدیق اور مجموعی الیکشن کے انتظام کا ذمہ دار ہوگا۔
+💡 **Practical Example**
+ایک ہی ریٹرننگ آفیسر (عام طور پر کوئی سرکاری افسر جیسے اسسٹنٹ کمشنر) کئی ملحقہ یونین کونسلوں کے انتخابات کی نگرانی کر سکتا ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 40
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

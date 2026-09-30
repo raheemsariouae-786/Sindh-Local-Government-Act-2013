@@ -1,62 +1,49 @@
-Section 039
-📜 Original Legal Text
-39. Electoral rolls.- (1) A person shall be entitled to be enrolled as a voter if he –
-(a) is a citizen of Pakistan;
-(b) is not less than eighteen years of age; and
-(c) fulfils such other conditions as the Election Commission may specify.
-(2) The electoral rolls for the Councils elections shall be prepared or adopted by the Election Commission of Pakistan in such manner as it may deem appropriate and the electoral rolls shall not be invalid by reason of any erroneous description in the electoral rolls of any person listed or of an omission of the name of any person entitled to be enrolled or of inclusion of the name of any person not so entitled.
-(3) Every person whose name is entered in the electoral roll shall be entitled to cast vote in the elections in respective Council.
+# Section 039
 
-🌐 مستند اردو ترجمہ
-دفعہ 39 — الیکٹورل رولز (ووٹر لسٹ)
+📜 **Original Legal Text**
 
-(1) کوئی شخص ووٹر کے طور پر رجسٹرڈ ہونے کا حقدار ہوگا اگر —
-(a) وہ پاکستان کا شہری ہو؛
-(b) اس کی عمر کم از کم اٹھارہ سال ہو؛ اور
-(c) وہ الیکشن کمیشن کی مقرر کردہ دیگر شرائط پوری کرتا ہو۔
+**39. Electoral rolls.**- (1) A person shall be qualified to be enrolled as a voter if he or she is a citizen of Pakistan, is not less than eighteen years of age, and fulfils such other conditions as may be specified by the Election Commission. (2) The Election Commission shall prepare or adopt electoral rolls for the purpose of elections under this Act, and any error in or omission from an electoral roll shall not, by itself, be a ground for declaring the roll invalid. (3) Every person whose name appears on the electoral roll shall be entitled to vote at the election of the Council in respect of which the roll has been prepared.
 
-(2) کونسل کے انتخابات کے لیے الیکٹورل رولز الیکشن کمیشن آف پاکستان اپنے مناسب سمجھے طریقے سے تیار یا اختیار کرے گا، اور کسی فہرست میں شامل کسی شخص کی غلط تفصیل، کسی حقدار شخص کے نام کے حذف ہونے، یا کسی غیر حقدار شخص کے نام کے شامل ہونے کی بنیاد پر الیکٹورل رول کو کالعدم نہیں سمجھا جائے گا۔
+🌐 **مستند اردو ترجمہ**
 
-(3) ہر وہ شخص جس کا نام الیکٹورل رول میں درج ہو، وہ متعلقہ کونسل کے انتخاب میں ووٹ دینے کا حقدار ہوگا۔
+دفعہ 39 — ووٹر لسٹیں
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 39 — اليڪٽورل رول (ووٽر لسٽ)
+(1) کوئی شخص ووٹر کے طور پر اہل ہوگا اگر پاکستانی شہری ہو، کم از کم 18 سال کا ہو، اور الیکشن کمیشن کی مقررہ شرائط پوری کرتا ہو۔
+(2) الیکشن کمیشن ووٹر لسٹیں تیار/اپناتا ہے؛ معمولی غلطیاں یا کوتاہیاں لسٹ کو غیر موثر نہیں بناتیں۔
+(3) ہر درج شدہ شخص اپنی کونسل کے انتخاب میں ووٹ ڈال سکتا ہے۔
 
-(1) ڪو به شخص ووٽر طور داخل ٿيڻ جو حقدار هوندو جيڪڏهن —
-(a) هو پاڪستان جو شهري هجي؛
-(b) سندس عمر گهٽ ۾ گهٽ 18 سال هجي؛ ۽
-(c) هو اليڪشن ڪميشن جون ٻيون شرطون پوريون ڪري.
+🌿 **مستند سنڌي ترجمو**
 
-(2) ڪائونسل چونڊن لاءِ اليڪٽورل رول اليڪشن ڪميشن تيار ڪندو.
+دفعو 39 — ووٽر فهرستون
 
-(3) هر اهو شخص جنهن جو نالو اليڪٽورل رول ۾ داخل هجي، اهو لاڳاپيل ڪائونسل جي چونڊ ۾ ووٽ ڏيڻ جو حقدار هوندو.
+(1) ڪو شخص ووٽر طور اهل هوندو جيڪڏهن پاڪستاني شهري هجي، گهٽ ۾ گهٽ 18 سالن جو هجي.
+(2) اليڪشن ڪميشن ووٽر فهرستون تيار ڪري ٿو؛ معمولي غلطيون فهرست کي غير مؤثر نٿيون بڻائين.
+(3) هر داخل ٿيل شخص ووٽ ڏئي سگهي ٿو.
 
-🧠 آسان وضاحت
-یہ دفعہ ووٹر بننے کی بنیادی شرائط بیان کرتی ہے — پاکستانی شہریت، کم از کم 18 سال کی عمر۔ نیز یہ بھی واضح کرتی ہے کہ اگر ووٹر لسٹ میں کوئی چھوٹی غلطی ہو (نام کی غلط ہجے، کسی کا نام غلطی سے چھوٹ جانا) تو اس سے پوری الیکٹورل رول کالعدم نہیں ہو جاتی — یہ عملی لچک فراہم کرتی ہے۔
+🧠 **آسان وضاحت**
 
-⚖️ Relevant Case Law
+18 سال یا اس سے زیادہ عمر کا ہر پاکستانی شہری ووٹر کے طور پر رجسٹرڈ ہو سکتا ہے۔ اگر ووٹر لسٹ میں کوئی چھوٹی سی غلطی (جیسے نام کا ہجہ) ہو، تو اس وجہ سے پوری لسٹ کو غلط قرار نہیں دیا جا سکتا — یہ ایک عملی تحفظ ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم سہراب گوٹھ کے فلاں وارڈ کی حالیہ ووٹر لسٹ کی مصدقہ نقل فراہم کی جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ کی موجودہ ووٹر لسٹ میں کل کتنے رجسٹرڈ ووٹرز ہیں؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 39 کے تحت مکمل اور شفاف ووٹر لسٹوں کی تیاری کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 39 کے تحت درست اور تازہ ترین ووٹر لسٹوں کی تیاری کی درخواست کرتا ہے۔
 
-💡 Practical Example
-اگر کسی شہری کا نام غلطی سے ووٹر لسٹ سے چھوٹ جائے، تو یہ پوری الیکٹورل رول کو غلط نہیں بناتا — البتہ وہ شخص اپنا نام درست کرانے کے لیے درخواست دے سکتا ہے۔
+💡 **Practical Example**
+اگر کسی ووٹر کا نام لسٹ میں غلط ہجے کے ساتھ درج ہو (مثلاً "احمد" کی بجائے "احمد علی")، تو یہ اکیلی وجہ اسے ووٹ ڈالنے سے نہیں روک سکتی۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 39
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

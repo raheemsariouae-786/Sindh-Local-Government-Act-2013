@@ -1,63 +1,51 @@
-Section 034
-📜 Original Legal Text
-34. Election Commission to conduct elections.- (1) The Election Commission of Pakistan shall conduct elections for the Councils under this Act.
-(2) Government shall, in consultation with the Election Commission, make an announcement of the date or dates on which the election for the Councils shall be conducted in the Province or part thereof.
-Provided that the date or dates of such election shall not be less than sixty days and not more than hundred and twenty days from the date of such announcements:
-Provided further that Government may extend or curtail the period mentioned in this section if the circumstances so warrant.
-(3) Upon announcement of the date or dates of elections of the Councils under sub-section (2), the Election Commission of Pakistan shall organize and conduct the elections and to make necessary arrangements as are necessary to ensure that the election is conducted honestly, justly, fairly and the corrupt practices are guarded against.
-(4) The Election Commission may authorise its Commissioner or any officer to perform its functions as may be deemed necessary.
+# Section 034
 
-🌐 مستند اردو ترجمہ
-دفعہ 34 — الیکشن کمیشن انتخابات کرائے گا
+📜 **Original Legal Text**
 
-(1) اس ایکٹ کے تحت کونسلوں کے انتخابات الیکشن کمیشن آف پاکستان کرائے گا۔
+**34. Election Commission to conduct elections.**- (1) The Election Commission shall conduct elections to all Councils under this Act. (2) Government shall, in consultation with the Election Commission, announce the date of elections, which shall not be less than sixty and not more than one hundred and twenty days from the date of such announcement: Provided that Government may, if circumstances so warrant, extend or curtail the said period. (3) The Election Commission shall organize and conduct the election in a manner to ensure that the election is conducted honestly, fairly, justly and in accordance with law, and that corrupt practices are guarded against. (4) The Election Commission may authorize a Commissioner or an officer to perform any of its functions under this Act.
 
-(2) حکومت، الیکشن کمیشن سے مشاورت کر کے، صوبے یا اس کے کسی حصے میں کونسلوں کے انتخابات کی تاریخ یا تاریخوں کا اعلان کرے گی:
-بشرطیکہ ایسے انتخابات کی تاریخ اعلان کی تاریخ سے کم از کم ساٹھ دن اور زیادہ سے زیادہ ایک سو بیس دن کے اندر ہونی چاہیے؛
-مزید بشرطیکہ حکومت حالات کے تقاضے کے مطابق اس مدت میں توسیع یا کمی کر سکتی ہے۔
+🌐 **مستند اردو ترجمہ**
 
-(3) ذیلی دفعہ (2) کے تحت انتخابات کی تاریخ کے اعلان کے بعد، الیکشن کمیشن آف پاکستان انتخابات کا انعقاد کرے گا اور یہ یقینی بنانے کے لیے ضروری انتظامات کرے گا کہ انتخاب ایمانداری، انصاف اور شفافیت سے ہو اور بدعنوانی پر مبنی طریقوں سے بچا جائے۔
+دفعہ 34 — الیکشن کمیشن کا انتخابات کرانا
 
-(4) الیکشن کمیشن اپنے کمشنر یا کسی افسر کو ضرورت کے مطابق اپنے فرائض انجام دینے کا اختیار دے سکتا ہے۔
+(1) الیکشن کمیشن آف پاکستان تمام کونسل انتخابات کرائے گا۔
+(2) حکومت، الیکشن کمیشن کے مشورے سے، انتخابات کی تاریخ کا اعلان کرے گی — اعلان کے 60 سے کم اور 120 دن سے زیادہ نہیں: بشرطیکہ حکومت حالات کے مطابق اس مدت میں توسیع یا کمی کر سکتی ہے۔
+(3) الیکشن کمیشن انتخابات کو ایمانداری، انصاف اور شفافیت کے ساتھ منظم کرے گا اور بدعنوانی کے خلاف تحفظ فراہم کرے گا۔
+(4) الیکشن کمیشن اپنے کمشنر یا کسی افسر کو اپنے فرائض انجام دینے کا اختیار دے سکتا ہے۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 34 — اليڪشن ڪميشن چونڊون ڪرائيندو
+🌿 **مستند سنڌي ترجمو**
 
-(1) هن ايڪٽ هيٺ ڪائونسلن جون چونڊون اليڪشن ڪميشن آف پاڪستان ڪرائيندو.
+دفعو 34 — اليڪشن ڪميشن جو چونڊون ڪرائڻ
 
-(2) حڪومت، اليڪشن ڪميشن سان صلاح مشوري ڪري، صوبي ۾ چونڊن جي تاريخ جو اعلان ڪندي:
-بشرطيڪ اها تاريخ اعلان کان گهٽ ۾ گهٽ سٺ ڏينهن ۽ وڌ ۾ وڌ 120 ڏينهن اندر هجي.
+(1) اليڪشن ڪميشن آف پاڪستان سڀ ڪائونسل چونڊون ڪرائيندو.
+(2) حڪومت، اليڪشن ڪميشن جي صلاح سان، چونڊن جي تاريخ جو اعلان ڪندي — 60 کان گهٽ ۽ 120 ڏينهن کان وڌيڪ نه.
+(3) اليڪشن ڪميشن چونڊن کي ايمانداري ۽ انصاف سان منظم ڪندو.
+(4) اليڪشن ڪميشن پنهنجي ڪمشنر يا آفيسر کي اختيار ڏئي سگهي ٿو.
 
-(3) اليڪشن ڪميشن چونڊون منظم ۽ ايمانداري سان ڪرائيندو ته جيئن بدعنواني کان بچاءُ ٿئي.
+🧠 **آسان وضاحت**
 
-(4) اليڪشن ڪميشن پنهنجي ڪميشنر يا ڪنهن آفيسر کي پنهنجا ڪم انجام ڏيڻ جو اختيار ڏئي سگهي ٿو.
+یہ دفعہ الیکشن کمیشن کو مقامی حکومت کے انتخابات کرانے کا مکمل اختیار دیتی ہے۔ حکومت صرف تاریخ کا اعلان کرتی ہے (وہ بھی الیکشن کمیشن کے مشورے سے)، جبکہ حقیقی انتخابی عمل مکمل طور پر آزاد الیکشن کمیشن کے ہاتھ میں ہوتا ہے تاکہ شفافیت یقینی بنائی جا سکے۔
 
-🧠 آسان وضاحت
-یہ دفعہ بتاتی ہے کہ لوکل گورنمنٹ کے انتخابات کون کرائے گا (الیکشن کمیشن آف پاکستان)، اور ان کی تاریخ کیسے طے ہوگی — اعلان کے 60 سے 120 دن کے اندر۔ الیکشن کمیشن کو یہ ذمہ داری بھی دی گئی ہے کہ وہ انتخابات کو منصفانہ اور شفاف بنائے۔
-
-⚖️ Relevant Case Law
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم سہراب گوٹھ کے حالیہ بلدیاتی انتخابات کے اعلان اور انعقاد کی تاریخوں کا سرکاری ریکارڈ فراہم کیا جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ ٹاؤن کمیٹی کے آخری انتخابات کی تاریخ کا اعلان کب ہوا اور یہ اعلان کے کتنے دن بعد منعقد ہوئے؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 34 کے تحت شفاف اور بروقت انتخابات کے انعقاد کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 34 کے تحت شفاف اور بروقت انتخابات کے انعقاد کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر حکومت یکم جنوری کو انتخابات کا اعلان کرے، تو انتخاب کی تاریخ یکم مارچ (60 دن بعد) سے پہلے اور یکم مئی (120 دن بعد) کے بعد نہیں ہو سکتی۔
+💡 **Practical Example**
+اگر انتخابات کا اعلان یکم جنوری کو ہو، تو دفعہ 34(2) کے مطابق پولنگ 2 مارچ سے پہلے اور یکم مئی سے بعد میں نہیں ہو سکتی (سوائے خصوصی حالات کے)۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 34
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

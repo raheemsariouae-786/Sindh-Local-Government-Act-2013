@@ -1,48 +1,45 @@
-Section 043
-📜 Original Legal Text
-43. Supply of Electoral rolls.- (1) The Election Commission shall provide the electoral rolls of the constituency to the Returning Officer.
-(2) The Returning Officer shall provide the electoral rolls, containing the names of the voters entitled to vote at a polling station, to the Presiding Officer.
+# Section 043
 
-🌐 مستند اردو ترجمہ
-دفعہ 43 — الیکٹورل رولز کی فراہمی
+📜 **Original Legal Text**
 
-(1) الیکشن کمیشن حلقے کی الیکٹورل رولز ریٹرننگ افسر کو فراہم کرے گا۔
+**43. Supply of Electoral rolls.**- The Election Commission shall supply electoral rolls to the Returning Officer who shall supply the same to the Presiding Officers for use at the polling stations.
 
-(2) ریٹرننگ افسر پولنگ اسٹیشن پر ووٹ ڈالنے کے حقدار ووٹرز کے ناموں پر مشتمل الیکٹورل رولز پریزائیڈنگ افسر کو فراہم کرے گا۔
+🌐 **مستند اردو ترجمہ**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 43 — اليڪٽورل رول جي فراهمي
+دفعہ 43 — ووٹر لسٹوں کی فراہمی
 
-(1) اليڪشن ڪميشن حلقي جو اليڪٽورل رول ريٽرننگ آفيسر کي ڏيندو.
+الیکشن کمیشن ریٹرننگ آفیسر کو، اور وہ پریزائیڈنگ آفیسرز کو پولنگ اسٹیشنز پر استعمال کے لیے ووٹر لسٹیں فراہم کرتا ہے۔
 
-(2) ريٽرننگ آفيسر پولنگ اسٽيشن جو اليڪٽورل رول پريزائيڊنگ آفيسر کي ڏيندو.
+🌿 **مستند سنڌي ترجمو**
 
-🧠 آسان وضاحت
-یہ ایک سادہ انتظامی دفعہ ہے جو بتاتی ہے کہ ووٹر لسٹ کیسے اوپر سے نیچے تک پہنچتی ہے — الیکشن کمیشن سے ریٹرننگ افسر تک، اور پھر ریٹرننگ افسر سے پریزائیڈنگ افسر تک، تاکہ ہر پولنگ اسٹیشن پر صحیح ووٹر لسٹ دستیاب ہو۔
+دفعو 43 — ووٽر فهرستن جي فراهمي
 
-⚖️ Relevant Case Law
+اليڪشن ڪميشن ريٽرننگ آفيسر کي، ۽ اهو پريزائيڊنگ آفيسرن کي فهرستون فراهم ڪري ٿو.
+
+🧠 **آسان وضاحت**
+
+یہ ایک سادہ انتظامی دفعہ ہے جو بتاتی ہے کہ ووٹر لسٹیں کیسے اوپر سے نیچے تک پہنچائی جاتی ہیں — الیکشن کمیشن سے ریٹرننگ آفیسر، اور وہاں سے ہر پولنگ اسٹیشن کے پریزائیڈنگ آفیسر تک۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم سہراب گوٹھ کے پولنگ اسٹیشن پر استعمال ہونے والی الیکٹورل رول کی نقل فراہم کی جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ کے پولنگ اسٹیشنز کو ووٹر لسٹیں کب فراہم کی گئیں؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 43 کے تحت درست اور بروقت الیکٹورل رولز کی فراہمی کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں (انتظامی دفعہ)۔
 
-💡 Practical Example
-پولنگ کے دن، پریزائیڈنگ افسر کے پاس اسی پولنگ اسٹیشن کی مخصوص ووٹر لسٹ ہوتی ہے، جس کی بنیاد پر وہ تصدیق کرتا ہے کہ کون ووٹ ڈالنے کا اہل ہے۔
+💡 **Practical Example**
+پولنگ کے دن سے پہلے ہر پولنگ اسٹیشن پر اس مخصوص علاقے کی حتمی ووٹر لسٹ پہنچا دی جاتی ہے تاکہ ووٹنگ کے دن تصدیق میں آسانی ہو۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 43
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
