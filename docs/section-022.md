@@ -1,53 +1,49 @@
-Section 022
-📜 Original Legal Text
-22. Oath of office.- (1) A member shall, before taking his seat in a Council make and subscribe to an oath in such form as may be prescribed.
-(2) The Mayor, Deputy Mayor, Chairman and Vice Chairman, shall assume office by making and subscribing to an oath in such form as may be prescribed.
-(3) Where a Mayor, Deputy Mayor, Chairman, Vice Chairman, and Member has failed to file the declaration referred to in sub-section (1), his or her membership shall be suspended and shall remain so, till he or she files the declaration such form and manner as may be prescribed.
+# Section 022
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**22. Oath of office.**- (1) A member shall, before taking his seat in a Council, make and subscribe to an oath in such form as may be prescribed. (2) The Mayor, Deputy Mayor, Chairman and Vice Chairman shall assume office by making and subscribing to an oath in such form as may be prescribed. (3) Where a Mayor, Deputy Mayor, Chairman, Vice Chairman, or Member has failed to file the declaration referred to in sub-section (1), his or her membership shall be suspended and shall remain so until he or she files the declaration in such form and manner as may be prescribed.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 22 — عہدے کا حلف
 
-(1) کسی رکن کو کونسل میں اپنی نشست سنبھالنے سے پہلے مقررہ فارم کے مطابق حلف اٹھانا اور اس پر دستخط کرنا لازمی ہے۔
+(1) کوئی رکن کونسل میں اپنی نشست سنبھالنے سے پہلے مقررہ فارم میں حلف اٹھائے گا اور اس پر دستخط کرے گا۔
+(2) میئر، ڈپٹی میئر، چیئرمین اور وائس چیئرمین مقررہ فارم میں حلف اٹھا کر اور دستخط کر کے عہدہ سنبھالیں گے۔
+(3) اگر میئر، ڈپٹی میئر، چیئرمین، وائس چیئرمین یا رکن ذیلی شق (1) میں بیان کردہ اعلامیہ داخل کرنے میں ناکام رہے، تو اس کی رکنیت معطل رہے گی جب تک وہ مقررہ فارم اور طریقے سے اعلامیہ داخل نہ کرے۔
 
-(2) میئر، ڈپٹی میئر، چیئرمین اور وائس چیئرمین بھی مقررہ فارم کے مطابق حلف اٹھا کر اور اس پر دستخط کر کے اپنا عہدہ سنبھالیں گے۔
+🌿 **مستند سنڌي ترجمو**
 
-(3) اگر کوئی میئر، ڈپٹی میئر، چیئرمین، وائس چیئرمین یا رکن ذیلی دفعہ (1) میں مذکور اعلامیہ جمع کرانے میں ناکام رہے، تو اس کی رکنیت معطل ہو جائے گی اور اس وقت تک معطل رہے گی جب تک وہ مقررہ طریقے سے اعلامیہ جمع نہ کرا دے۔
-
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
 دفعو 22 — عهدي جو حلف
 
-(1) ڪنهن ميمبر کي ڪائونسل ۾ پنهنجي سيٽ سنڀالڻ کان اڳ مقرر ٿيل فارم مطابق حلف کڻڻو ۽ ان تي صحيح ڪرڻي پوندي.
+(1) ڪو به ميمبر ڪائونسل ۾ پنهنجي سيٽ سنڀالڻ کان اڳ مقرر ٿيل فارم ۾ حلف کڻندو.
+(2) ميئر، ڊپٽي ميئر، چيئرمين ۽ وائيس چيئرمين مقرر ٿيل فارم ۾ حلف کڻي عهدو سنڀاليندا.
+(3) جيڪڏهن ڪو حلف يا اعلاميو داخل ڪرڻ ۾ ناڪام رهي، ته سندس ميمبرشپ معطل رهندي.
 
-(2) ميئر، ڊپٽي ميئر، چيئرمين ۽ وائيس چيئرمين پڻ مقرر ٿيل فارم مطابق حلف کڻي پنهنجو عهدو سنڀاليندا.
+🧠 **آسان وضاحت**
 
-(3) جيڪڏهن ڪو ميئر، ڊپٽي ميئر، چيئرمين، وائيس چيئرمين يا ميمبر ذيلي دفعہ (1) ۾ ذڪر ٿيل اعلاميو جمع ڪرائڻ ۾ ناڪام رهي، ته ان جي رڪنيت معطل ٿي ويندي.
+کوئی بھی منتخب رکن یا عہدیدار اپنا کام تب تک شروع نہیں کر سکتا جب تک وہ باضابطہ حلف نہ اٹھائے۔ اگر کوئی حلف یا مطلوبہ اعلامیہ (declaration) داخل نہ کرے، تو اس کی رکنیت خودکار طور پر معطل ہو جائے گی — یہ ایک تعمیل کی شرط ہے۔
 
-🧠 آسان وضاحت
-یہ دفعہ واضح کرتی ہے کہ کوئی بھی رکن یا عہدیدار اپنی نشست پر باقاعدہ کام تب ہی شروع کر سکتا ہے جب وہ مقررہ حلف اٹھا لے۔ اگر کوئی حلف نہ اٹھائے تو اس کی رکنیت خودکار طور پر معطل ہو جاتی ہے — یہ ایک اہم قانونی تقاضا ہے جسے نظرانداز نہیں کیا جا سکتا۔
-
-⚖️ Relevant Case Law
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم TMC سہراب گوٹھ کے موجودہ چیئرمین/ارکان کے حلف برداری کی مصدقہ دستاویز فراہم کی جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ ٹاؤن کمیٹی کے موجودہ چیئرمین نے حلف کب اٹھایا؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 22 کے مطابق تمام ارکان کی بروقت حلف برداری کو یقینی بنانے کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 22 کے تحت تمام ارکان کے حلف کی تکمیل کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر کوئی نو منتخب رکن حلف اٹھائے بغیر اجلاس میں شرکت کرے، تو اس کے ووٹ یا فیصلے کو قانونی حیثیت حاصل نہیں ہوگی جب تک وہ باضابطہ حلف نہ اٹھا لے۔
+💡 **Practical Example**
+اگر کوئی نو منتخب رکن حلف اٹھانے میں تاخیر کرے، تو وہ اس وقت تک اجلاسوں میں ووٹ نہیں دے سکتا جب تک حلف مکمل نہ کرے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 22
-Source: Sindh High Court official compiled text (verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

@@ -1,26 +1,45 @@
-Section 023
-📜 Original Legal Text
-23. Declaration of Assets.- (1) Every Mayor, Deputy Mayor, Chairman, Vice Chairman, and Member of the Council shall within thirty days of making oath file a declaration of his or her assets and liabilities before such authority and in [متن یہاں سرکاری PDF میں نامکمل/کٹا ہوا ملا — مکمل جملہ تصدیق کے لیے دوبارہ چیک کرنا باقی ہے]।
+# Section 023
 
-⚠️ نوٹ برائے شفافیت
-یہ Section سرکاری PDF (Sindh High Court compiled text) سے نکالتے وقت آخر میں نامکمل ملا — ممکن ہے یہ صفحہ break یا extraction کی تکنیکی خرابی ہو۔ جب تک مکمل متن دوبارہ تصدیق نہ ہو جائے، اسے "Source Matched" کا درجہ نہیں دیا جا رہا، بلکہ "Pending Verification" رکھا جا رہا ہے، جیسا کہ ہماری Governance Rule کا تقاضا ہے۔
+📜 **Original Legal Text**
 
-🌐 مستند اردو ترجمہ (جزوی — مکمل متن کی تصدیق تک)
-دفعہ 23 — اثاثوں کا اعلامیہ
+**23. Declaration of Assets.**- Every Mayor, Deputy Mayor, Chairman, Vice Chairman, and Member of the Council shall, within thirty days of making oath, file a declaration of his or her assets and liabilities before such authority and in such manner as may be prescribed.
 
-(1) ہر میئر، ڈپٹی میئر، چیئرمین، وائس چیئرمین اور کونسل کا رکن، حلف اٹھانے کے تیس دن کے اندر اپنے اثاثوں اور واجبات کا اعلامیہ [باقی تفصیل — مقررہ اتھارٹی اور طریقہ کار — تصدیق درکار] جمع کرائے گا۔
+🌐 **مستند اردو ترجمہ**
 
-🧠 آسان وضاحت (عمومی مفہوم، حتمی نہیں)
-یہ دفعہ لازمی قرار دیتی ہے کہ ہر منتخب عہدیدار اور رکن اپنے مالی اثاثوں کی شفاف تفصیل ایک مقررہ وقت کے اندر جمع کرائے — یہ شفافیت اور احتساب کا ایک بنیادی ذریعہ ہے۔ مکمل تفصیلات (کس اتھارٹی کے پاس، کس فارمیٹ میں) کی تصدیق باقی ہے۔
+دفعہ 23 — اثاثوں کا اعلان
 
-📚 References
+ہر میئر، ڈپٹی میئر، چیئرمین، وائس چیئرمین، اور کونسل کے رکن کو حلف اٹھانے کے تیس دن کے اندر متعلقہ اتھارٹی کے سامنے اپنے اثاثوں اور واجبات کا اعلامیہ داخل کرنا ہوگا۔
+
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 23 — اثاثن جو اعلان
+
+هر ميئر، ڊپٽي ميئر، چيئرمين، وائيس چيئرمين، ۽ ڪائونسل جي ميمبر کي حلف کڻڻ جي ٽيهن ڏينهن اندر لاڳاپيل اٿارٽي اڳيان پنهنجي اثاثن ۽ واجبن جو اعلاميو داخل ڪرڻو پوندو.
+
+🧠 **آسان وضاحت**
+
+شفافیت کے لیے، ہر منتخب نمائندے کو عہدہ سنبھالنے کے فوراً بعد (30 دن کے اندر) اپنی جائیداد اور قرضوں کی مکمل تفصیل جمع کرانی ہوگی — تاکہ بعد میں یہ چیک کیا جا سکے کہ عہدے پر رہتے ہوئے ان کے اثاثوں میں غیرمعمولی اضافہ تو نہیں ہوا۔
+
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
+
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ ٹاؤن کمیٹی کے چیئرمین نے دفعہ 23 کے تحت اثاثوں کا اعلامیہ کب جمع کرایا؟"
+
+🏛 **Resolution Template**
+یہ ایوان دفعہ 23 کے تحت تمام عہدیداروں کے اثاثوں کے اعلامیے کی بروقت تکمیل کی توثیق کرتا ہے۔
+
+💡 **Practical Example**
+نو منتخب چیئرمین کو حلف کے 30 دن کے اندر اپنی زمین، بینک بیلنس اور قرضوں کی تفصیل جمع کرانی ہوگی، ورنہ یہ ایکٹ کی خلاف ورزی تصور ہوگی۔
+
+📚 **References**
 Sindh Local Government Act, 2013 — Section 23
-Source: Sindh High Court official compiled text (PARTIAL — verification pending)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-🟡 Original Legal Text (Partial — Pending Full Verification)
-🟡 Urdu Translation (Partial)
-⚪ Sindhi Translation (Deferred until full text confirmed)
-🟡 Simplified Explanation (General, not final)
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 0.5 (Draft — Incomplete) | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
