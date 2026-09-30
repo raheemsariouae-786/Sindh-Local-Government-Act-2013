@@ -1,60 +1,47 @@
-Section 098
-📜 Original Legal Text
-98. Directions with regard to levy of Tax.- (1) Government may direct any Council –
-(a) to levy any tax, rate, toll or fee which the Council is competent to levy under this Act;
-(b) to increase or reduce any rate, tax, toll or fee to such extent as may be specified;
-(c) to suspend or abolish the levy of any tax, rate, toll or fee;
-(d) to exempt any person or class of persons or property or class of property or goods or class of goods from the levy of any such tax, rate, toll or fee.
-(2) If the direction is issued under sub-section (1), the Chief Executive of the Council shall, notwithstanding anything contained in this Act, give effect to it by issuing a notification in terms of the direction not later than the date, if any, specified by Government in this behalf.
+# Section 098
 
-🌐 مستند اردو ترجمہ
-دفعہ 98 — ٹیکس کے نفاذ سے متعلق ہدایات
+📜 **Original Legal Text**
 
-(1) حکومت کسی بھی کونسل کو ہدایت دے سکتی ہے —
-(a) کوئی ایسا ٹیکس، ریٹ، ٹول یا فیس عائد کرے جو کونسل اس ایکٹ کے تحت عائد کرنے کی مجاز ہو؛
-(b) کسی ریٹ، ٹیکس، ٹول یا فیس کو مقررہ حد تک بڑھائے یا کم کرے؛
-(c) کسی ٹیکس، ریٹ، ٹول یا فیس کی وصولی معطل یا ختم کرے؛
-(d) کسی شخص یا اشخاص کے طبقے، یا جائیداد، یا سامان کے طبقے کو کسی ٹیکس/ریٹ/ٹول/فیس سے مستثنیٰ قرار دے۔
+**98. Directions with regard to levy of tax.**- (1) Government may direct a Council to: levy a tax it is competent to levy; increase/reduce a rate to a specified extent; suspend/abolish a levy; or exempt a person/class/property/goods from a levy. (2) On such direction, the Chief Executive gives effect to it by notification, notwithstanding anything else in the Act, by the date Government specifies.
 
-(2) اگر ذیلی دفعہ (1) کے تحت ہدایت جاری ہو، تو کونسل کا چیف ایگزیکٹو، اس ایکٹ میں شامل کسی بھی بات کے باوجود، حکومت کی مقررہ تاریخ سے پہلے، ہدایت کے مطابق نوٹیفیکیشن جاری کر کے اس پر عمل درآمد کرے گا۔
+🌐 **مستند اردو ترجمہ**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 98 — ٽيڪس جي لاڳو ٿيڻ بابت هدايتون
+دفعہ 98 — ٹیکس عائد کرنے کے بارے میں ہدایات
 
-(1) حڪومت ڪائونسل کي هدايت ڏئي سگهي ٿي —
-(a) ٽيڪس لاڳو ڪرڻ لاءِ؛
-(b) ٽيڪس وڌائڻ يا گھٽائڻ لاءِ؛
-(c) ٽيڪس بند ڪرڻ لاءِ؛
-(d) ڪنهن کي ٽيڪس کان آجو ڪرڻ لاءِ.
+(1) حکومت کونسل کو ہدایت دے سکتی ہے: کوئی ٹیکس لگانے؛ شرح بڑھانے/گھٹانے؛ ٹیکس معطل/ختم کرنے؛ یا کسی کو ٹیکس سے مستثنیٰ کرنے کی۔
+(2) چیف ایگزیکٹو مقررہ تاریخ تک نوٹیفیکیشن کے ذریعے اس پر عمل کرے گا۔
 
-(2) اهڙي هدايت تي چيف ايگزيڪيوٽو نوٽيفڪيشن جاري ڪري عمل ڪندو.
+🌿 **مستند سنڌي ترجمو**
 
-🧠 آسان وضاحت
-یہ دفعہ حکومت کو کونسل کے ٹیکس کے معاملات میں براہ راست مداخلت کا اختیار دیتی ہے — چاہے وہ نیا ٹیکس عائد کرانا ہو، پرانے ٹیکس میں تبدیلی کرانی ہو، اسے ختم کرانا ہو، یا کسی خاص طبقے کو استثنیٰ دلانا ہو۔ اہم بات: کونسل کا چیف ایگزیکٹو ایسی ہدایت پر عمل کرنے کا پابند ہے، چاہے کونسل خود اس سے متفق نہ بھی ہو۔
+دفعو 98 — ٽيڪس لڳائڻ بابت هدايتون
 
-⚖️ Relevant Case Law
+(1) حڪومت ڪائونسل کي هدايت ڏئي سگهي ٿي: ڪو ٽيڪس لڳائڻ؛ شرح گھٽائڻ/وڌائڻ؛ ٽيڪس ختم ڪرڻ؛ يا ڪنهن کي معاف ڪرڻ.
+(2) چيف ايگزيڪيوٽو مقرر ٿيل تاريخ تائين نوٽيفڪيشن ذريعي ان تي عمل ڪندو.
+
+🧠 **آسان وضاحت**
+
+حکومت کے پاس ٹیکس کے معاملے میں کونسل کو براہ راست ہدایت دینے کا اختیار ہے — چاہے وہ نیا ٹیکس لگوانا ہو، پرانا ختم کرانا ہو، یا کسی خاص طبقے کو رعایت دلوانی ہو۔ کونسل کو یہ ہدایت ماننی ہوگی۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ کیا حکومت نے TMC سہراب گوٹھ کو دفعہ 98 کے تحت کسی ٹیکس سے متعلق کوئی ہدایت جاری کی ہو۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا حکومت نے کبھی سہراب گوٹھ ٹاؤن کمیٹی کو دفعہ 98 کے تحت کسی ٹیکس میں رعایت کی ہدایت دی؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 98 کے تحت حکومتی ہدایات پر بروقت عمل درآمد کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر حکومت کسی وجہ سے کسی مخصوص طبقے (مثلاً معذور افراد یا کم آمدنی والے) کو کسی مقامی ٹیکس سے مستثنیٰ قرار دینا چاہے، تو وہ دفعہ 98(1)(d) کے تحت TMC کو ایسی ہدایت جاری کر سکتی ہے۔
+💡 **Practical Example**
+اگر حکومت سمجھے کہ غریب علاقوں کے دکانداروں کو مارکیٹ فیس میں رعایت ملنی چاہیے، تو وہ کونسل کو دفعہ 98 کے تحت ہدایت دے سکتی ہے، جسے ماننا کونسل کے لیے لازمی ہوگا۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 98
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

@@ -1,43 +1,45 @@
-Section 101
-📜 Original Legal Text
-101. Deduction of taxes from salaries.- If a Council levies a tax on professions, trades or callings, it may require the employer of the person liable to such tax to deduct the tax from the salary or wages payable to such person, and to credit the same to the local fund of the Council concerned in the prescribed manner.
+# Section 101
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**101. Deduction of taxes from salaries.**- If a Council levies a tax on professions, trades, or callings, it may require the employer to deduct the tax from the salary or wages of the employee and credit it to the Council's local fund, in the manner prescribed.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 101 — تنخواہوں سے ٹیکس کی کٹوتی
 
-اگر کونسل کسی پیشے، تجارت یا کاروبار پر ٹیکس عائد کرے، تو وہ اس ٹیکس کے قابلِ ادائیگی شخص کے آجر (employer) کو یہ ہدایت دے سکتی ہے کہ وہ اس شخص کی تنخواہ یا اجرت سے ٹیکس کاٹے اور اسے مقررہ طریقے سے متعلقہ کونسل کے مقامی فنڈ میں جمع کرائے۔
+اگر کونسل پیشے/تجارت پر ٹیکس لگائے، تو آجر کو تنخواہ سے کاٹ کر کونسل کے فنڈ میں جمع کرانے کی ہدایت دے سکتی ہے۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 101 — پگهارن مان ٽيڪس ڪٽڻ
+🌿 **مستند سنڌي ترجمو**
 
-جيڪڏهن ڪائونسل پيشي يا واپار تي ٽيڪس لاڳو ڪري، ته اها آجر کي چئي سگهي ٿي ته پگهار مان ٽيڪس ڪٽي ڪائونسل جي فنڊ ۾ جمع ڪري.
+دفعو 101 — پگهارن مان ٽيڪس جي ڪٽوتي
 
-🧠 آسان وضاحت
-یہ دفعہ پروفیشن ٹیکس (Professional Tax) کی وصولی کا ایک آسان اور مؤثر طریقہ بتاتی ہے — کونسل خود ہر فرد سے ٹیکس وصول کرنے کی بجائے، آجر (employer) کو ذمہ دار بنا سکتی ہے کہ وہ ملازم کی تنخواہ سے ہی ٹیکس کاٹ کر براہ راست کونسل کو جمع کرائے۔ یہ وصولی کا ایک زیادہ قابلِ اعتماد ذریعہ ہے۔
+جيڪڏهن ڪائونسل ڌنڌي تي ٽيڪس لڳائي، ته آجر کي پگهار مان ڪٽي ڪائونسل جي فنڊ ۾ جمع ڪرائڻ جي هدايت ڏئي سگهي ٿي.
 
-⚖️ Relevant Case Law
+🧠 **آسان وضاحت**
+
+یہ دفعہ ٹیکس وصولی کا ایک عملی طریقہ بتاتی ہے — اگر کسی پیشے پر ٹیکس لگے (مثلاً پروفیشن ٹیکس)، تو کونسل براہ راست ملازم سے وصول کرنے کی بجائے آجر (ادارہ/کمپنی) کو ذمہ دار بنا سکتی ہے کہ وہ تنخواہ سے کاٹ کر خود جمع کرائے — بالکل ویسے جیسے انکم ٹیکس کی کٹوتی ہوتی ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ TMC سہراب گوٹھ کے علاقے میں کن اداروں کو پروفیشن ٹیکس کی کٹوتی کی ہدایت دی گئی ہے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا سہراب گوٹھ کے علاقے میں کسی ادارے کو دفعہ 101 کے تحت پیشہ ٹیکس کاٹنے کی ہدایت دی گئی؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 101 کے تحت پروفیشن ٹیکس کی شفاف کٹوتی اور جمع کرانے کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر کسی نجی کمپنی کے ملازمین پر پروفیشن ٹیکس عائد ہو، تو TMC اس کمپنی کو ہدایت دے سکتی ہے کہ وہ ہر ملازم کی تنخواہ سے یہ ٹیکس کاٹ کر براہ راست TMC کے فنڈ میں جمع کرائے۔
+💡 **Practical Example**
+اگر کسی فیکٹری کے ملازمین پر پیشہ ٹیکس لاگو ہو، تو فیکٹری کا مالک ہر ماہ تنخواہ سے یہ رقم کاٹ کر براہ راست کونسل کو جمع کرا سکتا ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 101
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

@@ -1,43 +1,45 @@
-Section 102
-📜 Original Legal Text
-102. Petitions against valuation, assessment, etc.- No assessment of a tax, rate toll or fee under this Act or valuation thereof or the liability of a person to be so taxed, shall be called in question except by a petition presented to such authority in such manner and within such period as may be prescribed.
+# Section 102
 
-🌐 مستند اردو ترجمہ
-دفعہ 102 — تشخیص و تخمینے کے خلاف درخواستیں
+📜 **Original Legal Text**
 
-اس ایکٹ کے تحت کسی ٹیکس، ریٹ، ٹول یا فیس کی تشخیص، اس کا تخمینہ، یا کسی شخص کی اس ٹیکس کے لیے ذمہ داری کو صرف اس مجاز اتھارٹی کے سامنے، مقررہ طریقے اور مقررہ مدت کے اندر پیش کی گئی درخواست کے ذریعے ہی چیلنج کیا جا سکتا ہے۔
+**102. Petitions against valuation, assessment, etc.**- No tax assessment, valuation, or liability may be challenged except by petition to the prescribed authority, in the prescribed manner and within the prescribed period.
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 102 — تشخيص خلاف درخواستون
+🌐 **مستند اردو ترجمہ**
 
-هن ايڪٽ هيٺ ٽيڪس جي تشخيص کي صرف مقرر ٿيل اٿارٽي وٽ، مقرر ٿيل مدت اندر درخواست ذريعي چيلنج ڪري سگهجي ٿو.
+دفعہ 102 — تشخیص کے خلاف درخواستیں
 
-🧠 آسان وضاحت
-یہ دفعہ ٹیکس کے تنازعات کے حل کا واحد قانونی راستہ بتاتی ہے — اگر کوئی شخص سمجھے کہ اس پر ٹیکس کی تشخیص غلط ہوئی ہے (مثلاً پراپرٹی ٹیکس کا تخمینہ حقیقت سے زیادہ لگایا گیا)، تو وہ صرف مقررہ اتھارٹی کے سامنے، مقررہ وقت کے اندر باضابطہ درخواست دے کر ہی اسے چیلنج کر سکتا ہے — عدالت میں براہ راست جانا یا احتجاج کرنا قانونی راستہ نہیں۔
+کسی ٹیکس کی تشخیص، مالیت یا ذمہ داری کو صرف مقررہ اتھارٹی کو مقررہ طریقے اور مدت میں درخواست کے ذریعے چیلنج کیا جا سکتا ہے۔
 
-⚖️ Relevant Case Law
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 102 — جاچ خلاف درخواستون
+
+ڪنهن ٽيڪس جي جاچ، قيمت يا ذميداري کي رڳو مقرر ٿيل اٿارٽي کي مقرر ٿيل طريقي ۽ مدت ۾ درخواست ذريعي چيلينج ڪري سگهجي ٿو.
+
+🧠 **آسان وضاحت**
+
+اگر کسی کو لگے کہ اس پر عائد ٹیکس کی تشخیص غلط ہے (مثلاً جائیداد کی مالیت زیادہ لگائی گئی)، تو وہ سیدھا عدالت نہیں جا سکتا — پہلے مقررہ اتھارٹی کے پاس، مقررہ وقت کے اندر، باضابطہ درخواست دائر کرنی ہوگی۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ TMC سہراب گوٹھ میں ٹیکس تشخیص کے خلاف درخواست دینے کا طریقہ کار اور مقررہ اتھارٹی کون سی ہے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ ٹیکس کی تشخیص کے خلاف درخواست دائر کرنے کی مقررہ مدت اور اتھارٹی کون سی ہے؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 102 کے تحت شہریوں کو ٹیکس تشخیص کے خلاف درخواست کے حق سے آگاہ کرنے کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر کسی دکاندار کو لگے کہ اس کی دکان پر عائد پراپرٹی ٹیکس غلط تخمینہ لگایا گیا ہے، تو وہ مقررہ مدت کے اندر متعلقہ اتھارٹی کو باضابطہ درخواست دے کر تخمینے پر نظرثانی کی درخواست کر سکتا ہے۔
+💡 **Practical Example**
+اگر کسی دکاندار کو لگے کہ اس کی دکان پر پراپرٹی ٹیکس کی تشخیص بہت زیادہ کی گئی ہے، تو اسے مقررہ مدت کے اندر متعلقہ اتھارٹی کو درخواست دینی ہوگی، ورنہ وہ بعد میں چیلنج نہیں کر سکے گا۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 102
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

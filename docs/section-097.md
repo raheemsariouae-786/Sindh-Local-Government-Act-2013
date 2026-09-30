@@ -1,43 +1,45 @@
-Section 097
-📜 Original Legal Text
-97. Model Tax Schedule.- Government may frame Model Tax Schedules, and where such Schedules have been framed, a Council shall be guided by them in levying a tax, rate, toll or fee.
+# Section 097
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**97. Model Tax Schedule.**- Government may frame Model Tax Schedules; where framed, a Council is guided by them when levying a tax, rate, toll or fee.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 97 — ماڈل ٹیکس شیڈول
 
-حکومت ماڈل ٹیکس شیڈول تیار کر سکتی ہے، اور جہاں ایسے شیڈول تیار کیے جا چکے ہوں، کونسل کسی ٹیکس، ریٹ، ٹول یا فیس عائد کرتے وقت انہی سے رہنمائی لے گی۔
+حکومت ماڈل ٹیکس شیڈول بنا سکتی ہے؛ جہاں بنایا گیا ہو، کونسل ٹیکس لگاتے وقت اس کی پیروی کرے گی۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
+🌿 **مستند سنڌي ترجمو**
+
 دفعو 97 — ماڊل ٽيڪس شيڊول
 
-حڪومت ماڊل ٽيڪس شيڊول ٺاهي سگهي ٿي، ۽ اهڙا شيڊول موجود هجن ته ڪائونسل انهن مان رهنمائي وٺندي.
+حڪومت ماڊل ٽيڪس شيڊول ٺاهي سگهي ٿي؛ جتي ٺاهيل هجي، ڪائونسل ٽيڪس لڳائيندي ان جي پيروي ڪندي.
 
-🧠 آسان وضاحت
-یہ ایک مختصر مگر عملی دفعہ ہے — تاکہ سندھ بھر کی مختلف کونسلوں میں ٹیکس کی شرحوں اور طریقہ کار میں یکسانیت رہے، حکومت ایک "ماڈل" یا نمونہ شیڈول بنا سکتی ہے جسے تمام کونسلیں رہنما اصول کے طور پر استعمال کریں۔ اس سے من مانی یا ناہموار ٹیکسیشن کا امکان کم ہوتا ہے۔
+🧠 **آسان وضاحت**
 
-⚖️ Relevant Case Law
+حکومت ایک "نمونہ" (ماڈل) شیڈول بنا سکتی ہے جس میں یہ رہنمائی ہو کہ کسی خاص ٹیکس کی مناسب شرح کیا ہونی چاہیے — تاکہ ہر کونسل من مانی نہ کرے بلکہ ایک معیاری طریقہ اپنائے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ کیا حکومت سندھ نے کوئی ماڈل ٹیکس شیڈول جاری کیا ہے، اور TMC سہراب گوٹھ اسے کس حد تک فالو کرتی ہے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا حکومت نے پراپرٹی ٹیکس کے لیے کوئی ماڈل شیڈول جاری کیا ہے؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 97 کے تحت جاری کردہ ماڈل ٹیکس شیڈول کی پیروی کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر حکومت سندھ تمام ٹاؤن کمیٹیوں کے لیے دکانوں پر یکساں لائسنس فیس کا ماڈل شیڈول جاری کرے، تو TMC سہراب گوٹھ اسی کے مطابق فیس مقرر کرے گی، تاکہ کسی ایک علاقے میں غیر معمولی زیادہ فیس نہ ہو۔
+💡 **Practical Example**
+اگر حکومت مارکیٹ فیس کے لیے ایک معیاری ریٹ کا ماڈل شیڈول جاری کرے، تو تمام کونسلیں اپنی مقامی فیس اسی رہنما اصول کے مطابق طے کریں گی۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 97
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

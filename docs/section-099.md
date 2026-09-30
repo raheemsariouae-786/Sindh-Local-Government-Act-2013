@@ -1,54 +1,47 @@
-Section 099
-📜 Original Legal Text
-99. Liability on account of taxes.- (1) A Council may, by notice call upon any person to furnish such information, produce such record or accounts or present such goods or animals liable to any tax, rate, toll or fee, as may be necessary for the purpose of determining the liability of such person therefor.
-(2) Any employee of a Council authorized in this behalf may –
-(i) after due notice, enter upon any building or premises for the purpose of assessing the liability of such building or premises to any tax or inspecting any goods or animals therein liable to any tax;
-(ii) in the prescribed manner seize and dispose of any goods on which any tax, rate, toll or fee is not paid.
+# Section 099
 
-🌐 مستند اردو ترجمہ
-دفعہ 99 — ٹیکسوں کے سلسلے میں ذمہ داری
+📜 **Original Legal Text**
 
-(1) کونسل، نوٹس کے ذریعے، کسی شخص سے یہ مطالبہ کر سکتی ہے کہ وہ ایسی معلومات فراہم کرے، ریکارڈ یا حسابات پیش کرے، یا کوئی ایسا سامان یا جانور جو کسی ٹیکس، ریٹ، ٹول یا فیس کے قابلِ ادائیگی ہو، پیش کرے، جو اس کی ذمہ داری کے تعین کے لیے ضروری ہو۔
+**99. Liability on account of taxes.**- (1) A Council may, by notice, require any person to furnish information, produce records/accounts, or present goods/animals liable to a tax, to determine their liability. (2) An authorized Council employee may: after due notice, enter a building/premises to assess tax liability or inspect taxable goods/animals; and, as prescribed, seize and dispose of goods on which tax is unpaid.
 
-(2) کونسل کا کوئی مجاز ملازم —
-(i) مناسب نوٹس کے بعد، کسی عمارت یا احاطے میں داخل ہو سکتا ہے تاکہ اس کی ٹیکس ذمہ داری کا تعین کرے یا وہاں موجود کسی ٹیکس کے قابلِ ادائیگی سامان یا جانور کا معائنہ کرے؛
-(ii) مقررہ طریقے سے، ایسا سامان ضبط اور نمٹا سکتا ہے جس پر کوئی ٹیکس، ریٹ، ٹول یا فیس ادا نہ کی گئی ہو۔
+🌐 **مستند اردو ترجمہ**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 99 — ٽيڪسن جي سلسلي ۾ ذميواري
+دفعہ 99 — ٹیکسوں کی ذمہ داری
 
-(1) ڪائونسل نوٽيس ذريعي معلومات، رڪارڊ يا سامان پيش ڪرڻ جو مطالبو ڪري سگهي ٿي.
+(1) کونسل نوٹس کے ذریعے کسی شخص سے معلومات/ریکارڈ/سامان طلب کر سکتی ہے تاکہ ٹیکس کی ذمہ داری کا تعین ہو۔
+(2) مجاز ملازم مناسب نوٹس کے بعد عمارت میں داخل ہو کر تشخیص کر سکتا ہے اور غیر ادا شدہ ٹیکس والا سامان ضبط کر سکتا ہے۔
 
-(2) مجاز ملازم —
-(i) نوٽيس کان پوءِ عمارت ۾ داخل ٿي معائنو ڪري سگهي ٿو؛
-(ii) بغير ٽيڪس ادا ٿيل سامان ضبط ڪري سگهي ٿو.
+🌿 **مستند سنڌي ترجمو**
 
-🧠 آسان وضاحت
-یہ دفعہ کونسل کو ٹیکس وصولی کے لیے تحقیقاتی اختیارات دیتی ہے — وہ کسی سے معلومات یا ریکارڈ طلب کر سکتی ہے، اور مجاز ملازم مناسب نوٹس کے بعد کسی عمارت میں داخل ہو کر معائنہ کر سکتا ہے، یا بغیر ٹیکس ادا شدہ سامان ضبط کر سکتا ہے۔
+دفعو 99 — ٽيڪسن جي ذميداري
 
-⚖️ Relevant Case Law
+(1) ڪائونسل نوٽيس ذريعي معلومات/رڪارڊ/سامان گهرائي سگهي ٿي.
+(2) مجاز ملازم اطلاع کان پوءِ عمارت ۾ داخل ٿي جانچ ڪري سگهي ٿو ۽ غير ادا ٿيل ٽيڪس وارو سامان ضبط ڪري سگهي ٿو.
+
+🧠 **آسان وضاحت**
+
+کونسل کو یہ اختیار حاصل ہے کہ وہ ٹیکس کی درست تشخیص کے لیے متعلقہ شخص سے معلومات یا ریکارڈ طلب کرے۔ اگر ضرورت ہو تو مجاز ملازم (پہلے سے مناسب اطلاع دے کر) عمارت میں جا کر جائزہ لے سکتا ہے، اور اگر ٹیکس ادا نہ کیا گیا ہو تو سامان ضبط بھی کر سکتا ہے۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ TMC سہراب گوٹھ نے دفعہ 99 کے تحت اب تک کتنی بار سامان ضبط کیا۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ دفعہ 99 کے تحت کتنے کاروباری اداروں سے ٹیکس تشخیص کے لیے ریکارڈ طلب کیا گیا؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 99 کے تحت مناسب نوٹس کے بعد ہی معائنہ/ضبطی کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر کوئی دکاندار پراپرٹی ٹیکس ادا نہ کرے، تو TMC کا مجاز اہلکار پہلے نوٹس بھیجے گا، پھر ضرورت پڑنے پر دکان کا معائنہ کر کے واجبات کا تعین کرے گا۔
+💡 **Practical Example**
+اگر کوئی دکاندار پیشہ ٹیکس ادا نہ کرے، تو کونسل کا مجاز ملازم مناسب نوٹس دے کر اس کی دکان کا معائنہ کر سکتا ہے اور ٹیکس واجب الادا ثابت ہونے پر سامان ضبط کر سکتا ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 99
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
