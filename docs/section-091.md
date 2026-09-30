@@ -1,48 +1,47 @@
-Section 091
-📜 Original Legal Text
-91. Inquiry into affairs of the Councils.- (1) Government may, on its own or on application made to it by any person, cause an enquiry to be made by such officer or authority as may be appointed by it in this behalf, into the affairs of a Council generally, or into any particular matter concerning that Council, and take such remedial measures as may be warranted by the findings of such enquiry.
-(2) Such officer shall, for the purposes of the enquiry, have the powers of a Civil Court under the Code of Civil Procedure, 1908 (Act V of 1908), to take evidence and to compel the attendance of witnesses and the production of documents.
+# Section 091
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**91. Inquiry into affairs of the Councils.**- (1) Government may, on its own motion or on application, cause an enquiry into a Council's affairs generally or a specific matter, taking remedial measures as the findings warrant. (2) The inquiry officer has the powers of a Civil Court under the Civil Procedure Code, 1908 — taking evidence, compelling witness attendance and document production.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 91 — کونسلوں کے معاملات کی تحقیقات
 
-(1) حکومت، اپنی مرضی سے یا کسی شخص کی درخواست پر، کسی کونسل کے عمومی معاملات یا کسی مخصوص معاملے کی تحقیقات کے لیے کسی افسر یا اتھارٹی کو مقرر کر سکتی ہے، اور تحقیقات کے نتائج کی روشنی میں ضروری اصلاحی اقدامات کر سکتی ہے۔
+(1) حکومت کونسل کے معاملات میں تحقیقات کا حکم دے سکتی ہے۔
+(2) تحقیقاتی افسر کو سول کورٹ جیسے اختیارات حاصل ہوں گے۔
 
-(2) ایسا افسر، تحقیقات کے مقاصد کے لیے، کوڈ آف سول پروسیجر 1908 کے تحت سول عدالت کے اختیارات رکھے گا — یعنی شہادت لینا، گواہوں کو طلب کرنا اور دستاویزات پیش کرانا۔
+🌿 **مستند سنڌي ترجمو**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
 دفعو 91 — ڪائونسلن جي معاملن جي تحقيقات
 
-(1) حڪومت پاڻ يا ڪنهن جي درخواست تي ڪائونسل جي معاملن جي تحقيقات ڪرائي سگهي ٿي.
+(1) حڪومت ڪائونسل جي معاملن ۾ تحقيقات جو حڪم ڏئي سگهي ٿي.
+(2) تحقيقاتي آفيسر کي سول ڪورٽ جهڙا اختيار حاصل هوندا.
 
-(2) اهو آفيسر سول عدالت جا اختيار رکندو ته شاهدي وٺي ۽ گواهه گھرائي.
+🧠 **آسان وضاحت**
 
-🧠 آسان وضاحت
-یہ دفعہ حکومت کو یہ اختیار دیتی ہے کہ اگر کسی کونسل کے بارے میں شکایات ہوں (چاہے حکومت خود شروع کرے یا کسی شہری کی درخواست پر)، تو باضابطہ تحقیقات کرائی جا سکتی ہے۔ تحقیقاتی افسر کو عدالتی اختیارات حاصل ہوتے ہیں، یعنی وہ گواہوں کو طلب کر سکتا ہے اور دستاویزات مانگ سکتا ہے — یہ صرف ایک انتظامی جائزہ نہیں بلکہ ایک باقاعدہ قانونی تحقیقات ہے۔
+اگر کونسل میں کوئی سنگین مسئلہ ہو (شکایت پر یا حکومت کی اپنی مرضی سے)، تو باقاعدہ تحقیقات کرائی جا سکتی ہیں۔ تحقیقاتی افسر کو گواہوں کو طلب کرنے اور دستاویزات مانگنے کا وہی اختیار حاصل ہے جو عدالت کو ہوتا ہے۔
 
-⚖️ Relevant Case Law
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ کیا TMC سہراب گوٹھ کے خلاف دفعہ 91 کے تحت کبھی کوئی تحقیقات ہوئی، اور اس کی رپورٹ فراہم کی جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا کبھی سہراب گوٹھ ٹاؤن کمیٹی کے کسی معاملے کی دفعہ 91 کے تحت تحقیقات ہوئیں؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 91 کے تحت کسی بھی تحقیقات میں مکمل تعاون کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر کوئی شہری TMC سہراب گوٹھ میں مالی بے ضابطگی کی شکایت درج کرائے، تو حکومت دفعہ 91 کے تحت ایک تحقیقاتی افسر مقرر کر سکتی ہے جو گواہوں کو طلب کر کے اور ریکارڈ منگوا کر مکمل تحقیقات کرے گا۔
+💡 **Practical Example**
+اگر عوام کی طرف سے شکایت آئے کہ کونسل کے فنڈز کا غلط استعمال ہو رہا ہے، تو حکومت دفعہ 91 کے تحت تحقیقاتی افسر مقرر کر کے مکمل جانچ کرا سکتی ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 91
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

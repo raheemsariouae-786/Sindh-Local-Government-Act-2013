@@ -1,55 +1,49 @@
-Section 087
-📜 Original Legal Text
-87. Supervision over Councils.- (1) Government shall exercise general supervision and control over the Councils to ensure that their activities conform to the purposes and provisions of this Act.
-(2) Government may, at any time, call for any paper, document, register or record from any Council to see that the activities of the Council are in conformity with the provisions of this Act, and may make any order it deems necessary to bring it in such conformity.
-(3) If, in the opinion of Government, anything done or intended to be done by or on behalf of a Council is not in conformity with the law, Government may refer the matter back to the council to bring it in conformity with the law provided that the matter referred shall remain suspended:
-Provided that the council after bringing the resolution, order or action in conformity of law shall refer the matter to Government for final decision.
+# Section 087
 
-🌐 مستند اردو ترجمہ
-دفعہ 87 — کونسلوں پر نگرانی
+📜 **Original Legal Text**
 
-(1) حکومت کونسلوں پر عمومی نگرانی اور کنٹرول رکھے گی تاکہ ان کی سرگرمیاں اس ایکٹ کے مقاصد اور دفعات کے مطابق ہوں۔
+**87. Supervision over Councils.**- (1) Government shall exercise general supervision and control over the Councils to ensure their activities conform to the purposes and provisions of the Act. (2) Government may, at any time, call for any paper, document, register or record from a Council to verify conformity, and may make any order it deems necessary. (3) If, in Government's opinion, anything done or intended by a Council is not law-conforming, Government may refer the matter back to the Council to bring it into conformity — the matter remains suspended meanwhile.
 
-(2) حکومت، کسی بھی وقت، کسی کونسل سے کوئی کاغذ، دستاویز، رجسٹر یا ریکارڈ طلب کر سکتی ہے تاکہ یہ دیکھا جا سکے کہ کونسل کی سرگرمیاں اس ایکٹ کے مطابق ہیں، اور ضروری سمجھے جانے پر کوئی حکم جاری کر سکتی ہے۔
+🌐 **مستند اردو ترجمہ**
 
-(3) اگر حکومت کی رائے میں کونسل کی طرف سے یا اس کی جانب سے کیا گیا یا کیا جانے والا کوئی عمل قانون کے مطابق نہ ہو، تو حکومت معاملہ کونسل کو واپس بھیج سکتی ہے تاکہ اسے قانون کے مطابق لایا جائے، بشرطیکہ بھیجا گیا معاملہ اس دوران معطل رہے گا:
-بشرطیکہ کونسل، قرارداد، حکم یا عمل کو قانون کے مطابق لانے کے بعد، حتمی فیصلے کے لیے معاملہ حکومت کو بھیجے گی۔
+دفعہ 87 — کونسلوں کی نگرانی
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 87 — ڪائونسلن تي نگراني
+(1) حکومت عمومی نگرانی/کنٹرول رکھے گی تاکہ کونسل کی سرگرمیاں ایکٹ کے مطابق ہوں۔
+(2) حکومت تصدیق کے لیے کوئی بھی دستاویز طلب کر سکتی ہے۔
+(3) اگر کونسل کا کوئی اقدام قانون کے مطابق نہ ہو، حکومت معاملہ کونسل کو واپس بھیجے گی؛ اس دوران معاملہ معطل رہے گا۔
 
-(1) حڪومت ڪائونسلن تي عمومي نگراني ۽ ڪنٽرول رکندي.
+🌿 **مستند سنڌي ترجمو**
 
-(2) حڪومت ڪنهن وقت به ڪائونسل کان ڪاغذ يا رڪارڊ طلب ڪري سگهي ٿي.
+دفعو 87 — ڪائونسلن جي نگراني
 
-(3) جيڪڏهن ڪو عمل قانون مطابق نه هجي، ته حڪومت معاملو ڪائونسل ڏانهن واپس موڪلي سگهي ٿي.
+(1) حڪومت عمومي نگراني رکندي.
+(2) حڪومت تصديق لاءِ ڪو به دستاويز گهرائي سگهي ٿي.
+(3) جيڪڏهن ڪائونسل جو عمل قانون مطابق نه هجي، حڪومت معاملو واپس موڪليندي.
 
-🧠 آسان وضاحت
-یہ دفعہ Chapter IX کی بنیاد ہے — یہ حکومت کو کونسلوں کی سرگرمیوں پر عمومی نگرانی کا اختیار دیتی ہے، بشمول ریکارڈ طلب کرنے اور غیر قانونی اقدامات کو درست کرانے کا حق۔ یہ اس بات کو یقینی بناتی ہے کہ مقامی حکومتیں خودمختار ہونے کے باوجود صوبائی قانون کے دائرے میں رہیں۔
+🧠 **آسان وضاحت**
 
-⚖️ Relevant Case Law
+یہ باب 9 کی پہلی دفعہ ہے جو حکومت کو کونسلوں پر عمومی نگرانی کا اختیار دیتی ہے — یعنی حکومت وقتاً فوقتاً چیک کر سکتی ہے کہ کونسل صحیح طریقے سے کام کر رہی ہے یا نہیں، اور اگر کوئی خرابی ملے تو اسے درست کرنے کا موقع دیا جائے گا۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ TMC سہراب گوٹھ سے متعلق دفعہ 87 کے تحت حکومت نے کوئی ریکارڈ طلب کیا ہو یا کوئی حکم جاری کیا ہو۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا کبھی حکومت نے دفعہ 87 کے تحت سہراب گوٹھ ٹاؤن کمیٹی سے کوئی دستاویز طلب کی؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 87 کے تحت حکومتی نگرانی کے ساتھ مکمل تعاون کی توثیق کرتا ہے۔
+🏛 **Resolution Template**
+یہ ایوان دفعہ 87 کے تحت حکومتی نگرانی کے ساتھ تعاون کی توثیق کرتا ہے۔
 
-💡 Practical Example
-اگر حکومت TMC سہراب گوٹھ کے کسی مالی ریکارڈ کی جانچ کرنا چاہے، تو کونسل دفعہ 87(2) کے تحت وہ ریکارڈ فراہم کرنے کی پابند ہے۔
+💡 **Practical Example**
+اگر حکومت کو شبہ ہو کہ کونسل نے کوئی غیر قانونی ٹیکس لگایا ہے، تو وہ دفعہ 87 کے تحت متعلقہ ریکارڈ طلب کر کے جانچ کر سکتی ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 87
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

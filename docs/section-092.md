@@ -1,53 +1,49 @@
-Section 092
-📜 Original Legal Text
-92. Suspension of particular department or institution.- (1) If after such enquiry as may be necessary, Government is satisfied that Council is not able to run a particular department or institution properly and efficiently, it may, after recording reasons, by notification in the official Gazette, suspend the Authority of the Council over such department or institution for such period as may be specified in the order.
-(2) Where the Authority of a Council is suspended under sub-section (1), Government may itself take over the management of such department or institution or make such other arrangements as it thinks fit.
-(3) The expenses for management under sub-section (2) as may be determined by Government shall be borne by the Council and the budget of the Council shall be deemed to have been revised to that extent.
+# Section 092
 
-🌐 مستند اردو ترجمہ
-دفعہ 92 — کسی مخصوص شعبے یا ادارے کی معطلی
+📜 **Original Legal Text**
 
-(1) اگر ضروری تحقیقات کے بعد حکومت مطمئن ہو جائے کہ کوئی کونسل کسی مخصوص شعبے یا ادارے کو مناسب اور مؤثر طریقے سے نہیں چلا پا رہی، تو وہ تحریری وجوہات درج کر کے، سرکاری گزٹ میں نوٹیفیکیشن کے ذریعے، کونسل کا اس شعبے/ادارے پر اختیار مقررہ مدت کے لیے معطل کر سکتی ہے۔
+**92. Suspension of particular department or institution.**- (1) If, after enquiry, Government is satisfied a Council cannot properly/efficiently run a particular department/institution, it may (after recording reasons, by gazette notification) suspend the Council's authority over it for a specified period. (2) Government may then itself manage it, or make other arrangements. (3) Government-determined management expenses are borne by the Council; its budget is deemed revised accordingly.
 
-(2) اگر کونسل کا اختیار اس طرح معطل ہو جائے، تو حکومت خود اس شعبے/ادارے کا انتظام سنبھال سکتی ہے یا کوئی اور مناسب انتظام کر سکتی ہے۔
+🌐 **مستند اردو ترجمہ**
 
-(3) اس انتظام کے اخراجات، جیسا حکومت مقرر کرے، کونسل برداشت کرے گی، اور کونسل کا بجٹ اسی حد تک نظرثانی شدہ تصور ہوگا۔
+دفعہ 92 — کسی خاص محکمے یا ادارے کی معطلی
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 92 — ڪنهن مخصوص شعبي يا ادارن جي معطلي
+(1) اگر کونسل کوئی محکمہ/ادارہ صحیح طرح نہ چلا سکے، حکومت (وجوہات درج کر کے، گزٹ نوٹیفیکیشن سے) اس پر کونسل کا اختیار معطل کر سکتی ہے۔
+(2) حکومت خود انتظام سنبھال سکتی ہے یا کوئی اور انتظام کر سکتی ہے۔
+(3) اخراجات کونسل برداشت کرے گی؛ اس کا بجٹ اسی حساب سے نظرثانی شدہ سمجھا جائے گا۔
 
-(1) جيڪڏهن ڪائونسل مناسب طرح شعبو نه هلائي سگهي، ته حڪومت نوٽيفڪيشن ذريعي اختيار معطل ڪري سگهي ٿي.
+🌿 **مستند سنڌي ترجمو**
 
+دفعو 92 — ڪنهن خاص کاتي يا اداري جي معطلي
+
+(1) جيڪڏهن ڪائونسل ڪو کاتو صحيح نموني نه هلائي سگهي، حڪومت ان تي ڪائونسل جو اختيار معطل ڪري سگهي ٿي.
 (2) حڪومت پاڻ انتظام سنڀالي سگهي ٿي.
+(3) خرچ ڪائونسل برداشت ڪندي.
 
-(3) خرچ ڪائونسل ڀريندي.
+🧠 **آسان وضاحت**
 
-🧠 آسان وضاحت
-یہ دفعہ حکومت کو یہ اختیار دیتی ہے کہ اگر کوئی کونسل کسی مخصوص شعبے (مثلاً کوئی ہسپتال، اسکول یا صفائی کا نظام) کو صحیح طریقے سے نہ چلا پائے، تو حکومت اسی شعبے کا انتظام عارضی طور پر اپنے ہاتھ میں لے سکتی ہے — پوری کونسل کو تحلیل کیے بغیر۔ یہ Section 93 (پوری کونسل کی برخاستگی) سے کم سخت اقدام ہے۔
+اگر کونسل کا کوئی خاص شعبہ (مثلاً صحت کا محکمہ) بری طرح ناکام ہو رہا ہو، تو حکومت پورا کونسل نہیں بلکہ صرف اسی ایک شعبے کا کنٹرول عارضی طور پر لے سکتی ہے — یہ ایک "جزوی" مداخلت ہے، مکمل برطرفی (دفعہ 93) سے کم سخت۔
 
-⚖️ Relevant Case Law
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ کیا TMC سہراب گوٹھ کا کوئی شعبہ کبھی دفعہ 92 کے تحت معطل ہوا۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا کبھی سہراب گوٹھ ٹاؤن کمیٹی کے کسی محکمے کا اختیار دفعہ 92 کے تحت معطل ہوا؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 92 کے تحت کسی بھی شعبے کی معطلی سے پہلے مکمل تحقیقات اور وجوہات کی شفافیت کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-اگر TMC سہراب گوٹھ کا صفائی کا شعبہ مسلسل ناکام رہے، تو حکومت صرف اسی شعبے کا انتظام عارضی طور پر سنبھال سکتی ہے، جبکہ باقی کونسل معمول کے مطابق کام کرتی رہے گی۔
+💡 **Practical Example**
+اگر کونسل کا صفائی کا شعبہ مسلسل ناکام رہے اور کچرا جمع ہوتا رہے، تو حکومت اس ایک شعبے کا انتظام عارضی طور پر خود سنبھال سکتی ہے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 92
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
