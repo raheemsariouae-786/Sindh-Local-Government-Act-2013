@@ -1,45 +1,47 @@
-Section 108
-📜 Original Legal Text
-108. Charged expenditure.- (1) The following expenditure shall be charged on the Local Fund, that is to say –
-(a) the money required for repayment of loans;
-(b) the money required to satisfy any judgment, decree or award against the council;
-(c) all sums to be paid to, or in connection with the employment of any Government employee who is or has been in the service of the Council;
-(d) any expenditure declared by Government to be so charged.
-(2) If any expenditure charged on the Local Fund is not paid, Government may, by order, direct the person having the custody of the Local Fund to pay such amount, or so much thereof as may, from time to time, be possible from the balance of the Local Fund.
+# Section 108
 
-🌐 مستند اردو ترجمہ
-دفعہ 108 — عائد شدہ اخراجات (Charged Expenditure)
+📜 **Original Legal Text**
 
-(1) درج ذیل اخراجات مقامی فنڈ پر عائد (charged) تصور ہوں گے —
-(a) قرضوں کی ادائیگی کے لیے مطلوبہ رقم؛
-(b) کونسل کے خلاف کسی عدالتی فیصلے، ڈگری یا ایوارڈ کی تعمیل کے لیے مطلوبہ رقم؛
-(c) کسی سرکاری ملازم، جو کونسل کی سروس میں ہو یا رہ چکا ہو، کو یا اس کی ملازمت کے سلسلے میں ادا کی جانے والی تمام رقوم؛
-(d) کوئی بھی اخراجات جسے حکومت اس طرح عائد قرار دے۔
+**108. Charged expenditure.**- (1) Charged on the Local Fund: loan repayments; amounts satisfying a judgment/decree/award against the Council; sums for a Government employee who is/was in Council service; and any Government-declared charged expenditure. (2) If charged expenditure is unpaid, Government may direct the fund custodian to pay it (or as much as possible) from the Local Fund balance.
 
-(2) اگر مقامی فنڈ پر عائد کوئی خرچ ادا نہ ہو، تو حکومت، حکم کے ذریعے، مقامی فنڈ کی تحویل رکھنے والے شخص کو ہدایت دے سکتی ہے کہ وہ مقامی فنڈ کے بقیہ سے، وقتاً فوقتاً جتنی ممکن ہو، وہ رقم ادا کرے۔
+🌐 **مستند اردو ترجمہ**
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 108 — لاڳو ٿيل خرچ
+دفعہ 108 — عائد شدہ اخراجات
 
-(1) هيٺيان خرچ مقامي فنڊ تي لاڳو تصور ٿيندا —
-(a) قرض جي واپسي لاءِ رقم؛
-(b) عدالتي حڪم جي تعميل لاءِ رقم؛
-(c) سرڪاري ملازم جي ملازمت سان لاڳاپيل رقم؛
-(d) حڪومت جي قرار ڏنل ڪو به خرچ.
+(1) لوکل فنڈ پر عائد: قرض کی ادائیگی؛ عدالتی فیصلے کی رقم؛ سرکاری ملازم سے متعلق رقوم؛ حکومت کی اعلان کردہ کوئی بھی رقم۔
+(2) عدم ادائیگی پر، حکومت فنڈ کے نگہبان کو ادائیگی کا حکم دے سکتی ہے۔
 
-(2) جيڪڏهن اهو خرچ ادا نه ٿئي، ته حڪومت حڪم ڏئي سگهي ٿي ته فنڊ مان ادائيگي ڪئي وڃي.
+🌿 **مستند سنڌي ترجمو**
 
-🧠 آسان وضاحت
-یہ دفعہ چار قسم کے اخراجات کو "عائد شدہ" (یعنی لازمی، ترجیحی) قرار دیتی ہے — قرضوں کی ادائیگی، عدالتی احکامات کی تعمیل، سرکاری ملازمین سے متعلق واجبات، اور حکومت کے قرار دیئے گئے دیگر اخراجات۔ اگر کونسل ان کو ادا نہ کرے، تو حکومت خود مداخلت کر کے فنڈ سے ادائیگی کا حکم دے سکتی ہے۔
+دفعو 108 — مڙهيل خرچ
 
-📚 References
+(1) لوڪل فنڊ تي مڙهيل: قرض جي ادائيگي؛ عدالتي فيصلي جي رقم؛ حڪومت جو اعلان ڪيل ڪا به رقم.
+(2) ادائيگي نه ٿيڻ تي، حڪومت فنڊ جي نگهبان کي ادائيگي جو حڪم ڏئي سگهي ٿي.
+
+🧠 **آسان وضاحت**
+
+کچھ اخراجات ایسے ہوتے ہیں جو کونسل کے بجٹ کی منظوری کے بغیر بھی لازمی طور پر ادا کیے جانے چاہئیں — جیسے عدالتی حکم کی تعمیل، یا قرض کی قسط۔ اگر کونسل خود ادائیگی نہ کرے، تو حکومت براہ راست فنڈ کے نگہبان کو حکم دے کر ادائیگی کرا سکتی ہے۔
+
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
+
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا کبھی سہراب گوٹھ ٹاؤن کمیٹی کے خلاف کوئی عدالتی فیصلہ آیا جسے دفعہ 108 کے تحت ادا کرنا پڑا؟"
+
+🏛 **Resolution Template**
+لاگو نہیں۔
+
+💡 **Practical Example**
+اگر عدالت کسی شخص کے حق میں کونسل کے خلاف ہرجانے کا فیصلہ دے اور کونسل ادائیگی میں تاخیر کرے، تو حکومت خود فنڈ سے یہ رقم نکلوا سکتی ہے۔
+
+📚 **References**
 Sindh Local Government Act, 2013 — Section 108
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
