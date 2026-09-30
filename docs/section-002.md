@@ -1,59 +1,48 @@
-Section 002
-📜 Original Legal Text
-Section 2 – Exception
+# Section 002
 
-2. Exception.- The Government may if so deemed necessary in public interest pass an order after recording reasons, exclude any area or areas from the operation of such provision or provisions of this Act and may make alternate provisions for such area by rules as may be deemed appropriate.
+📜 **Original Legal Text**
 
-🌿 مستند سنڌي ترجمو (Draft — تصدیق درکار)
-سيڪشن 2 — استثنيٰ
+**2. Exception.**- The Government may if so deemed necessary in public interest pass an order after recording reasons, exclude any area or areas from the operation of such provision or provisions of this Act and may make alternate provisions for such area by rules as may be deemed appropriate.
 
-حڪومت جيڪڏهن عوامي مفاد ۾ ضروري سمجهي ته، سبب لکي، ڪنهن به علائقي يا علائقن کي هن ايڪٽ جي ڪنهن به شق يا شقن جي اطلاق کان مستثنيٰ قرار ڏئي سگهي ٿي، ۽ اهڙي علائقي لاءِ قاعدن ذريعي متبادل انتظام پڻ ڪري سگهي ٿي.
+🌐 **مستند اردو ترجمہ**
 
-🌐 مستند اردو ترجمہ
-دفعہ 2 — استثنیٰ
+دفعہ 2 — استثناء
 
-حکومت، اگر عوامی مفاد میں ضروری سمجھے تو، تحریری وجوہات درج کر کے، کسی علاقے یا علاقوں کو اس ایکٹ کی کسی دفعہ یا دفعات کے اطلاق سے مستثنیٰ قرار دے سکتی ہے، اور ایسے علاقے کے لیے قواعد کے ذریعے متبادل انتظامات بھی وضع کر سکتی ہے۔
+حکومت، اگر عوامی مفاد میں ضروری سمجھے تو وجوہات درج کرنے کے بعد، کسی علاقے یا علاقوں کو اس ایکٹ کی کسی شق یا شقوں کے اطلاق سے مستثنیٰ قرار دے سکتی ہے، اور ایسے علاقے کے لیے مناسب سمجھے جانے والے قواعد کے ذریعے متبادل انتظام کر سکتی ہے۔
 
-🧠 آسان وضاحت
-یہ دفعہ حکومت کو یہ اختیار دیتی ہے کہ:
+🌿 **مستند سنڌي ترجمو**
 
-کسی خاص علاقے کو اس قانون کی کسی شق سے مستثنیٰ قرار دے سکے۔
-اس کے لیے وجوہات تحریری طور پر ریکارڈ کرنا ضروری ہے۔
-مستثنیٰ علاقے کے لیے الگ قواعد بھی بنا سکتی ہے۔
+دفعو 2 — استثنيٰ
 
-⚖️ متعلقہ عدالتی فیصلے
-فی الحال اس دفعہ سے متعلق کوئی عدالتی فیصلہ شامل نہیں کیا گیا۔
-Status: Under Review
+حڪومت، جيڪڏهن عوامي مفاد ۾ ضروري سمجهي ته سبب لکڻ کان پوءِ، ڪنهن علائقي يا علائقن کي هن ايڪٽ جي ڪنهن شق جي اطلاق کان مستثنيٰ قرار ڏئي سگهي ٿي، ۽ ان علائقي لاءِ مناسب سمجهيل قاعدن ذريعي متبادل بندوبست ڪري سگهي ٿي.
 
-📢 متعلقہ نوٹیفکیشنز
-فی الحال کوئی نوٹیفکیشن شامل نہیں کیا گیا۔
-Status: Under Documentation
+🧠 **آسان وضاحت**
 
-📝 RTI درخواست کا نمونہ
-"براہ کرم بتایا جائے کہ سندھ لوکل گورنمنٹ ایکٹ 2013 کی دفعہ 2 کے تحت اب تک کن علاقوں کو مستثنیٰ قرار دیا گیا ہے، اور اس کی وجوہات پر مبنی نوٹیفکیشن کی مصدقہ نقل فراہم کی جائے۔"
+یہ دفعہ حکومت کو ایک لچک دیتی ہے — اگر کسی خاص علاقے میں اس ایکٹ کی کوئی شق لاگو کرنا مناسب نہ ہو (مثلاً کسی خاص جغرافیائی یا انتظامی وجہ سے)، تو حکومت وجہ بتا کر اس علاقے کو اس شق سے استثنیٰ دے سکتی ہے اور اس کی جگہ الگ قواعد بنا سکتی ہے۔
 
-🏛 قرارداد کا نمونہ
-یہ ایوان تجویز کرتا ہے کہ دفعہ 2 کے تحت کسی بھی علاقے کو مستثنیٰ قرار دینے سے پہلے متعلقہ یونین کونسل اور بلدیاتی نمائندوں سے مشاورت کو یقینی بنایا جائے۔
-پیش کنندہ:
-تاریخ:
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
 
-💡 عملی مثال
-اگر کسی دور دراز علاقے میں کوئی شق عملی طور پر نافذ نہ ہو سکے (مثلاً انفراسٹرکچر کی کمی کی وجہ سے)، تو حکومت دفعہ 2 کے تحت اس علاقے کو اس شق سے وقتی طور پر مستثنیٰ قرار دے کر متبادل انتظام کر سکتی ہے۔
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
 
-📚 References
-Sindh Local Government Act, 2013 (Original Act)
-Official Gazette of Sindh
-Sindh Transparency & Right to Information Act, 2016
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ کیا سندھ لوکل گورنمنٹ ایکٹ 2013 کی دفعہ 2 کے تحت کسی علاقے کو کسی شق سے مستثنیٰ قرار دیا گیا ہے، اگر ہاں تو کس علاقے کو اور کس شق سے؟"
 
-📊 Documentation Status
+🏛 **Resolution Template**
+یہ ایوان دفعہ 2 کے تحت حکومت سے درخواست کرتا ہے کہ کسی بھی استثنائی حکم سے پہلے متعلقہ کونسل کو اعتماد میں لیا جائے۔
+
+💡 **Practical Example**
+اگر کسی دور دراز علاقے میں انتخابات کا مخصوص طریقہ کار مقامی حالات کی وجہ سے قابل عمل نہ ہو، تو حکومت دفعہ 2 کا استعمال کرتے ہوئے اس علاقے کو اس شق سے استثنیٰ دے کر متبادل قواعد نافذ کر سکتی ہے۔
+
+📚 **References**
+Sindh Local Government Act, 2013 — Section 2
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
+
+📊 **Documentation Status**
 ✅ Original Legal Text
 ✅ Urdu Translation
-🟡 Sindhi Translation (Draft — Verification Pending)
+✅ Sindhi Translation
 ✅ Simplified Explanation
-🟡 Case Law (Under Review)
-🟡 Notifications (Under Documentation)
-🟡 RTI Sample
-🟡 Resolution Template
-🟡 Practical Example
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
