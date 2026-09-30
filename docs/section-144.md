@@ -1,32 +1,49 @@
-Section 144
-📜 Original Legal Text
-144. Regulation of selection of Councils and conduct of their activities.- Government may by standing order issued from time to time –
-(a) co-ordinate the activities of Councils and Government Departments;
-(b) provide general guidance to the Councils in carrying out the purposes of this Act.
+# Section 144
 
-🌐 مستند اردو ترجمہ
-دفعہ 144 — کونسلوں کے انتخاب اور سرگرمیوں کا ضابطہ
+📜 **Original Legal Text**
 
-حکومت وقتاً فوقتاً جاری کردہ اسٹینڈنگ آرڈر کے ذریعے —
-(a) کونسلوں اور سرکاری محکموں کی سرگرمیوں میں ہم آہنگی پیدا کر سکتی ہے؛
+**144. Regulation of selection of Councils and conduct of their activities.**- Government may by standing order issued from time to time – (a) co-ordinate the activities of Councils and Government Departments; (b) provide general guidance to the Councils in carrying out the purposes of this Act.
+
+🌐 **مستند اردو ترجمہ**
+
+دفعہ 144 — کونسلوں کے انتخاب کا ضابطہ اور ان کی سرگرمیوں کا انتظام
+
+حکومت وقتاً فوقتاً جاری کیے گئے اسٹینڈنگ آرڈر کے ذریعے —
+(a) کونسلوں اور سرکاری محکموں کی سرگرمیوں میں تنظیم و ربط قائم کر سکتی ہے؛
 (b) اس ایکٹ کے مقاصد کی تکمیل میں کونسلوں کو عمومی رہنمائی فراہم کر سکتی ہے۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 144 — ڪائونسلن جي چونڊ ۽ سرگرمين جو ضابطو
+🌿 **مستند سنڌي ترجمو**
 
-حڪومت اسٽينڊنگ آرڈر ذريعي ڪائونسلن ۽ کاتن جي سرگرمين ۾ هم آهنگي پيدا ڪري سگهي ٿي ۽ رهنمائي ڏئي سگهي ٿي.
+دفعو 144 — ڪائونسلن جي چونڊ ۽ سرگرمين جو نظم
 
-🧠 آسان وضاحت
-یہ دفعہ حکومت کو یہ اختیار دیتی ہے کہ وہ مختلف کونسلوں اور سرکاری محکموں کے درمیان تعاون اور ہم آہنگی کو یقینی بنائے، تاکہ کام میں تضاد یا دوہرا پن نہ ہو۔
+حڪومت وقت بوقت جاري ٿيل اسٽينڊنگ آرڊر ذريعي —
+(a) ڪائونسلن ۽ سرڪاري کاتن جي سرگرمين ۾ ربط قائم ڪري سگهي ٿي؛
+(b) هن ايڪٽ جي مقصدن جي تڪميل ۾ ڪائونسلن کي عام رهنمائي ڏئي سگهي ٿي.
 
-📚 References
+🧠 **آسان وضاحت**
+
+حکومت وقتاً فوقتاً ایسے احکامات جاری کر سکتی ہے جن سے کونسلوں اور سرکاری محکموں کے کام میں تنظیم اور ہم آہنگی رہے، اور کونسلوں کو یہ بھی بتایا جا سکے کہ ایکٹ کے مقاصد کیسے حاصل کیے جائیں۔
+
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
+
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ حکومت سندھ نے سہراب گوٹھ ٹاؤن کمیٹی کی سرگرمیوں کے متعلق کون سے اسٹینڈنگ آرڈرز جاری کیے ہیں۔"
+
+🏛 **Resolution Template**
+لاگو نہیں۔
+
+💡 **Practical Example**
+حکومت سندھ کسی اسٹینڈنگ آرڈر کے ذریعے تمام ٹاؤن کمیٹیوں کو ہدایت دے سکتی ہے کہ وہ صفائی کے کام میں متعلقہ سرکاری محکمے کے ساتھ کیسے ہم آہنگی رکھیں۔
+
+📚 **References**
 Sindh Local Government Act, 2013 — Section 144
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026

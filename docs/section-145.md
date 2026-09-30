@@ -1,31 +1,45 @@
-Section 145
-📜 Original Legal Text
-145. Encroachments.- Encroachments shall be dealt with in accordance with the provisions of the laws relating to the removal of encroachments.
+# Section 145
 
-🌐 مستند اردو ترجمہ
+📜 **Original Legal Text**
+
+**145. Encroachments.**- Encroachments shall be dealt with in accordance with the provisions of the laws relating to the removal of encroachments.
+
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 145 — تجاوزات
 
-تجاوزات کو تجاوزات کے خاتمے سے متعلق قوانین کی دفعات کے مطابق نمٹایا جائے گا۔
+تجاوزات سے متعلق معاملات تجاوزات کے خاتمے سے متعلق قوانین کی دفعات کے مطابق نمٹائے جائیں گے۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 145 — تجاوز
+🌿 **مستند سنڌي ترجمو**
 
-تجاوز کي تجاوز جي خاتمي بابت قانونن مطابق منهن ڏنو ويندو.
+دفعو 145 — قبضا (تجاوزات)
 
-🧠 آسان وضاحت
-یہ ایک مختصر مگر عملی دفعہ ہے — یہ خود تجاوزات ختم کرنے کا تفصیلی طریقہ کار نہیں بتاتی، بلکہ یہ حوالہ دیتی ہے کہ یہ کام کسی الگ، مخصوص قانون (تجاوزات کے خاتمے سے متعلق قانون) کے تحت ہوگا۔ یعنی SLGA خود تجاوز ہٹانے کا طریقہ کار نہیں بناتا، بلکہ اسے دوسرے متعلقہ قانون کے حوالے کرتا ہے۔
+تجاوزات جي معاملن کي تجاوزات جي خاتمي واري قانون جي شقن مطابق منهن ڏنو ويندو.
 
-📝 RTI Sample
-"براہ کرم بتایا جائے کہ سہراب گوٹھ میں تجاوزات کے خاتمے کے لیے کون سا مخصوص قانون لاگو ہوتا ہے اور اس کا نافذ کرنے والا ادارہ کون سا ہے۔"
+🧠 **آسان وضاحت**
 
-📚 References
+یہ دفعہ خود تجاوزات ہٹانے کا مکمل طریقہ کار نہیں دیتی، بلکہ کہتی ہے کہ تجاوزات کا معاملہ اس بارے میں موجود علیحدہ قوانین (جیسے تجاوزات کے خاتمے کا قانون) کے مطابق حل کیا جائے گا۔
+
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+فی الحال شامل نہیں۔ Status: Under Documentation
+
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ ٹاؤن کمیٹی کی حدود میں تجاوزات کے خاتمے کے لیے کون سا قانون اور کارروائی اپنائی جاتی ہے۔"
+
+🏛 **Resolution Template**
+"قرارداد: یہ کونسل [مقام] پر موجود غیر قانونی تجاوزات کے خاتمے کے لیے متعلقہ قانون کے تحت کارروائی کی منظوری دیتی ہے۔"
+
+💡 **Practical Example**
+اگر کسی سڑک یا فوٹ پاتھ پر ناجائز تجاوزات ہوں، تو ٹاؤن کمیٹی متعلقہ تجاوزات کے قانون کے تحت انہیں ہٹانے کی کارروائی کرے گی۔
+
+📚 **References**
 Sindh Local Government Act, 2013 — Section 145
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 1.0 | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
