@@ -1,17 +1,45 @@
-Section 134
+# Section 134
 
-Status
-⚠️ Omitted
+📜 **Original Legal Text**
 
-Original Legal Text
-134. [Omitted]
+**134.** *[Omitted by Act No. LIII of 2013, dated 2nd November, 2013]*
 
-Explanation
-یہ دفعہ Act No. LIII/2013, dated 2/11/2013 کے ذریعے حذف کر دی گئی، اس لیے اس کا کوئی مؤثر متن موجود نہیں۔
+🌐 **مستند اردو ترجمہ**
 
-References
-Sindh Local Government Act, 2013
-Section 134 — Omitted (Act No. LIII/2013, dated 2/11/2013)
-Source: Sindh High Court official compiled text
+دفعہ 134 — *[حذف شدہ]*
 
-Version: 1.0 | Last Updated: July 2026
+یہ دفعہ ایکٹ نمبر LIII برائے 2013 کے ذریعے حذف کر دی گئی تھی۔
+
+🌿 **مستند سنڌي ترجمو**
+
+دفعو 134 — *[حذف ٿيل]*
+
+هي دفعو ايڪٽ نمبر LIII، 2013ع ذريعي حذف ڪيو ويو هو.
+
+🧠 **آسان وضاحت**
+
+یہ دفعہ اب قانون کا حصہ نہیں ہے۔
+
+⚖️ **Relevant Case Law**
+فی الحال شامل نہیں۔ Status: Under Review
+
+📢 **Relevant Notifications**
+Act No. LIII of 2013, dated 2 November 2013
+
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ دفعہ 134 میں اصل میں کیا تھا؟"
+
+🏛 **Resolution Template**
+لاگو نہیں (حذف شدہ)۔
+
+💡 **Practical Example**
+لاگو نہیں۔
+
+📚 **References**
+Sindh Local Government Act, 2013 — Section 134 (Omitted)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
+
+📊 **Documentation Status**
+✅ Original Legal Text (noted as omitted) | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
+
+**Version:** 1.0 | **Last Updated:** September 2026

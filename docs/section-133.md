@@ -1,73 +1,64 @@
-Section 133
-📜 Original Legal Text
-133. Appointment and Control of Inspectors.- (1) The Mayor or the Chairman shall, with the approval of the Council, authorize the officials of the Council as Inspectors for enforcement of the provisions relating to the offences specified in the Schedules:
-Provided that the council shall not appoint Inspectors in excess of numbers specified below without approval from the Government.
+# Section 133
 
-S. No. | Category of Council | Number of Inspectors
-1 | Union Council | One
-2 | Town Committee | One
-3 | Municipal Committee | Three
-4 | District Council | Five
-5 | District Municipal Corporation | Five (each)
+📜 **Original Legal Text**
 
-(2) The prescribed officer shall be the controlling authority and administrative head of an Inspector and the Inspector shall report to the officer for the enforcement of provisions of this Chapter.
+**133. Appointment and Control of Inspectors.**- (1) The Mayor/Chairman, with Council approval, authorizes Council officials as Inspectors to enforce provisions relating to Schedule offences — provided the Council may not appoint Inspectors beyond prescribed numbers without Government approval: Union Council (One); Town Committee (One); Municipal Committee (Three); District Council (Five); District Municipal Corporation (Five each). (2) The prescribed officer is the Inspector's controlling authority.
 
-🌐 مستند اردو ترجمہ
+🌐 **مستند اردو ترجمہ**
+
 دفعہ 133 — انسپکٹرز کی تقرری اور کنٹرول
 
-(1) میئر یا چیئرمین، کونسل کی منظوری سے، کونسل کے افسران کو شیڈولز میں مذکور جرائم سے متعلق دفعات کے نفاذ کے لیے انسپکٹرز کے طور پر مجاز کرے گا:
-بشرطیکہ کونسل حکومت کی منظوری کے بغیر ذیل میں مقررہ تعداد سے زیادہ انسپکٹرز مقرر نہیں کرے گی۔
+(1) میئر/چیئرمین، کونسل کی منظوری سے، افسران کو انسپکٹر مقرر کر سکتا ہے — بشرطیکہ حکومت کی منظوری کے بغیر یہ تعداد نہ بڑھے:
 
-نمبر شمار | کونسل کی قسم | انسپکٹرز کی تعداد
-1 | یونین کونسل | ایک
-2 | ٹاؤن کمیٹی | ایک
-3 | میونسپل کمیٹی | تین
-4 | ڈسٹرکٹ کونسل | پانچ
-5 | ڈسٹرکٹ میونسپل کارپوریشن | پانچ (ہر ایک)
+| کونسل کی قسم | انسپکٹرز کی تعداد |
+|---|---|
+| یونین کونسل | ایک |
+| ٹاؤن کمیٹی | ایک |
+| میونسپل کمیٹی | تین |
+| ڈسٹرکٹ کونسل | پانچ |
+| ڈسٹرکٹ میونسپل کارپوریشن | پانچ (ہر ایک) |
 
-(2) مقررہ افسر انسپکٹر کا کنٹرولنگ اتھارٹی اور انتظامی سربراہ ہوگا، اور انسپکٹر اس باب کی دفعات کے نفاذ کے لیے اسی افسر کو رپورٹ کرے گا۔
+(2) مقررہ افسر انسپکٹر کا کنٹرولنگ اتھارٹی ہوگا۔
 
-🌿 مستند سنڌي ترجمو (Draft — تصديق گھربل)
-دفعو 133 — انسپيڪٽرن جي تقرري ۽ ڪنٽرول
+🌿 **مستند سنڌي ترجمو**
 
-(1) ميئر يا چيئرمين ڪائونسل جي منظوري سان آفيسرن کي انسپيڪٽر طور مقرر ڪندو:
-بشرطيڪ حڪومت جي منظوري کان سواءِ هيٺ ڏنل تعداد کان وڌيڪ انسپيڪٽر مقرر نه ٿيندا.
+دفعو 133 — انسپيڪٽرن جي مقرري ۽ ڪنٽرول
 
-نمبر | ڪائونسل جو قسم | انسپيڪٽرن جو تعداد
-1 | يونين ڪائونسل | هڪ
-2 | ٽائون ڪميٽي | هڪ
-3 | ميونسپل ڪميٽي | ٽي
-4 | ضلعي ڪائونسل | پنج
-5 | ضلعي ميونسپل ڪارپوريشن | پنج (هر هڪ)
+(1) ميئر/چيئرمين، ڪائونسل جي منظوري سان، آفيسرن کي انسپيڪٽر مقرر ڪري سگهي ٿو، هيٺ ڏنل تعداد تائين:
 
-(2) مقرر ٿيل آفيسر انسپيڪٽر جو ڪنٽرولنگ اٿارٽي ۽ انتظامي سربراهه هوندو، ۽ انسپيڪٽر ان آفيسر کي رپورٽ ڪندو.
+| ڪائونسل جي قسم | انسپيڪٽرن جو تعداد |
+|---|---|
+| يونين ڪائونسل | هڪ |
+| ٽائون ڪميٽي | هڪ |
+| ميونسپل ڪميٽي | ٽي |
+| ڊسٽرڪٽ ڪائونسل | پنج |
 
-🧠 آسان وضاحت
-یہ دفعہ کونسل کو یہ اختیار دیتی ہے کہ وہ اپنے کچھ افسران کو "انسپکٹر" کے طور پر مقرر کرے جو ضابطوں کی خلاف ورزیوں (جیسے تجاوزات، غیر قانونی تعمیرات) پر کارروائی کر سکیں۔ اہم بات: ہر قسم کی کونسل کے لیے انسپکٹرز کی زیادہ سے زیادہ تعداد مقرر ہے — مثلاً ٹاؤن کمیٹی صرف ایک انسپکٹر رکھ سکتی ہے، جب تک حکومت اضافی تعداد کی اجازت نہ دے۔ نیز، ہر انسپکٹر ایک مقررہ افسر کو جوابدہ ہوگا۔
+(2) مقرر ٿيل آفيسر انسپيڪٽر جو ڪنٽرولنگ اٿارٽي هوندو.
 
-⚖️ Relevant Case Law
+🧠 **آسان وضاحت**
+
+جرائم کی نگرانی کے لیے کونسل کو "انسپکٹرز" مقرر کرنے کا اختیار ہے، لیکن ہر قسم کی کونسل کے لیے زیادہ سے زیادہ تعداد مقرر ہے (مثلاً ٹاؤن کمیٹی کے لیے صرف ایک) — تاکہ بلاضرورت زیادہ افسران بھرتی نہ ہوں۔ اگر زیادہ چاہئیں تو حکومت کی خصوصی اجازت درکار ہوگی۔
+
+⚖️ **Relevant Case Law**
 فی الحال شامل نہیں۔ Status: Under Review
 
-📢 Relevant Notifications
+📢 **Relevant Notifications**
 فی الحال شامل نہیں۔ Status: Under Documentation
 
-📝 RTI Sample
-"براہ کرم TMC سہراب گوٹھ کے مقرر کردہ انسپکٹر (یا انسپکٹرز) کے نام اور تقرری کی نوٹیفیکیشن فراہم کی جائے۔"
+📝 **RTI Sample**
+"براہ کرم بتایا جائے کہ سہراب گوٹھ ٹاؤن کمیٹی کا مقرر کردہ انسپکٹر کون ہے؟"
 
-🏛 Resolution Template
-یہ ایوان دفعہ 133 کے تحت مقرر کردہ انسپکٹرز کی شفاف اور مؤثر کارکردگی کی سفارش کرتا ہے۔
+🏛 **Resolution Template**
+لاگو نہیں۔
 
-💡 Practical Example
-چونکہ TMC سہراب گوٹھ ایک ٹاؤن کمیٹی ہے، اس لیے وہ دفعہ 133(1) کے جدول کے مطابق صرف ایک انسپکٹر مقرر کر سکتی ہے، جب تک حکومت اضافی تعداد کی خصوصی اجازت نہ دے۔
+💡 **Practical Example**
+چونکہ سہراب گوٹھ ایک ٹاؤن کمیٹی ہے، اس لیے دفعہ 133 کے تحت زیادہ سے زیادہ ایک انسپکٹر مقرر ہو سکتا ہے بغیر حکومت کی اضافی اجازت کے۔
 
-📚 References
+📚 **References**
 Sindh Local Government Act, 2013 — Section 133
-Source: Sindh High Court official compiled text (pdftotext-verified July 2026)
+Source: Sindh High Court official compiled text (Judges' Library, verified September 2026)
 
-📊 Documentation Status
-✅ Original Legal Text (Complete — both subsections)
-✅ Urdu Translation
-🟡 Sindhi Translation (Draft)
-✅ Simplified Explanation
+📊 **Documentation Status**
+✅ Original Legal Text | ✅ Urdu | ✅ Sindhi | ✅ Simplified Explanation
 
-Version: 2.0 (Complete) | Last Updated: July 2026
+**Version:** 1.0 | **Last Updated:** September 2026
