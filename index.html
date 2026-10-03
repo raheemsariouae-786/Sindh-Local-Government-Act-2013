@@ -198,7 +198,8 @@ const SCHEDULES = [
   { file: "4",   title: "Schedule IV", subtitle: "Functions of Union Councils & Union Committees" },
   { file: "5",   title: "Schedule V", subtitle: "Taxes, Rates, Tolls and Fees" },
   { file: "6",   title: "Schedule VI", subtitle: "Offences (Parts I & II)" },
-  { file: "7-8", title: "Schedules VII & VIII", subtitle: "Rules-making & Bye-law-making matters" }
+  { file: "7",   title: "Schedule VII", subtitle: "Rules-making matters (Section 138)" },
+  { file: "8",   title: "Schedule VIII", subtitle: "Bye-law-making matters (Section 139)" }
 ];
 
 // Sections inserted later by amendments — not reachable by the plain 1..161
@@ -257,7 +258,8 @@ function buildSchedulesTab() {
   const container = document.getElementById('schedulesContainer');
   let html = '';
   SCHEDULES.forEach(s => {
-    html += `<a href="view.html?sch=${s.file}"><span>${s.title}<span class="sub">${s.subtitle}</span></span><span class="status-tag">دیکھیں</span></a>`;
+    const hash = s.anchor ? `#${s.anchor}` : '';
+    html += `<a href="view.html?sch=${s.file}${hash}"><span>${s.title}<span class="sub">${s.subtitle}</span></span><span class="status-tag">دیکھیں</span></a>`;
   });
   container.innerHTML = html;
 }
