@@ -201,6 +201,17 @@ const SCHEDULES = [
   { file: "7-8", title: "Schedules VII & VIII", subtitle: "Rules-making & Bye-law-making matters" }
 ];
 
+// Sections inserted later by amendments — not reachable by the plain 1..161
+// numeric loop below, so they are listed separately and merged in by sortKey.
+// sortKey places them right after their "parent" section (e.g. 18-A/18-B
+// right after 18, before 19).
+const EXTRA_SECTIONS = [
+  { fileId: "018-A", sortKey: 18.1, label: "دفعہ 18-A" },
+  { fileId: "018-B", sortKey: 18.2, label: "دفعہ 18-B" },
+  { fileId: "153-A", sortKey: 153.1, label: "دفعہ 153-A" },
+  { fileId: "153-B", sortKey: 153.2, label: "دفعہ 153-B" }
+];
+
 function chapterFor(n) {
   const c = CHAPTERS.find(c => n >= c.start && n <= c.end);
   return c ? c.title : "دیگر / Other Sections";
@@ -211,18 +222,26 @@ function chapterNumFor(n) {
   return c ? c.num : null;
 }
 
-async function checkSection(n) {
-  const num = String(n).padStart(3, '0');
-  const url = `docs/section-${num}.md`;
+async function checkSectionFile(fileId) {
+  const url = `docs/section-${fileId}.md`;
   try {
     const res = await fetch(url, { method: 'GET', cache: 'no-store' });
     if (!res.ok) return null;
     const text = await res.text();
     const isOmitted = text.includes('⚠️ Omitted') || text.includes('Officially Omitted');
-    return { num: n, exists: true, omitted: isOmitted, num_padded: num };
+    return { exists: true, omitted: isOmitted };
   } catch (e) {
     return null;
   }
+}
+
+// Fetches a numeric section, retrying once on failure (handles transient
+// network hiccups so a single dropped request doesn't hide a real section).
+async function checkSection(n) {
+  const num = String(n).padStart(3, '0');
+  let r = await checkSectionFile(num);
+  if (!r) r = await checkSectionFile(num); // one retry
+  return r ? { num: n, sortKey: n, fileId: num, label: `دفعہ ${n}`, exists: true, omitted: r.omitted } : null;
 }
 
 function buildChaptersTab() {
@@ -254,15 +273,25 @@ async function buildSectionsTab() {
     const batchResults = await Promise.all(batchPromises);
     batchResults.forEach(r => { if (r) results.push(r); });
   }
-  results.sort((a, b) => a.num - b.num);
+
+  // Merge in the alphanumeric sections inserted by amendments (18-A, 18-B,
+  // 153-A, 153-B) — these can't come from the numeric loop above.
+  const extraResults = await Promise.all(EXTRA_SECTIONS.map(async e => {
+    let r = await checkSectionFile(e.fileId);
+    if (!r) r = await checkSectionFile(e.fileId); // one retry
+    return r ? { sortKey: e.sortKey, fileId: e.fileId, label: e.label, exists: true, omitted: r.omitted } : null;
+  }));
+  extraResults.forEach(r => { if (r) results.push(r); });
+
+  results.sort((a, b) => a.sortKey - b.sortKey);
 
   document.getElementById('loadingMsg').style.display = 'none';
 
   const completeCount = results.filter(r => !r.omitted).length;
   const omittedCount = results.filter(r => r.omitted).length;
   document.getElementById('progressStats').innerHTML =
-    `فی الحال <strong>${TOTAL_SECTIONS}</strong> میں سے <strong>${results.length}</strong> دفعات دستیاب ہیں ` +
-    `(${completeCount} مکمل، ${omittedCount} سرکاری طور پر Omitted) — ` +
+    `فی الحال <strong>${TOTAL_SECTIONS}</strong> بنیادی دفعات میں سے <strong>${results.length}</strong> دفعات دستیاب ہیں ` +
+    `(${completeCount} مکمل، ${omittedCount} سرکاری طور پر Omitted؛ اس میں ترمیم شدہ دفعات 18-A، 18-B، 153-A، 153-B بھی شامل ہیں) — ` +
     `<strong>17</strong> چیپٹرز اور <strong>8</strong> شیڈولز بھی مکمل دستیاب ہیں۔`;
 
   const container = document.getElementById('sectionsContainer');
@@ -274,19 +303,19 @@ async function buildSectionsTab() {
   let currentChapter = null;
   let html = '';
   results.forEach(r => {
-    const chap = chapterFor(r.num);
+    const chap = chapterFor(r.sortKey);
     if (chap !== currentChapter) {
       if (currentChapter !== null) html += '</div>';
       html += `<div class="chapter-block"><div class="chapter-title">${chap}</div><div class="section-list">`;
       currentChapter = chap;
     }
     const label = r.omitted
-      ? `دفعہ ${r.num} — Omitted`
-      : `دفعہ ${r.num}`;
+      ? `${r.label} — Omitted`
+      : r.label;
     const tagClass = r.omitted ? 'status-tag omitted-tag' : 'status-tag';
     const tagText = r.omitted ? 'Omitted' : 'مکمل';
     const linkClass = r.omitted ? 'omitted' : '';
-    html += `<a href="view.html?s=${r.num}" class="${linkClass}">${label}<span class="${tagClass}">${tagText}</span></a>`;
+    html += `<a href="view.html?s=${r.fileId}" class="${linkClass}">${label}<span class="${tagClass}">${tagText}</span></a>`;
   });
   html += '</div>';
   container.innerHTML = html;
